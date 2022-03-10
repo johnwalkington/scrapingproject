@@ -3,7 +3,7 @@
 from requests import get
 from bs4 import BeautifulSoup
 
-response = get('https://austin.craigslist.org/')
+response = get('https://austin.craigslist.org/search/mca')
 
 html_soup = BeautifulSoup(response.text, 'html.parser')
 
