@@ -1,6 +1,6 @@
 import pandas as pd
 df=pd.read_csv("/Users/minjinkang/Desktop/scrapingproject/code/Major_Cities_Moto_Data.csv")
-
+import os
 import re
 df=df[df['Price']!=0]
 df['year']=df['Product'].apply(lambda x: x.split()[-1] if x.split()[-1].isnumeric() and 
@@ -15,4 +15,6 @@ final=df[df['year'] != 'Unknown']
 final=final.reset_index()[['Product','Price','year','City']]
 
 
-print(final)
+os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
+final.to_csv("product_price_year_city.csv")
+
