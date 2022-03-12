@@ -1,7 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-import os 
+#import os 
 
 my_headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OSX 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36", 
           "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"}
@@ -41,11 +41,15 @@ texas_cities = ['abilene', 'amarillo', 'beaumont', 'austin', 'collegestation',
                'easttexas', 'waco', 'galveston', 'brownsville']
 for city in texas_cities: 
     base = 'https://' + city + '.craigslist.org/search/mca'
-    dfs.append(url_to_df(base))
+    df = url_to_df(base)
+    df['City'] = city
+    dfs.append(df)
     for i in range(120, 120*100, 120): 
         if url_to_df(base + '?s=' + str(i)).empty: 
             break
-        dfs.append(url_to_df(base + '?s=' + str(i)))
+        df2 = url_to_df(base + '?s=' + str(i))
+        df2['City'] = city
+        dfs.append(df2)
         
 final_df = pd.concat(dfs, ignore_index = True)
 
