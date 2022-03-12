@@ -12,6 +12,7 @@ df['year']=df['year'].apply(lambda x: x.split()[1] if x.split()[0].lower() == "u
 df['year']=df['year'].apply(lambda x: x if x.isnumeric() and len(x) ==4 else 'Unknown')
 
 final=df[df['year'] != 'Unknown']
-final=final.reset_index()[['Product','Price','year']]
+final=final.reset_index()[['Product','Price','year','City']]
 
 
+print(final)
