@@ -15,6 +15,25 @@ final=df[df['year'] != 'Unknown']
 final=final.reset_index()[['Product','Price','year','City']]
 
 
+final['word_count']=final.Product.str.count(' ')+1
+
+having_one_word=final[final['word_count']==1].index
+clean_product=final.drop(having_one_word)
+
+clean_product['Brand']=clean_product['Product'].apply(lambda x:x.split()[1] if x.split()[0].isnumeric() else x)
+
+including_brand=clean_product[['Product','Price','year','City','Brand']]
+
+#print(including_brand)
+# print(clean_product)
+
+
+# len_list=[]
+# for pro in final['Product']:
+# 	len_list.append(len(pro.split()))
+
+
 os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-final.to_csv("product_price_year_city.csv")
+including_brand.to_csv("product_price_year_city.csv")
+
 
