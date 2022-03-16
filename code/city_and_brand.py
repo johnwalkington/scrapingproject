@@ -32,14 +32,18 @@ including_brand['Brand']= including_brand['Brand'].str.replace(r'[^\w\s]+', '')
 
 including_brand['Brand']= including_brand['Brand'].str.lower()
 
-counts =including_brand['Brand'].value_counts()
-clean_product_2 = including_brand[~including_brand['Brand'].isin(counts[counts < 10].index)]
+# counts =including_brand['Brand'].value_counts()
+# clean_product_2 = including_brand[~including_brand['Brand'].isin(counts[counts < 10].index)]
 
+including_brand = including_brand.drop_duplicates(subset = ['Product', 'Price'])
+including_brand = including_brand.reset_index()[['Product',  'Price', 'year',  'City', 'Brand']]
 
+including_brand = including_brand.drop_duplicates(subset = ['Product'])
+including_brand = including_brand.reset_index()[['Product',  'Price', 'year',  'City', 'Brand']]
 
+including_brand = including_brand.sort_values(by=['Product'])
+including_brand = including_brand.reset_index()[['Product',  'Price', 'year',  'City', 'Brand']]
 
 
 os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-including_brand.to_csv("product_price_year_city.csv")
-
-
+including_brand.to_csv("city_and_brand.csv")
