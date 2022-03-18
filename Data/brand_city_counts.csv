@@ -1,138 +1,122 @@
 ,Brand,City,Count
-0,bmw,abilene,2
-1,bmw,amarillo,1
-2,bmw,austin,10
-3,bmw,beaumont,6
-4,bmw,collegestation,1
-5,bmw,corpuschristi,2
-6,bmw,dallas,18
-7,bmw,easttexas,2
-8,bmw,houston,5
-9,bmw,sanantonio,2
-10,bmw,waco,1
-11,canam,austin,5
-12,canam,beaumont,2
-13,canam,dallas,16
-14,canam,easttexas,1
-15,canam,houston,4
-16,canam,sanantonio,1
-17,ducati,abilene,4
-18,ducati,amarillo,5
-19,ducati,austin,12
-20,ducati,beaumont,4
-21,ducati,corpuschristi,2
-22,ducati,dallas,9
-23,ducati,houston,5
-24,ducati,sanantonio,4
-25,harley,abilene,2
-26,harley,amarillo,10
-27,harley,austin,26
-28,harley,beaumont,12
-29,harley,brownsville,2
-30,harley,collegestation,1
-31,harley,corpuschristi,17
-32,harley,dallas,54
-33,harley,easttexas,10
-34,harley,houston,45
-35,harley,mcallen,6
-36,harley,sanantonio,14
-37,harley,waco,3
-38,harleydavidson,abilene,69
-39,harleydavidson,amarillo,6
-40,harleydavidson,austin,82
-41,harleydavidson,beaumont,6
-42,harleydavidson,corpuschristi,61
-43,harleydavidson,dallas,125
-44,harleydavidson,easttexas,4
-45,harleydavidson,houston,10
-46,harleydavidson,mcallen,7
-47,harleydavidson,sanantonio,20
-48,harleydavidson,waco,3
-49,hd,amarillo,5
-50,hd,austin,2
-51,hd,beaumont,2
-52,hd,dallas,10
-53,hd,houston,3
-54,honda,abilene,4
-55,honda,amarillo,16
-56,honda,austin,56
-57,honda,beaumont,7
-58,honda,brownsville,2
-59,honda,corpuschristi,8
-60,honda,dallas,74
-61,honda,easttexas,5
-62,honda,houston,24
-63,honda,mcallen,1
-64,honda,sanantonio,6
-65,honda,waco,4
-66,indian,abilene,1
-67,indian,amarillo,2
-68,indian,austin,24
-69,indian,beaumont,6
-70,indian,corpuschristi,14
-71,indian,dallas,9
-72,indian,easttexas,1
-73,indian,houston,1
-74,indian,sanantonio,9
-75,indian,waco,1
-76,kawasaki,abilene,7
-77,kawasaki,amarillo,8
-78,kawasaki,austin,25
-79,kawasaki,beaumont,10
-80,kawasaki,brownsville,1
-81,kawasaki,collegestation,1
-82,kawasaki,corpuschristi,6
-83,kawasaki,dallas,74
-84,kawasaki,easttexas,2
-85,kawasaki,houston,15
-86,kawasaki,sanantonio,7
-87,ktm,austin,9
-88,ktm,beaumont,1
-89,ktm,corpuschristi,1
-90,ktm,dallas,16
-91,ktm,houston,2
-92,ktm,sanantonio,1
-93,polaris,abilene,3
-94,polaris,amarillo,1
-95,polaris,austin,3
-96,polaris,dallas,7
-97,polaris,houston,6
-98,suzuki,abilene,3
-99,suzuki,amarillo,3
-100,suzuki,austin,15
-101,suzuki,beaumont,9
-102,suzuki,brownsville,1
-103,suzuki,corpuschristi,6
-104,suzuki,dallas,59
-105,suzuki,easttexas,1
-106,suzuki,houston,10
-107,suzuki,mcallen,1
-108,suzuki,sanantonio,1
-109,suzuki,waco,3
-110,triumph,abilene,2
-111,triumph,austin,22
-112,triumph,beaumont,3
-113,triumph,corpuschristi,3
-114,triumph,dallas,22
-115,triumph,houston,5
-116,triumph,sanantonio,1
-117,triumph,waco,1
-118,victory,amarillo,2
-119,victory,austin,3
-120,victory,beaumont,1
-121,victory,corpuschristi,2
-122,victory,dallas,4
-123,victory,sanantonio,1
-124,victory,waco,1
-125,yamaha,abilene,4
-126,yamaha,amarillo,7
-127,yamaha,austin,28
-128,yamaha,beaumont,4
-129,yamaha,collegestation,1
-130,yamaha,corpuschristi,8
-131,yamaha,dallas,81
-132,yamaha,easttexas,6
-133,yamaha,houston,16
-134,yamaha,mcallen,2
-135,yamaha,sanantonio,2
-136,yamaha,waco,1
+0,BMW,Abilene,2
+1,BMW,Amarillo,1
+2,BMW,Austin,10
+3,BMW,Beaumont,6
+4,BMW,College Station,1
+5,BMW,Corpus Christi,2
+6,BMW,Dallas,18
+7,BMW,East Texas,2
+8,BMW,Houston,5
+9,BMW,San Antonio,2
+10,BMW,Waco,1
+11,Canam,Austin,5
+12,Canam,Beaumont,2
+13,Canam,Dallas,16
+14,Canam,East Texas,1
+15,Canam,Houston,4
+16,Canam,San Antonio,1
+17,Ducati,Abilene,4
+18,Ducati,Amarillo,5
+19,Ducati,Austin,12
+20,Ducati,Beaumont,4
+21,Ducati,Corpus Christi,2
+22,Ducati,Dallas,9
+23,Ducati,Houston,5
+24,Ducati,San Antonio,4
+25,Harley Davidson,Abilene,71
+26,Harley Davidson,Amarillo,21
+27,Harley Davidson,Austin,110
+28,Harley Davidson,Beaumont,20
+29,Harley Davidson,Brownsville,2
+30,Harley Davidson,College Station,1
+31,Harley Davidson,Corpus Christi,78
+32,Harley Davidson,Dallas,189
+33,Harley Davidson,East Texas,14
+34,Harley Davidson,Houston,58
+35,Harley Davidson,Mcallen,13
+36,Harley Davidson,San Antonio,34
+37,Harley Davidson,Waco,6
+38,Honda,Abilene,4
+39,Honda,Amarillo,16
+40,Honda,Austin,56
+41,Honda,Beaumont,7
+42,Honda,Brownsville,2
+43,Honda,Corpus Christi,8
+44,Honda,Dallas,74
+45,Honda,East Texas,5
+46,Honda,Houston,25
+47,Honda,Mcallen,1
+48,Honda,San Antonio,6
+49,Honda,Waco,4
+50,Indian,Abilene,1
+51,Indian,Amarillo,2
+52,Indian,Austin,24
+53,Indian,Beaumont,6
+54,Indian,Corpus Christi,14
+55,Indian,Dallas,9
+56,Indian,East Texas,1
+57,Indian,Houston,1
+58,Indian,San Antonio,9
+59,Indian,Waco,1
+60,KTM,Austin,9
+61,KTM,Beaumont,1
+62,KTM,Corpus Christi,1
+63,KTM,Dallas,16
+64,KTM,Houston,2
+65,KTM,San Antonio,1
+66,Kawasaki,Abilene,7
+67,Kawasaki,Amarillo,8
+68,Kawasaki,Austin,25
+69,Kawasaki,Beaumont,10
+70,Kawasaki,Brownsville,1
+71,Kawasaki,College Station,1
+72,Kawasaki,Corpus Christi,6
+73,Kawasaki,Dallas,74
+74,Kawasaki,East Texas,2
+75,Kawasaki,Houston,15
+76,Kawasaki,San Antonio,7
+77,Polaris,Abilene,3
+78,Polaris,Amarillo,1
+79,Polaris,Austin,3
+80,Polaris,Dallas,7
+81,Polaris,Houston,6
+82,Suzuki,Abilene,3
+83,Suzuki,Amarillo,3
+84,Suzuki,Austin,15
+85,Suzuki,Beaumont,9
+86,Suzuki,Brownsville,1
+87,Suzuki,Corpus Christi,6
+88,Suzuki,Dallas,59
+89,Suzuki,East Texas,1
+90,Suzuki,Houston,10
+91,Suzuki,Mcallen,1
+92,Suzuki,San Antonio,1
+93,Suzuki,Waco,3
+94,Triumph,Abilene,2
+95,Triumph,Austin,22
+96,Triumph,Beaumont,3
+97,Triumph,Corpus Christi,3
+98,Triumph,Dallas,22
+99,Triumph,Houston,5
+100,Triumph,San Antonio,1
+101,Triumph,Waco,1
+102,Victory,Amarillo,2
+103,Victory,Austin,3
+104,Victory,Beaumont,1
+105,Victory,Corpus Christi,2
+106,Victory,Dallas,4
+107,Victory,San Antonio,1
+108,Victory,Waco,1
+109,Yamaha,Abilene,4
+110,Yamaha,Amarillo,7
+111,Yamaha,Austin,28
+112,Yamaha,Beaumont,4
+113,Yamaha,College Station,1
+114,Yamaha,Corpus Christi,8
+115,Yamaha,Dallas,81
+116,Yamaha,East Texas,6
+117,Yamaha,Houston,16
+118,Yamaha,Mcallen,2
+119,Yamaha,San Antonio,2
+120,Yamaha,Waco,1
