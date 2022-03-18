@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[41]:
+# In[3]:
 
 
 #importing necessary libraries
@@ -11,7 +11,7 @@ import os
 from plotnine import *
 
 
-# In[45]:
+# In[4]:
 
 
 #read in data 
@@ -23,7 +23,7 @@ OUTPUT_DIR_DATA = "Data"
 Motorcycles_CV =    pd.read_csv(IN_PATH)
 
 
-# In[43]:
+# In[5]:
 
 
 #data cleaning
@@ -49,7 +49,7 @@ Motorcycles_CV['City'] = Motorcycles_CV['City'].replace(['Sanantonio'],'San Anto
 Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 
 
-# In[44]:
+# In[6]:
 
 
 #peeking at some of the data
@@ -57,14 +57,14 @@ Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 Brand_counts = Motorcycles_CV['Brand'].value_counts()
 
 
-# In[47]:
+# In[7]:
 
 
 #exporting the CSV
 write_df1 = Motorcycles_CV.to_csv(os.path.join(OUTPUT_DIR_DATA, "final_clean.csv"))
 
 
-# In[48]:
+# In[8]:
 
 
 #getting brand by city counts
@@ -75,7 +75,7 @@ brand_city = Motorcycles_CV.groupby(['Brand','City'])['Brand'].count().reset_ind
 write_df2 = brand_city.to_csv(os.path.join(OUTPUT_DIR_DATA, "brand_city_counts.csv"))
 
 
-# In[49]:
+# In[9]:
 
 
 #creating brand popularity plot
@@ -100,16 +100,43 @@ ggsave(filename="plot1.png",
  
 
 
-# In[ ]:
+# In[26]:
 
 
+#creating the data for plot 2
+
+mean_brand = (Motorcycles_CV.groupby('Brand')['Price'].mean())
+
+mean_brand.to_csv(os.path.join(OUTPUT_DIR_DATA, "brand_avgs.csv"))
+
+mean_brand = pd.read_csv(os.path.join("Data", "brand_avgs.csv"))
+
+mean_brand['Price'] = mean_brand['Price'].round()
 
 
-
-# In[ ]:
-
+# In[42]:
 
 
+#Adding Plot 2 
+
+plot_2 = (ggplot(mean_brand)
+ + aes(x='Brand', y='Price', fill= 'Brand')
+ + geom_bar(stat= "identity", size=20)
+ + theme(axis_text_x = element_text(angle=45, hjust=1))
+ + labs(title="Average Price by Motorcycle Brand", 
+         x="Brand", y = "Average Price")
+)
+
+
+#saving brand popularity plot to plot folder
+ggsave(filename = "plot2.png",
+       plot=plot_2,
+       device='png',
+       dpi=300,
+       height= 10,
+       width= 10,
+       path= os.path.join(OUTPUT_DIR_PLOTS)
+      )
 
 
 # In[ ]:
