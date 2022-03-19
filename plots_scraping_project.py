@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[3]:
 
 
 #importing necessary libraries
@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-# In[2]:
+# In[4]:
 
 
 #read in data 
@@ -25,7 +25,7 @@ OUTPUT_DIR_DATA = "Data"
 Motorcycles_CV =    pd.read_csv(IN_PATH)
 
 
-# In[3]:
+# In[19]:
 
 
 #data cleaning
@@ -50,8 +50,10 @@ Motorcycles_CV['City'] = Motorcycles_CV['City'].replace(['Sanantonio'],'San Anto
 
 Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 
+Motorcycles_CV.loc[1462, 'year'] = 2019
 
-# In[4]:
+
+# In[6]:
 
 
 #peeking at some of the data
@@ -59,14 +61,14 @@ Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 Brand_counts = Motorcycles_CV['Brand'].value_counts()
 
 
-# In[5]:
+# In[7]:
 
 
 #exporting the CSV
 write_df1 = Motorcycles_CV.to_csv(os.path.join(OUTPUT_DIR_DATA, "final_clean.csv"))
 
 
-# In[6]:
+# In[8]:
 
 
 #getting brand by city counts
@@ -77,7 +79,7 @@ brand_city = Motorcycles_CV.groupby(['Brand','City'])['Brand'].count().reset_ind
 write_df2 = brand_city.to_csv(os.path.join(OUTPUT_DIR_DATA, "brand_city_counts.csv"))
 
 
-# In[7]:
+# In[9]:
 
 
 #creating brand popularity plot
@@ -102,7 +104,7 @@ ggsave(filename="plot1.png",
  
 
 
-# In[8]:
+# In[10]:
 
 
 #creating the data for plot 2
@@ -116,7 +118,7 @@ mean_brand = pd.read_csv(os.path.join("Data", "brand_avgs.csv"))
 mean_brand['Price'] = mean_brand['Price'].round()
 
 
-# In[9]:
+# In[11]:
 
 
 #Adding Plot 2 
@@ -141,7 +143,7 @@ ggsave(filename = "plot2.png",
       )
 
 
-# In[10]:
+# In[12]:
 
 
 #cleaning data for color plot 
@@ -161,7 +163,7 @@ color_popularity['Color'] = color_popularity['Color'].str.capitalize()
                     
 
 
-# In[11]:
+# In[13]:
 
 
 #plotting color popularity 
@@ -197,7 +199,7 @@ plt.savefig('plots/plot3.png', dpi = 300)
          
 
 
-# In[31]:
+# In[20]:
 
 
 #data wrangling for plot 4
@@ -230,10 +232,40 @@ ggsave(filename = "plot4.png",
 
 
 
-# In[ ]:
+# In[26]:
 
 
 
+# data wrangling 
+
+mean_price_year = (Motorcycles_CV.groupby('year')['Price'].mean())
+
+mean_price_year.to_csv(os.path.join(OUTPUT_DIR_DATA, "mean_price_year.csv"))
+
+mean_price_year = pd.read_csv(os.path.join("Data", "mean_price_year.csv"))
+
+
+
+
+
+
+plot_5 = (ggplot(mean_price_year)
+ + aes(x='year', y='Price')
+ + geom_line()
+ +geom_point() 
+ + labs(title="Average Price by Motorcycle Year", 
+         x="Year", y = "Average Price")
+ 
+)
+
+ggsave(filename = "plot5.png",
+       plot=plot_5,
+       device='png',
+       dpi=300,
+       height= 10,
+       width= 10,
+       path= os.path.join(OUTPUT_DIR_PLOTS)
+      )
 
 
 # In[ ]:
