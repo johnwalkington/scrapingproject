@@ -53,5 +53,5 @@ for city in texas_cities:
         
 final_df = pd.concat(dfs, ignore_index = True)
 
-outpath = os.path.join('code', "Major_Cities_Moto_Data.csv")
+outpath = os.path.join('Data', "Major_Cities_Moto_Data.csv")
 final_df.to_csv(outpath)
