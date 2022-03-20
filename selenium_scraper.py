@@ -105,8 +105,7 @@ del new['City']
 del new['index']
 
 final = new.merge(df, on = 'Product', how = 'inner')
-
-out_path = os.path.join("code", 'Data_without_duplicates_and_all_info.csv')
+out_path = os.path.join("Data", 'Data_without_duplicates_and_all_info.csv')
 final.to_csv(out_path)
 
 
