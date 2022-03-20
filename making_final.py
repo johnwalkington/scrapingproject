@@ -3,7 +3,7 @@ import pandas as pd
 import os
 import re
 
-df=pd.read_csv("/Users/minjinkang/Desktop/scrapingproject/code/Data_without_duplicates_and_all_info.csv")
+df = pd.read_csv(os.path.join('Data', 'Data_without_duplicates_and_all_info.csv'))
 
 df=df.sort_values(by=['Product'])
 df=df.reset_index()[['Product', 'fuel', 'odometer', 'paint_color', 'title_status',  'transmission', 
