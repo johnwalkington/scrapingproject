@@ -11,7 +11,7 @@ import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 
-f = '/Users/patrickpoleshuk/Desktop/Python_Project/scrapingproject/code/scrapingproject/code/product_price_year_city.csv'
+f = os.path.join('code', 'product_price_year_city_final.csv')
 df = pd.read_csv(f).iloc[:, 1:]
 df = df.drop_duplicates(subset = ['Product', 'Price'])
 df = df.reset_index()[['Product',  'Price', 'year',  'City']]
@@ -106,12 +106,8 @@ del new['index']
 
 final = new.merge(df, on = 'Product', how = 'inner')
 
-# os.chdir('/Users/patrickpoleshuk/Desktop/Python_Project/code')
-# final.to_csv('Data_without_duplicates_and_all_info.csv')
-
-
-
-
+out_path = os.path.join("code", 'Data_without_duplicates_and_all_info.csv')
+final.to_csv(out_path)
 
 
 
