@@ -31,8 +31,8 @@ ua = UserAgent()
 user_agent = ua.random
 options.add_argument(f'user-agent={user_agent}')
 
-path = '/Users/patrickpoleshuk/Downloads/chromedriver 3'
-driver = webdriver.Chrome(path, chrome_options=options)
+chrome_path = os.path.join('Downloads', 'chromedriver 3')
+driver = webdriver.Chrome(chrome_path, chrome_options=options)
 
 
 json = {}
