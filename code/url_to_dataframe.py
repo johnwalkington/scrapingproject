@@ -1,7 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-#import os 
+import os 
 
 my_headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OSX 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36", 
           "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"}
@@ -53,5 +53,5 @@ for city in texas_cities:
         
 final_df = pd.concat(dfs, ignore_index = True)
 
-#os.chdir('/Users/patrickpoleshuk/Desktop/Python_Project/scrapingproject/code')
-#final_df.to_csv('Major_Cities_Moto_Data.csv')
+outpath = os.path.join('code', "Major_Cities_Moto_Data.csv")
+final_df.to_csv(outpath)
