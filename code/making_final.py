@@ -39,7 +39,7 @@ df = df.reset_index()
 df=df[['Product', 'fuel', 'odometer', 'paint_color', 'title_status',  'transmission', 'condition', 'engine_displaement', 
 'type', 'Price', 'year','City','Brand']]
 
-os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-df.to_csv("new_final_clean.csv")
-
   
+outpath = os.path.join('Data', "new_final_clean.csv")
+df.to_csv(outpath)
+

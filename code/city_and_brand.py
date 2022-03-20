@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import re
-df = pd.read_csv(os.path.join('code', 'Major_Cities_Moto_Data.csv'))
+df = pd.read_csv(os.path.join('Data', 'Major_Cities_Moto_Data.csv'))
 
 df=df[df['Price']!=0]
 df['year']=df['Product'].apply(lambda x: x.split()[-1] if x.split()[-1].isnumeric() and 
@@ -43,5 +43,5 @@ including_brand = including_brand.sort_values(by=['Product'])
 including_brand = including_brand.reset_index()[['Product',  'Price', 'year',  'City', 'Brand']]
 
 
-os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-including_brand.to_csv("city_and_brand.csv")
+outpath = os.path.join('Data', "city_and_brand.csv")
+including_brand.to_csv(outpath)
