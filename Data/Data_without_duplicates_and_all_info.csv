@@ -1,0 +1,1808 @@
+,Product,fuel,odometer,paint_color,title_status,transmission,condition,engine_displaement,type,VIN,make,model,Price,year,City
+0,1941 Harley-Davidson Knucklehead w/SC David Mann Wedding SKU:M02,gas,10279,custom,clean,other,,,,,,,79980,1941,dallas
+1,1961 Triumph,,,,,,,,,,,,5750,1961,waco
+2,1965 Triumph w/trailer,gas,1234,,clean,other,fair,,,,,,2500,1965,austin
+3,1969 CB450,gas,1234,,missing,manual,excellent,450,,,,,2500,1969,dallas
+4,1970 500TT Chopper Project,gas,2000,,,manual,,,,,,,3950,1970,dallas
+5,1970 Rupp Roadster Restored Showpiece,gas,222,red,,automatic,like new,172,,,,,4500,1970,houston
+6,1970 Yamaha AT1 125 Enduro,gas,2500,,,manual,,,,,,,3250,1970,corpuschristi
+7,1972 Honda CB350,gas,4283,red,clean,manual,good,350,standard,,,,3000,1972,sanantonio
+8,1972 Vintage Honda CB450,gas,10000,black,clean,manual,,,,,,,4800,1972,austin
+9,1973 Honda CB175,gas,9204,orange,clean,manual,excellent,174,standard,,,,5500,1973,dallas
+10,1973 R60/5 BMW Airhead with original touring cases NICE!,gas,42000,green,clean,manual,excellent,,,,,,5200,1973,austin
+11,1974 Honda CB450 race bike,gas,20,silver,,manual,excellent,498,other,,,,9250,1974,dallas
+12,1974 Yamaha RD 350,gas,8135,red,clean,manual,excellent,350,street,,,,4500,1974,houston
+13,1974 honda cl 450,gas,9865,,,manual,,450,cafe racer,,,,4200,1974,austin
+14,1975 HONDA CB750F,gas,18633,custom,clean,manual,excellent,750,standard,,,,3000,1975,corpuschristi
+15,1975 moto guzzi 850-T,gas,27921,red,clean,manual,excellent,850,sport bike,,,,4500,1975,sanantonio
+16,1977 Honda CB750,gas,100000,,,manual,fair,750,,,,,2500,1977,austin
+17,1977 Honda CT 70,gas,odometer broken,,,manual,,,,,,,1400,1977,sanantonio
+18,1978 Suzuki GS750 OBO,gas,20000,,,manual,,,,,,,800,1978,corpuschristi
+19,1978 Triumph Bonneville Cafe Racer,gas,odometer broken,black,clean,manual,,750,cafe racer,,,,6950,1978,austin
+20,1979 CX500 Cafe Racer Project,gas,1000,custom,parts only,manual,fair,496,cafe racer,PC01E2000893,,,1850,1979,brownsville
+21,1979 Harley-Davidson Sportster,gas,15500,,missing,manual,,1000,,,,,1500,1979,austin
+22,1979 VW Trike!,gas,11162,black,clean,manual,good,1600,trike,,,,4500,1979,dallas
+23,1980 CT 110,gas,4500,red,salvage,manual,excellent,110,moped,,,,3000,1980,dallas
+24,1980 Harley Davidson FLH,gas,9400,black,clean,manual,good,1310,cruiser,,,,8100,1980,amarillo
+25,1980 Harley Davidson Fxwg,gas,10000,,clean,manual,,1350,,,,,5000,1980,austin
+26,"1980 YAHAMA 650cc SX RUNS GREAT ! 17,000 MILES 1ST $2800 CASH !",gas,17000,custom,clean,manual,good,650,,,,,2800,1980,corpuschristi
+27,1980 YAMAHA 650cc SX TWEEN LOOKS AND RUNS GREAT,gas,17000,blue,clean,manual,good,650,,,,,2800,1980,austin
+28,1980 YAMAHA XS,gas,31571,custom,clean,manual,good,1100,cruiser,3J6010064,,,2700,1980,amarillo
+29,1980 Yamaha Cafe Racer,gas,15477,,,manual,good,,cafe racer,,,,2000,1980,mcallen
+30,1981 Harley Shovelhead,gas,72000,,clean,manual,good,,scooter,,,,5000,1981,waco
+31,1982 Honda CB 900,gas,11000,red,clean,manual,good,,dual-sport,,,,3900,1982,austin
+32,1982 Kawasaki 1000 muscle bike,gas,7832,black,clean,manual,excellent,1000,street,,,,3500,1982,houston
+33,1982 Yamaha Virago xv750J,gas,20000,black,clean,manual,good,750,cruiser,,,,1100,1982,corpuschristi
+34,1982 fxb Sturgis,gas,9200,silver,clean,manual,good,,,,,,7500,1982,waco
+35,1983 Honda Gold Wing GL1100 Touring Bike,gas,31700,red,clean,manual,excellent,1100,cruiser,,,,4450,1983,austin
+36,1983 RM250 works replica race ready ahrma suzuki,gas,1234,yellow,missing,manual,excellent,250,dirtbike,,,,5650,1983,sanantonio
+37,1985 Yamaha xj650,gas,28808,red,clean,manual,fair,,street,,,,1500,1985,austin
+38,1986 BMW K75C,gas,25325,blue,clean,automatic,good,750,dual-sport,WB1057402G0130339,,,2700,1986,amarillo
+39,1986 HONDA FATCAT,gas,12345,,,manual,,,,,,,6500,1986,austin
+40,1986 HONDA FATCAT TR200,gas,1223,,,automatic,,,,,,,6500,1986,dallas
+41,1986 Harley Davidson DYNA GLIDE FXRD MOTORCYCLE,gas,500,red,clean,manual,excellent,1340,sport touring,,,,7500,1986,amarillo
+42,1986 Honda Fatcat TR200,gas,1223,,,automatic,,,,,,,6500,1986,dallas
+43,1986 Honda Shadow 1100,gas,19345,black,clean,manual,good,1100,cruiser,,,,2500,1986,austin
+44,1986 Kawasaki ZX900 Ninja,gas,1406,,,manual,excellent,,sport bike,,,,4200,1986,houston
+45,1987 Harley Davidson Softail,gas,13485,,,automatic,excellent,,,,,,7000,1987,dallas
+46,1988 Honda Shadow VT 800,gas,16933,red,clean,manual,good,800,cruiser,,,,2000,1988,amarillo
+47,1990 Suzuki VX800,gas,1111,black,clean,manual,,,,,,,2000,1990,amarillo
+48,1992 BMW R100GSPD,gas,9400,red,salvage,manual,excellent,980,dual-sport,WB1048904N0047252,,,8500,1992,easttexas
+49,1992 YAMAHA FJ 1200 Sport Tourer,gas,33176,blue,clean,manual,excellent,1200,sport touring,,,,2500,1992,corpuschristi
+50,1993 GL 1500 SE GOLDWING CHAMPION MOTOR TRIKE GL 1800 PERFECT ONLY 68K,gas,68060,white,clean,manual,like new,1500,touring,1HFSC2238PA501621,,,13900,1993,houston
+51,1993 Honda Shadow 750,gas,36433,black,clean,manual,excellent,750,cruiser,,,,3200,1993,houston
+52,1994 Honda Shadow 1100,gas,28000,black,clean,manual,good,1100,cruiser,,,,3500,1994,dallas
+53,1994 honda goldwing interstate,gas,72000,red,clean,manual,,,,,,,3500,1994,amarillo
+54,1995 Harley-Davidson Electra Glide Ultra Classic SKU,gas,8212,custom,clean,other,,,,,,,29980,1995,dallas
+55,1995 Superglide / storage unit find,gas,10000000,red,clean,manual,like new,,bobber,,,,7500,1995,austin
+56,1995 honda magna 750,gas,8905,black,missing,manual,fair,,,,,,2000,1995,dallas
+57,1996 Harley Davidson Softail FXSTB-Has the LOPE everyone wants,gas,62000,black,clean,manual,excellent,1380,cruiser,1HD1BPL16TY021886,,,8500,1996,dallas
+58,1996 Honda Goldwing Aspencade Quick Sale,gas,85000,,,manual,,,,,,,3500,1996,austin
+59,1996 YZ250,gas,odometer broken,blue,missing,manual,excellent,250,dirtbike,,,,3500,1996,dallas
+60,1996 sportster 1200 in great shape,gas,7600,black,clean,manual,excellent,1200,chopper,,,,7500,1996,austin
+61,1997 BMW 1200 RT,gas,24000,blue,clean,manual,excellent,1200,touring,,,,12995,1997,austin
+62,1997 Harley FLHRI Road King,gas,11945,black,clean,manual,excellent,1340,cruiser,1HD1FBR17VY600418,,,8000,1997,austin
+63,1997 Harley Fat Boy Low Miles,gas,13000,black,clean,manual,,1340,,,,,11500,1997,corpuschristi
+64,1997 Honda gold wing,gas,122084,white,clean,manual,good,1500,touring,,,,2500,1997,austin
+65,1997 KTM 250 EXC,gas,1000,,,manual,excellent,,,,,,5500,1997,dallas
+66,1997 Kawasaki Ninja ZX-6R,gas,15500,red,clean,manual,good,600,sport bike,,,,3500,1997,dallas
+67,1997 Road King,gas,33000,black,clean,manual,good,1340,touring,,,,8250,1997,houston
+68,1998 Harley Davidson Dyna low Rider,gas,39000,,,manual,like new,,,,,,8000,1998,corpuschristi
+69,1998 Harley Davidson Softail Custom,gas,14700,black,clean,other,good,1485,other,,,,9200,1998,houston
+70,1998 Honda Tour,gas,18000,black,clean,manual,excellent,1100,cruiser,,,,4600,1998,dallas
+71,1998 Honda Valkyrie F6 Nice,gas,22995,black,clean,manual,excellent,1500,cruiser,,,,4900,1998,houston
+72,"1998 KTM 300 EXC, not running",gas,10000,orange,missing,manual,,300,dirtbike,VBKEXK202WM409627,,,1000,1998,austin
+73,1998 Kawasaki Kx125,gas,2500,,,manual,,,,,,,2500,1998,beaumont
+74,1998 Suzuki GSXR 750 SRAD,gas,24463,silver,clean,manual,good,750,sport bike,,,,4000,1998,houston
+75,1998 Suzuki RMX250,gas,250,,,manual,excellent,250,dirtbike,,,,3250,1998,dallas
+76,1998 YAMAHA,gas,22500,red,clean,manual,excellent,1100,sport touring,,,,3650,1998,mcallen
+77,1998 kawasaki Vulcan VN800 classic,gas,39029,,,manual,,,,,,,1500,1998,houston
+78,1999 *Harley-Davidson* *Road* *King* *Classic* *FUEL* INJECTED,other,40470,black,clean,manual,,,,1HD1FRW12XY625548,,,6991,1999,abilene
+79,1999 HD FXDWG,gas,67947,,clean,manual,good,1500,cruiser,1HD1GEV37XY308583,,,6500,1999,amarillo
+80,1999 Harley Fat Boy,gas,28000,black,clean,manual,like new,1400,cruiser,,,,7500,1999,beaumont
+81,1999 Harley-Davidson Dyna Wide Gide,gas,41040,black,clean,manual,excellent,,cruiser,,,,5495,1999,dallas
+82,1999 Kawasaki KLX 300,gas,0,,,manual,good,300,dual-sport,,,,2400,1999,dallas
+83,1999 Kawasaki ZRX1100,gas,13500,green,clean,manual,excellent,1100,sport bike,,,,6500,1999,dallas
+84,1999 Suzuki Intruder 1500,gas,37000,black,clean,manual,good,1500,standard,,,,3200,1999,waco
+85,1999 honda goldwing,gas,53000,black,clean,manual,good,1500,,,,,5000,1999,sanantonio
+86,2000 BMW R1150GS,gas,37000,yellow,clean,manual,like new,1150,dual-sport,,,,6500,2000,corpuschristi
+87,2000 Custom Harley Davidson Duece (FXSTD),gas,18567,custom,clean,manual,excellent,1450,cruiser,,,,9500,2000,dallas
+88,2000 Harley Davidson Dyna Low Rider,gas,6000,,clean,manual,good,,cruiser,,,,8000,2000,houston
+89,2000 Harley Davidson FXD,gas,8574,red,clean,manual,excellent,88,cruiser,,,,5500,2000,sanantonio
+90,2000 Honda gold wing,gas,3054,,clean,manual,excellent,,sport bike,MH3RH06Y6FK007918,,,9500,2000,dallas
+91,2000 KAWASAKI VULCAN 1500 NOMAD FI,gas,26266,red,clean,other,,,,JKBVNAL17YA000249,,,4950,2000,austin
+92,2000 Kawasaki Ninja $2000 OBO,gas,29300,red,clean,manual,good,250,sport bike,,,,2000,2000,beaumont
+93,2000 Kawasaki Ninja ZX12R,gas,37000,orange,clean,manual,excellent,1200,sport bike,,,,4800,2000,dallas
+94,2000 Nighthawk 750,gas,11600,,,manual,,,,,,,3300,2000,austin
+95,2000 SUZUKI INTRUDER 1500cc,gas,0,black,clean,manual,good,1500,cruiser,,,,2999,2000,corpuschristi
+96,2000 Yamaha 1100 Custom,gas,60000,white,clean,manual,good,1100,cruiser,JYAVP11E5YA004158,,,1250,2000,austin
+97,2000 Yamaha V Star Classic,gas,20595,red,clean,manual,excellent,650,cruiser,,,,2500,2000,houston
+98,2000 Yamaha XV1600 Road Star,Unknown,13800,red,clean,other,,,,JYAVP02E4YA007982,,,4499,2000,dallas
+99,2001 FLHRCI Road King,gas,30685,red,clean,manual,excellent,1450,touring,1HD1FRW181Y64XXXX,,,6995,2001,beaumont
+100,2001 Harley Davidson Road King Classic,other,49821,red,clean,other,,,,,,,9900,2001,dallas
+101,2001 Harley-Davidson Sportster 883,gas,20000,white,clean,manual,excellent,883,cruiser,,,,4000,2001,austin
+102,2001 Harley-Davidson Ultra Classic w/Sidecar SKU:M0232,Unknown,69134,blue,clean,other,,,,,,,24980,2001,dallas
+103,2001 Honda 750 ace bobber,gas,10000,black,salvage,manual,good,,bobber,,,,3250,2001,dallas
+104,2001 Honda Valkyrie 1500 F6,gas,12690,black,,manual,excellent,,,,,,6500,2001,amarillo
+105,2001 Triumph Tiger 955i,hybrid,24000,,,automatic,good,,,,,,2495,2001,beaumont
+106,2001 XR80R,gas,1000,,,manual,good,80,dirtbike,,,,1500,2001,austin
+107,2001 Yamaha FZ1,Unknown,21772,blue,clean,other,,,,,,,3490,2001,easttexas
+108,2001 Yamaha Road Star Bagger,gas,20000,,clean,manual,like new,1600,touring,,,,4195,2001,abilene
+109,2001 Yamaha XVS 1100,gas,33000,black,clean,manual,excellent,1100,cruiser,,,,3000,2001,austin
+110,2001 kawasaki Vulcan 800,gas,24000,red,clean,manual,like new,,cruiser,,,,7800,2001,dallas
+111,2002 BMW R1150 RT Motorcycle,gas,120000,,,manual,excellent,,sport touring,,,,3700,2002,austin
+112,2002 HONDA CBR11,gas,40456,black,clean,manual,good,1100,sport bike,JH2SC35002M500365,,,4500,2002,amarillo
+113,2002 Harley Davidson Fatboy,gas,27010,,,manual,,,,,,,6500,2002,easttexas
+114,2002 Harley Davidson Heritage Softail,gas,43353,black,clean,manual,excellent,,cruiser,,,,6500,2002,houston
+115,2002 Harley Davidson Night Train,gas,19335,,,manual,,,,,,,10000,2002,sanantonio
+116,2002 Harley Dyna Low Rider Custom,gas,24500,red,clean,manual,excellent,1449,cruiser,,,,6900,2002,houston
+117,2002 Honda vtx1800,gas,41000,,clean,manual,,,touring,,,,4000,2002,amarillo
+118,2002 cr250r,other,100000,black,,manual,like new,250,dirtbike,,,,3600,2002,dallas
+119,2002 harley davidson sportster,gas,22000,custom,clean,manual,excellent,1200,cruiser,,,,4000,2002,corpuschristi
+120,2003 *Harley-Davidson* *FLHRSEI* *Screamin'* *Egl* *Rd*,other,41380,,clean,manual,,,,1HD1PGE123Y954036,,,11752,2003,abilene
+121,2003 *Harley-Davidson* *Heritage* *Softail* *Classic* *FLSTI*,other,52958,black,clean,manual,,,,1HD1BWB193Y105549,,,7991,2003,abilene
+122,2003 Dyna Wide Glide Harley-Davidson,gas,28000,black,clean,manual,excellent,1400,cruiser,,,,5000,2003,dallas
+123,2003 Harley Davidson,gas,26425,,clean,other,,,,1HD1BHY3X3Y017341,,,15,2003,mcallen
+124,2003 Harley Davidson Electra glide,gas,42000,,,automatic,good,,,,,,5000,2003,houston
+125,2003 Harley Davidson Roadking,gas,10149,red,clean,manual,excellent,88,touring,,,,12000,2003,houston
+126,2003 Harley Davidson Ultra-Classic,gas,25343,black,clean,manual,excellent,1450,touring,1HD1FCW133Y638204,,,9800,2003,dallas
+127,2003 Harley Davidson XLH 883 Custom,gas,30000,blue,clean,manual,good,883,sport touring,,,,5000,2003,dallas
+128,2003 Harley Davidson heritage Softail classic,gas,30,black,clean,manual,good,1400,cruiser,,,,6500,2003,sanantonio
+129,2003 Harley Road King,gas,21000,,clean,manual,,135,,,,,25000,2003,houston
+130,2003 Harley electric glide 100 year anniversary addition,gas,10000,silver,salvage,manual,good,,cruiser,,,,7000,2003,dallas
+131,2003 Harley-Davidson FXST,gas,26425,,clean,other,,,,1HD1BHY3X3Y017341,,,9332,2003,corpuschristi
+132,2003 Honda CR 125 (2 Stroke),gas,Unknown,,,manual,excellent,125,dirtbike,,,,3000,2003,brownsville
+133,2003 Honda VFR800 Interceptor,gas,19547,red,clean,manual,excellent,800,sport touring,,,,4500,2003,austin
+134,2003 Kawasaki EX250 Ninja,gas,25000,yellow,clean,manual,excellent,250,sport bike,,,,2250,2003,austin
+135,2003 Night Train Anniversary,gas,26400,black,lien,manual,good,,,,,,6000,2003,dallas
+136,2003 Suzuki 800 Maurader,gas,8600,grey,clean,manual,excellent,800,cruiser,,,,3000,2003,mcallen
+137,2003 Suzuki INTRUDER VL1500 COBRA pipes (theft recovery),gas,odometer broken,,,manual,,,,,,,950,2003,sanantonio
+138,2003 Suzuki intruder,gas,44000,black,clean,manual,like new,,cruiser,,,,4000,2003,dallas
+139,2003 TTR 125,gas,500,,,manual,,,,,,,1700,2003,austin
+140,2003 Victory V92TC,gas,43000,red,clean,manual,good,1500,cruiser,,,,5000,2003,austin
+141,2003 harley davidson ultra   anniversary,gas,40000,silver,clean,manual,excellent,96,cruiser,,,,8500,2003,houston
+142,2003 honda VTX 1300,gas,7786,,clean,manual,excellent,,sport bike,JKBZXNH10HA004901,,,3100,2003,dallas
+143,2003 kawasaki ZRX 1200R,gas,15000,blue,clean,manual,like new,1200,sport bike,,,,6800,2003,dallas
+144,2003 road king anniversary edition,gas,27000,,,manual,,,,,,,8000,2003,austin
+145,2003 vtx 1800C,gas,42054,black,clean,manual,excellent,1800,cruiser,,,,5000,2003,houston
+146,2004 Big Dog Motorcycles Mastiff,gas,27522,black,clean,other,,,,5J11MBJ174W000205,,,9950,2004,sanantonio
+147,2004 HARLEY DAVIDSON HERITAGE SOFTAIL CLASSIC FLSTI,gas,31711,white,clean,manual,good,1449,cruiser,1HD1BWB104Y031228,,,10000,2004,dallas
+148,2004 HARLEY DAVIDSON ULTRA CLASSIC ELECTRA GLIDE FLHTCUI,gas,30880,red,clean,manual,good,1449,touring,1HD1FCW154Y628145,,,9500,2004,houston
+149,2004 Harley Davidson Road King Custom,gas,17900,black,clean,manual,excellent,1450,cruiser,1HD1FYW134Y725213,,,6800,2004,austin
+150,2004 Harley Davidson Road King FLHRCI,gas,47689,black,clean,manual,,,cruiser,,,,6800,2004,corpuschristi
+151,2004 Harley Davidson Softail Bagger,gas,37887,red,clean,manual,excellent,1442,touring,1HD1BMY354Y048619,,,8100,2004,sanantonio
+152,2004 Harley FXDI Dyna Super Glide®,gas,13200,black,clean,manual,excellent,1449,touring,,,,7999,2004,houston
+153,2004 Harley Softail Deuce CVO,gas,20000,,,manual,,,,,,,15000,2004,austin
+154,2004 Harley-Davidson Fat Boy FLSTFI,gas,27310,red,clean,manual,excellent,,cruiser,,,,7000,2004,dallas
+155,2004 Harley-Davidson® FLSTFI - Softail® Fat Boy®,gas,27310,red,clean,manual,excellent,,cruiser,,,,7996,2004,dallas
+156,2004 Honda CR250X,gas,100,red,,manual,excellent,250,dirtbike,,,,3199,2004,dallas
+157,2004 Honda VFR800,gas,12500,red,clean,manual,excellent,,sport touring,,,,4500,2004,dallas
+158,2004 Honda VTX1300C4,gas,8194,black,clean,manual,good,1300,cruiser,1HFSC55024A009200,,,3600,2004,beaumont
+159,2004 Kawasaki KDX 220r,gas,999,green,clean,manual,excellent,220,dirtbike,,,,4950,2004,dallas
+160,2004 Kawasaki Ninja 636 cc,gas,33186,blue,clean,manual,good,636,sport bike,JKBZXJB114A026224,,,3500,2004,dallas
+161,2004 Ninja ZX12R,gas,10420,blue,clean,manual,,1200,sport bike,,,,5400,2004,corpuschristi
+162,2004 Suzuki GZ 250,gas,7200,black,clean,manual,good,250,cruiser,,,,1250,2004,dallas
+163,2004 Yamaha FJR 1300,gas,50000,silver,clean,manual,good,1300,sport touring,,,,5000,2004,dallas
+164,2004 Yamaha Royal Star Midnight Venture,gas,30000,black,clean,manual,excellent,,touring,,,,6950,2004,houston
+165,2004 Yamaha XVS1100 1100,gas,16000,silver,rebuilt,automatic,good,Unknown,,JYAVP11E64A052472,,,3995,2004,dallas
+166,2004 harley davidson electra glide ultra classic,gas,34000,blue,clean,manual,excellent,,touring,,,,8300,2004,sanantonio
+167,2005 *Harley-Davidson* *Dyna* *Wide* *Glide* *FXDWGI*,other,39329,,clean,manual,,,,1HD1GPW195K300302,,,6782,2005,abilene
+168,2005 BIG DOG BULLDOG SOFTAIL CHOPPER,gas,10800,custom,clean,manual,excellent,117,chopper,,,,10500,2005,houston
+169,2005 HD Softail Deluxe,gas,24000,custom,clean,manual,excellent,1450,touring,1HD1JDB125Y052784,,,7750,2005,dallas
+170,2005 HD VRSCSE Screamin Eagle,gas,1517,red,clean,manual,like new,1250,sport touring,,,,15000,2005,beaumont
+171,2005 Harley 1200 Custom,gas,18000,,clean,manual,,,,,,,4000,2005,dallas
+172,2005 Harley Davidson,gas,3600,black,clean,manual,excellent,88,sport touring,,,,6800,2005,austin
+173,2005 Harley Davidson FLHTCUI,gas,57028,,,manual,excellent,,,,,,15000,2005,amarillo
+174,2005 Harley Davidson Softtail Springer,gas,18438,blue,clean,manual,excellent,,other,,,,10000,2005,austin
+175,2005 Harley Davidson Ultra Classic,gas,36862,,,manual,excellent,,touring,,,,6500,2005,corpuschristi
+176,2005 Harley-Davidson Dyna Super Glide Custom FXDC,gas,41308,red,clean,manual,,,,1HD1GTV105K330444,,,9599,2005,corpuschristi
+177,2005 Harley-Davidson Ultra Classic w/sidecar SKU:M0204,gas,7235,red,clean,manual,,,,,,,32980,2005,dallas
+178,2005 Honda CRF50,gas,1000,,,automatic,,,,,,,1300,2005,austin
+179,2005 Honda Gold Wing California Sidecar Trike,Unknown,24155,silver,clean,manual,,,,1HFSC47065A413724,,,23999,2005,amarillo
+180,2005 Honda VTX 1800,gas,20800,green,clean,manual,like new,1800,cruiser,,,,6500,2005,brownsville
+181,2005 Kawasaki Concours ZG1000,gas,22498,,clean,manual,excellent,1000,sport touring,,,,3200,2005,austin
+182,2005 R6 (NO TITLE),gas,20781,black,missing,manual,good,600,sport bike,,,,3000,2005,dallas
+183,2005 Softail Deluxe,gas,15940,,clean,manual,excellent,1440,cruiser,,,,9500,2005,amarillo
+184,2005 Suzuki 800 Boulavard,gas,14000,blue,clean,manual,excellent,800,cruiser,,,,3500,2005,houston
+185,2005 Suzuki Boulevard M50,gas,8850,black,clean,manual,excellent,805,cruiser,,,,1500,2005,houston
+186,2005 Suzuki V-Strom 1000 Suzuki V-Strom 1000,Unknown,19404,blue,clean,manual,,,,JS1VT53A252101528,,,5999,2005,amarillo
+187,2005 Yamaha 1100 Vstar,gas,7868,,clean,manual,excellent,,cruiser,,,,5999,2005,houston
+188,2005 Yamaha Road Star 1700,gas,23000,red,clean,manual,excellent,1700,,,,,4500,2005,austin
+189,2005 Yamaha V Star,gas,35485,,,manual,,650,,,,,995,2005,easttexas
+190,2005 Yamaha V-Star 650,gas,9800,,,manual,,,,,,,3000,2005,houston
+191,2005 Yamaha VStar 650 For Sale,gas,6667,,,manual,,,,,,,3500,2005,dallas
+192,2005 Yamaha YZFR6 YZFR 6 YZFR-6 YZF R6 YZF-R6  FOR ONLY,gas,16587,,clean,manual,excellent,,standard,JYARJ06Y55A004902,,,5399,2005,dallas
+193,2005 harley davidson 883,gas,22000,silver,clean,manual,excellent,883,,,,,3500,2005,dallas
+194,2005 susuki Gxr,gas,35000,white,,automatic,excellent,,sport bike,,,,3900,2005,dallas
+195,2005 ultra classic Harley,gas,36862,,,manual,excellent,,touring,,,,7500,2005,sanantonio
+196,2005 yamaha r6,gas,8192,,clean,manual,excellent,,sport bike,JYARJ28E7KA005379,,,7000,2005,dallas
+197,2006 CBR 600RR,gas,9945,black,clean,manual,like new,,sport bike,,,,4999,2006,dallas
+198,2006 Dyna Wide Glide FXDWG,gas,15347,white,clean,manual,excellent,1450,cruiser,1HD1GP1126K332XXX,,,7999,2006,beaumont
+199,2006 HARLEY DAVIDSON ULTRA CLASSIC ELECTRAGLIDE FLHTCUI,gas,37126,black,clean,manual,good,,street,1HD1FCW196Y650510,,,9500,2006,dallas
+200,2006 HD Deluxe Softtail,gas,12500,custom,clean,manual,like new,1450,cruiser,,,,9000,2006,dallas
+201,2006 HD FXDL Dyna Low Rider,gas,15969,black,clean,manual,excellent,1556,sport bike,1HD1GN1126K332988,,,7500,2006,houston
+202,2006 HD Fat Boy CVO Screaming Eagle,gas,6457,custom,,manual,excellent,,cruiser,,,,9750,2006,dallas
+203,2006 HONDA DFT GOLDWING TRIKE Honda DFT GOLDWING TRIKE,Unknown,74221,custom,clean,other,,,,1HFSC47F66A512999,,,19999,2006,abilene
+204,2006 Harley Davidson XL Sportster 1200 Custom Bobber,gas,14050,custom,clean,manual,like new,1200,bobber,,,,5000,2006,dallas
+205,2006 Harley-Davidson Electra Glide,gas,54021,black,clean,manual,good,,cruiser,1HD1FCW166Y606206,,,6795,2006,dallas
+206,2006 Honda Goldwing 1800,gas,12002,,,manual,,,,,,,13500,2006,dallas
+207,2006 Honda Goldwing 1800 Navigation & More!,gas,74344,silver,clean,manual,excellent,1832,touring,1HFSC47H06A508688,,,9995,2006,corpuschristi
+208,2006 Honda ST1300 Pan European,gas,75000,black,clean,manual,good,1261,sport touring,JH2SC51066M401184,,,3900,2006,austin
+209,2006 Honda Shadow Aero,gas,13000,orange,clean,automatic,excellent,750,cruiser,,,,4000,2006,houston
+210,2006 Honda VTX 1300 R Honda VTX 1300 R,Unknown,37350,custom,clean,manual,,,,1HFSC52606A303657,,,5999,2006,abilene
+211,2006 Honda VTX 1800,gas,35000,,,manual,excellent,1800,cruiser,,,,6000,2006,austin
+212,2006 Honda shadow aero VT750C,gas,111111,,,manual,good,,chopper,,,,3800,2006,corpuschristi
+213,2006 Honda® VTX 1300 R,Unknown,37350,custom,clean,manual,,,,1HFSC52606A303657,,,4499,2006,dallas
+214,2006 Kawasaki Ninja ZX-6R,gas,30000,black,clean,manual,good,600,sport bike,,,,4000,2006,dallas
+215,2006 Kawasaki Ninja® ZX-6R,gas,32689,blue,clean,other,,,,JKBZXJC106A034090,,,4996,2006,austin
+216,2006 Kawasaki ninja 650,gas,10000,,,manual,,,,,,,3500,2006,beaumont
+217,2006 Suzuki Cruiser Boulevard C50,gas,11716,silver,clean,manual,excellent,820,cruiser,,,,4200,2006,dallas
+218,2006 Suzuki GSXR 750,gas,15000,white,missing,manual,fair,750,sport bike,JS1GR7KA062100738,,,5650,2006,dallas
+219,2006 Suzuki Hayabusa,gas,13000,,,manual,,,,,,,8300,2006,dallas
+220,2006 Suzuki VZR-1800,gas,11,,,manual,,,,,,,3500,2006,dallas
+221,2006 Victory Vegas with apes,gas,14000,,clean,manual,,,cruiser,,,,5000,2006,waco
+222,2006 YAMAHA STRATOLINER,gas,23000,red,clean,manual,good,,cruiser,,,,5800,2006,easttexas
+223,2006 Yamaha,,1959,,,,good,,,,Yamaha,Grizzly 660,2700,2006,austin
+224,2006 Yamaha Road Star,gas,17225,silver,clean,manual,excellent,1700,cruiser,,,,4750,2006,houston
+225,2006 and 2004 Honda ST1300,gas,110049,black,clean,manual,salvage,1300,sport touring,,,,1600,2006,dallas
+226,2006 gsxr 750,gas,15000,white,missing,manual,fair,750,sport bike,JS1GR7KA062100738,,,2500,2006,dallas
+227,2007 CRF450R,gas,10000,,,manual,,,,,,,3550,2007,austin
+228,2007 Electra glide ultra classic,gas,10500,black,clean,manual,like new,1584,touring,,,,8000,2007,sanantonio
+229,2007 FXDB Dyna Street Bob,gas,14000,black,clean,manual,excellent,,,,,,7100,2007,dallas
+230,2007 FXSTD Softail Standard,gas,5062,black,clean,manual,like new,96,sport touring,,,,8700,2007,austin
+231,2007 HARLEY DAVIDSON HERITAGE,gas,6000,black,clean,manual,like new,1650,,,,,8950,2007,houston
+232,2007 HD 883 sportster,gas,28700,black,clean,manual,excellent,,standard,,,,5300,2007,amarillo
+233,2007 Harley Davidson Dyna Super Glide,gas,9023,black,clean,manual,good,1573,cruiser,,,,9000,2007,austin
+234,2007 Harley Davidson FLHX Street Glide,gas,34400,,clean,manual,excellent,96,sport touring,,,,8000,2007,austin
+235,2007 Harley Davidson Night Train,gas,6900,black,clean,manual,excellent,1584,cruiser,,,,10000,2007,houston
+236,2007 Harley Davidson Sportster 1200 Custom,gas,18000,,clean,manual,good,,cruiser,,,,4200,2007,austin
+237,2007 Harley Davidson Street Glide,gas,43000,black,clean,manual,excellent,1584,touring,,,,10900,2007,houston
+238,2007 Harley FLHTCU,gas,36635,,,manual,good,,touring,,,,9500,2007,dallas
+239,2007 Harley Heritage Classic,gas,16049,black,clean,manual,like new,,cruiser,,,,9000,2007,dallas
+240,2007 Harley Nightster,gas,11418,,clean,manual,good,1200,cruiser,,,,6500,2007,dallas
+241,2007 Harley Sportster,gas,12,,,manual,,,,,,,4499,2007,dallas
+242,2007 Harley Sportster 1200cc..Very nice..,gas,12,,,manual,,,,,,,7000,2007,dallas
+243,2007 Harley-Davidson FLSTC Heritage Softail Classic,gas,7385,custom,clean,manual,like new,1584,touring,,,,10000,2007,corpuschristi
+244,2007 Harley-Davidson Fat Boy,gas,18400,black,clean,manual,excellent,,cruiser,1HD1BX5197Y054593,,,8695,2007,dallas
+245,2007 Honda CBR 600RR 600 RR 600-RR for $148/mo a month!,gas,13920,,clean,manual,excellent,,sport bike,JH2PC400X7M010641,,,7195,2007,dallas
+246,2007 Honda CBR1000RR CBR 1000 RR CBR-1000-RR  FOR ONLY,gas,32934,,clean,automatic,excellent,,standard,JH2SC57127M300533,,,5495,2007,dallas
+247,2007 Honda CRF150 F,gas,1000,red,clean,manual,excellent,,dirtbike,,,,1695,2007,corpuschristi
+248,2007 Honda Motorcycle,gas,7442,,,automatic,like new,,other,,,,5000,2007,mcallen
+249,2007 Honda Shadow 750,gas,5255,black,clean,manual,good,750,cruiser,,,,4000,2007,dallas
+250,2007 Honda Shadow Aero For Sale or Trade,gas,2750,black,clean,manual,like new,750,,,,,4250,2007,houston
+251,2007 Honda Touring GL18HPN GOLDWING TRIKE Audio Comfort Navi,gas,27433,black,clean,manual,like new,1800,trike,,,,10900,2007,houston
+252,2007 Honda VTX,gas,28000,black,clean,manual,good,1300,cruiser,,,,4500,2007,easttexas
+253,2007 Honda VTX 1300,gas,20000,black,clean,manual,excellent,,cruiser,,,,4500,2007,houston
+254,2007 Honda crx250,gas,200,red,clean,manual,good,,dirtbike,,,,1800,2007,abilene
+255,2007 KX250F,gas,10,,,manual,excellent,,,,,,2900,2007,austin
+256,2007 Kawasaki Eliminator 125,gas,5400,silver,clean,manual,good,125,cruiser,,,,1100,2007,dallas
+257,2007 Moto Guzzi Nevada Classic,gas,15127,red,clean,manual,excellent,750,cruiser,,,,4800,2007,sanantonio
+258,2007 RM125,gas,odometer broken,,,manual,like new,,,,,,5000,2007,beaumont
+259,2007 Suzuki Bandit 1250,gas,13170,red,clean,manual,fair,1250,sport touring,,,,2900,2007,dallas
+260,2007 Suzuki DL1000 VSTROM,gas,11139,black,clean,manual,excellent,1000,dual-sport,,,,4500,2007,dallas
+261,2007 Suzuki DRZ400S Supermoto,gas,5200,,missing,manual,,,,,,,4000,2007,austin
+262,2007 Suzuki GSXR600 GSXR 600 GSXR-600 GSX R600 GSX-R600,gas,23765,,clean,manual,excellent,,sport bike,JS1GN7DA072101575,,,6799,2007,dallas
+263,2007 Suzuki Hayabusa,gas,18000,,,manual,excellent,,,,,,7500,2007,dallas
+264,2007 Vulcan Nomad 1600,gas,62000,black,clean,manual,good,1600,,,,,4000,2007,waco
+265,2007 XL1200N Nightster,gas,15000,black,clean,manual,excellent,1200,bobber,,,,5000,2007,dallas
+266,2007 Yamaha FZ1,gas,26000,,,manual,,,,,,,5486,2007,dallas
+267,2007 Yamaha Majesty 400cc,diesel,15000,blue,clean,automatic,good,,,,,,2800,2007,sanantonio
+268,2007 Yamaha Majesty 400cc touring,diesel,15000,blue,clean,automatic,good,,,,,,2800,2007,corpuschristi
+269,2007 Yamaha R1,gas,3865,red,clean,manual,like new,1000,sport bike,,,,9500,2007,dallas
+270,2007 Yamaha Roadliner,gas,18211,blue,clean,other,,,,JYAVP21EX7A004015,,,6450,2007,corpuschristi
+271,2007 Yamaha Royal Star,gas,30582,black,rebuilt,manual,good,,touring,,,,5950,2007,easttexas
+272,2007 harley davidson ultra classic,gas,10500,black,clean,manual,like new,1584,touring,,,,9500,2007,sanantonio
+273,2007 yamaha R1 motorcycle,gas,35000,,,manual,,,,,,,7500,2007,beaumont
+274,2008 *Suzuki* *Boulevard* *C50* *VL800*,other,31100,blue,clean,automatic,,,,JS1VS55A082105226,,,3991,2008,abilene
+275,2008 Demented Chopper,gas,600,,clean,manual,excellent,1540,chopper,,,,9500,2008,dallas
+276,2008 Goldwing 1800 / 2016 Motor Trike Razor,gas,51900,,,manual,,,,,,,19100,2008,dallas
+277,2008 HARLEY DAVIDSON ULTRA CLASSIC ELECTRA GLIDE FLHTCUE,gas,58461,black,clean,manual,good,1573,touring,1HD1FC4138Y643414,,,11400,2008,houston
+278,2008 HD ULTRA CLASSIC ELECTRAGLIDE FLHTCU,gas,58461,black,clean,manual,good,1573,touring,1HD1FC4138Y643414,,,11400,2008,dallas
+279,2008 Harley Davidson  ultra,gas,29000,red,clean,manual,excellent,1540,street,,,,9500,2008,houston
+280,2008 Harley Davidson Flhtcuse3 Ultra Classic – CVO – Screamin Eagle An,gas,23426,orange,clean,manual,like new,,touring,,,,15500,2008,austin
+281,2008 Harley Davidson Road King Police,gas,14562,black,clean,manual,excellent,,touring,,,,13500,2008,dallas
+282,2008 Harley Davidson Rocker C FXCWC,gas,30719,blue,clean,manual,excellent,,touring,,,,10000,2008,dallas
+283,2008 Harley Davidson XL1200C Sportster,gas,14000,white,clean,manual,excellent,1200,cruiser,,,,6500,2008,houston
+284,"2008 Harley Davidson, Dyna-Super Glide Custom",gas,17934,yellow,clean,manual,excellent,103,cruiser,,,,8000,2008,easttexas
+285,2008 Harley Electraglide CVO Screamin Eagle Ultra Classic,gas,58000,white,clean,manual,excellent,Unknown,touring,,,,12500,2008,easttexas
+286,2008 Harley Heritage Softail,gas,29000,red,clean,manual,excellent,1540,street,,,,8000,2008,beaumont
+287,2008 Harley Ulta Classic,gas,65000,black,clean,manual,excellent,,,,,,9500,2008,dallas
+288,2008 Harley-Davidson Softail Fat Boy FLSTF,gas,19470,,clean,manual,,,,1HD1BX5488Y050336,,,12614,2008,corpuschristi
+289,2008 Harley-Davidson Sportster 883 Low XL883L,gas,6745,,clean,manual,,,,1HD4CR2178K458751,,,9804,2008,corpuschristi
+290,2008 Honda CBR 1000RR *priced to Sell*,gas,6056,,clean,manual,excellent,,sport bike,JH2PC40J4GK200245,,,6500,2008,beaumont
+291,2008 Honda CBR1000RR CBR 1000 RR CBR-1000-RR  FOR ONLY,gas,16379,,clean,automatic,excellent,,standard,JH2SC59008M000382,,,7995,2008,dallas
+292,2008 Honda CBR600RR,gas,8000,,,manual,,,,,,,4500,2008,austin
+293,2008 Honda CBR600RR CBR 600 RR CBR-600-RR,gas,20907,,clean,manual,good,,sport bike,JH2PC40458M100574,,,7399,2008,dallas
+294,2008 Honda Gold Wing Roadsmith Trike,Unknown,23125,Unknown,clean,manual,,,,1HFSC47F28A713673,,,24999,2008,amarillo
+295,2008 Honda XR650L,gas,2900,red,clean,manual,excellent,650,dual-sport,,,,4600,2008,sanantonio
+296,2008 Honda® Gold Wing® - GL1800HPNM8,Unknown,23125,Unknown,clean,manual,,,,1HFSC47F28A713673,,,10996,2008,dallas
+297,2008 Kawasaki Vulcan 900,gas,12000,silver,clean,manual,excellent,900,cruiser,,,,3150,2008,brownsville
+298,2008 Kawasaki Vulcan 900 Classic LT,gas,8300,red,clean,manual,excellent,900,cruiser,JKAVN2D178A025919,,,4700,2008,dallas
+299,2008 Lambretta Due 50 cc,gas,710,orange,clean,automatic,excellent,50,scooter,RFLDZ05138L000169,,,995,2008,houston
+300,2008 Sreaming eagle FXDSE2,gas,38000,,,manual,,1800,,,,,10000,2008,dallas
+301,2008 Suzuki GSX-R 1000,gas,5400,black,clean,manual,like new,,sport bike,,,,10200,2008,austin
+302,"2008 Thunder Mountain Cycles Keystone 110""",gas,8950,green,clean,other,,,,1T9C1L3B48F717206,,,14950,2008,austin
+303,2008 Triumph Speedmaster 900,gas,3000,,,manual,,,,,,,4000,2008,dallas
+304,2008 Ultra Classic Anniversary Edition,gas,12990,custom,clean,manual,excellent,,touring,,,,12500,2008,houston
+305,2008 Victory Motorcycles® Hammer,gas,18970,,clean,other,,100,,5VPHB26D583007511,,,7450,2008,dallas
+306,2008 Yamaha Raider 1900,gas,15000,,,manual,,1850,chopper,,,,6500,2008,corpuschristi
+307,2008 Yamaha Road Star,gas,52465,blue,clean,manual,excellent,,,,,,5499,2008,dallas
+308,2008 fxdc,gas,42000,,,manual,,,,,,,7000,2008,houston
+309,2008 honda goldwing,gas,56000,red,clean,manual,like new,1800,cruiser,,,,7995,2008,beaumont
+310,2008 used Harley Davidson Street Glide,gas,11066,red,clean,manual,excellent,1800,,,,,10000,2008,sanantonio
+311,2009 BMW R 1200 GSA,gas,67530,red,clean,manual,excellent,1200,dual-sport,,,,8300,2009,beaumont
+312,2009 Fatboy FLSTF,gas,14710,,,manual,like new,96,cruiser,,,,12995,2009,austin
+313,2009 GSXR 600,gas,21931,,clean,manual,excellent,,sport bike,JS1GN7FAXE2100217,,,4650,2009,houston
+314,2009 HARLEY DAVIDSON FLHX STREET GLIDE,gas,36877,,clean,other,,96,,1HD1KB4139Y658096,,,12999,2009,dallas
+315,2009 HARLEY DAVIDSON ROAD KING CLASSIC,gas,56845,custom,clean,automatic,,,,1HD1FR4129Y622770,,,11999,2009,houston
+316,2009 HD FLHTCU,gas,83679,black,clean,manual,good,,cruiser,1HD1FC4119Y640934,,,7900,2009,amarillo
+317,2009 Harley Davidson,gas,16500,blue,clean,manual,excellent,,touring,,,,9000,2009,houston
+318,2009 Harley Davidson FLSTC 96 CI,gas,81419,,rebuilt,manual,,,,,,,6000,2009,dallas
+319,2009 Harley Davidson Sportster XL1200 Nightster,gas,5397,black,clean,manual,excellent,1200,street,,,,7195,2009,waco
+320,2009 Harley Davidson Street Glide,gas,18934,black,clean,manual,excellent,,cruiser,,,,11500,2009,corpuschristi
+321,"2009 Harley Davidson Ultra Classic, Low Miles, Tons of Custom Mods",gas,21000,black,clean,manual,excellent,,cruiser,,,,11500,2009,beaumont
+322,2009 Harley Davidson Ultra Glide,gas,31102,black,clean,other,,96,,1HD1FC4139Y623326,,,8200,2009,dallas
+323,2009 Harley Davidson nightster 1200 good condition,gas,11000,,,manual,,1200,,,,,6800,2009,houston
+324,2009 Harley FLHT,gas,18898,black,clean,manual,excellent,96,,,,,8750,2009,waco
+325,2009 Harley Nighster 1200xl,gas,10000,orange,clean,manual,excellent,1200,street,,,,7000,2009,amarillo
+326,2009 Harley Softail Heritage,gas,10000,,clean,manual,like new,,,,,,100000,2009,houston
+327,2009 Harley Sportster Custom 883,gas,22000,,,manual,,,,,,,7000,2009,dallas
+328,2009 Harley Ultra Classic FLHTCU,gas,53000,,clean,manual,good,1584,touring,,,,10500,2009,houston
+329,2009 Harley softail Rocker,gas,24674,custom,clean,manual,excellent,96,sport touring,1HD1JJ5159Y024428,,,8250,2009,corpuschristi
+330,2009 Harley softail rocker,gas,24764,custom,clean,manual,good,96,sport touring,1HD1JJ5159Y024428,,,8250,2009,dallas
+331,2009 Harley-Davidson Dyna Street Bob,gas,18586,,clean,manual,excellent,,sport bike,1HD1GX4179K306334,,,8999,2009,beaumont
+332,2009 Harley-Davidson Heritage Softail Classic FLSTC,gas,28289,red,clean,manual,,,,1HD1BW5109Y040692,,,11599,2009,sanantonio
+333,2009 Harley-Davidson Ultra Classic Electra Glide FLHTCU,gas,50678,black,clean,manual,,,,1HD1FC4199Y638977,,,12374,2009,corpuschristi
+334,2009 Honda CBR600rr CBR 600rr,gas,11000,green,clean,manual,excellent,600,sport bike,,,,7000,2009,dallas
+335,2009 Honda CRF150RB,gas,Unknown,,,manual,good,150,dirtbike,,,,2800,2009,dallas
+336,2009 Honda Rebel 250,gas,13000,black,clean,manual,good,250,,,,,2500,2009,austin
+337,2009 Honda VTX 1300 T V Twin 1312 cc,Unknown,28900,grey,clean,manual,,,,1HFSC52T19A601113,,,4999,2009,dallas
+338,2009 Kawasaki Concours 14,gas,32942,red,clean,automatic,excellent,1352,sport touring,,,,4500,2009,houston
+339,2009 Kawasaki KX85,gas,100,,,manual,good,85,dirtbike,,,,1800,2009,dallas
+340,2009 Kawasaki Versys 650,gas,21739,green,clean,manual,good,650,dual-sport,JKALEEA109A038039,,,4000,2009,austin
+341,2009 Kawasaki Vulcan® 900 Classic,gas,39282,red,clean,other,,,,JKAVN2B1X9A051810,,,4299,2009,dallas
+342,2009 Moto Guzzi V7 Classic,gas,15203,white,clean,manual,like new,750,cruiser,,,,6100,2009,austin
+343,2009 Screaming Eagle Fat Bob,gas,7841,custom,clean,manual,excellent,1802,cruiser,1HD1PX8179K975XXX,,,10899,2009,beaumont
+344,2009 Sportster,gas,6000,black,clean,manual,excellent,1200,chopper,,,,8500,2009,houston
+345,2009 Suzuki Blvd C50T,gas,17912,black,clean,manual,excellent,805,cruiser,,,,5100,2009,houston
+346,2009 Suzuki GS500F,gas,4800,black,clean,manual,good,500,standard,,,,3700,2009,beaumont
+347,2009 Suzuki GSXR1000 GSXR 1000 GSXR-1000 GSX R1000 GSX-R1000,gas,12996,,clean,manual,excellent,,sport bike,JS1GT78A092102759,,,9299,2009,corpuschristi
+348,2009 Yamaha 250 V-Star,gas,20746,purple,clean,manual,like new,250,cruiser,,,,4000,2009,dallas
+349,2009 Yamaha V-Star 1300,gas,24000,,clean,manual,excellent,,cruiser,,,,4000,2009,houston
+350,2009 Yamaha VStar 1300,gas,14345,black,clean,other,excellent,1300,cruiser,,,,4100,2009,dallas
+351,2009 Yamaha YZF R6 Horizontal In-line 599 cc,Unknown,25645,blue,clean,manual,,,,JYARJ16E09A012374,,,6499,2009,dallas
+352,2009 ninja track bike,gas,10000,,,manual,,,,,,,2800,2009,dallas
+353,2010 1300 Stateline Honda VT,gas,19800,custom,clean,manual,excellent,1300,sport touring,,,,5000,2010,austin
+354,2010 Harley Davidson Electra Glide Ultra Limited,gas,37356,red,clean,manual,excellent,1800,touring,,,,12300,2010,houston
+355,2010 Harley Davidson Wide Glide with stage 2 big bore kit,gas,17751,black,clean,manual,excellent,1690,cruiser,,,,10500,2010,sanantonio
+356,2010 Harley Road King,gas,6300,black,clean,manual,excellent,1584,cruiser,,,,12000,2010,corpuschristi
+357,2010 Harley-Davidson Electra Glide FLHTK Electra Glide Ultra Limited,gas,32900,red,clean,manual,excellent,103,touring,1HD1KEM12AB640990,,,10900,2010,easttexas
+358,2010 Harley-Davidson SOFTAIL HERITAGE SOF,Unknown,6390,black,clean,other,,,,1HD1BW514AB043005,,,9890,2010,austin
+359,2010 Harley-Davidson Softail Custom FXSTC,gas,4267,,clean,manual,,,,1HD1JL512AB024034,,,14119,2010,corpuschristi
+360,2010 Harley-Davidson Ultra Classic Electra Glide FLHTCU,gas,60025,red,clean,manual,,,,1HD1FC410AB640561,,,14999,2010,corpuschristi
+361,2010 Honda Goldwing,gas,23000,custom,clean,manual,excellent,1800,touring,,,,13000,2010,austin
+362,2010 Honda Interstate,gas,19024,black,,manual,,,,,,,6280,2010,austin
+363,2010 Honda® Gold Wing Audio Comfort,gas,70827,,,manual,excellent,,,,,,9299,2010,amarillo
+364,2010 Kawasaki Vulcan 900 Classic,gas,17654,,clean,manual,excellent,900,cruiser,,,,3995,2010,sanantonio
+365,2010 Kawasaki ZR1000DAF,gas,7302,black,clean,other,,,,JKAZRCD17AA001945,,,6980,2010,austin
+366,2010 Triumph Tiger 1050 ABS,gas,24421,,clean,other,,,,SMT701PD5AT409495,,,6996,2010,dallas
+367,2010 Triumph Tiger 1050 SE ABS,gas,55074,black,clean,manual,good,1050,touring,,,,4500,2010,beaumont
+368,2010 Yamaha R1 R 1 R-1  FOR ONLY,gas,11319,,clean,manual,excellent,,sport bike,JYARN23E9EA018151,,,9295,2010,dallas
+369,2010 Yamaha V star 950,gas,24000,black,clean,manual,like new,,touring,,,,4900,2010,houston
+370,2010 can am spyder,gas,blue,street legal,clean,automatic,excellent,,trike,,,,13500,2010,dallas
+371,2011 *Harley-Davidson* *CVO* *Street* *Glide* *FLHXSE2*,other,20009,orange,clean,manual,,,,1HD1PZ810BB951077,,,18472,2011,abilene
+372,2011 *Harley-Davidson* *FLSTC* *Heritage* *Softail*,other,16858,silver,clean,manual,,,,1HD1BW510BB022704,,,10874,2011,abilene
+373,2011 *Harley-Davidson* *Fat* *Boy* *Lo* *FLSTFB*,other,10158,,clean,,,,,1HD1JN514BB024842,,,13500,2011,abilene
+374,2011 *Harley-Davidson* *Forty-Eight* *XL1200X*,other,8157,black,clean,manual,,,,1HD1LC31XBC409317,,,6900,2011,abilene
+375,2011 110 screaming eagle,gas,11000,black,clean,manual,like new,110,cruiser,,,,18000,2011,amarillo
+376,2011 FATBOY LO,gas,7811,,,manual,,,,,,,11000,2011,houston
+377,2011 HARLEY DAVIDSON STREET GLIDE,gas,20000,custom,clean,manual,like new,1800,touring,,,,13500,2011,dallas
+378,2011 HARLEY DAVIDSON STREET GLIDE FLHX103,gas,45109,black,clean,manual,good,1584,touring,1HD1KBM12BB655747,,,13500,2011,houston
+379,2011 HD STREET GLIDE 103,gas,45109,black,clean,manual,good,1584,touring,1HD1KBM12BB655747,,,13500,2011,dallas
+380,2011 HD Ultra Classic,gas,54123,black,clean,manual,excellent,,cruiser,,,,10000,2011,houston
+381,2011 HD Ultra Limited,gas,29500,black,clean,manual,like new,103,cruiser,,,,12500,2011,dallas
+382,2011 HD XL883L,gas,60878,blue,clean,manual,good,883,cruiser,,,,4900,2011,amarillo
+383,2011 Harley Bagger and all aluminum trailer,gas,10500,black,clean,manual,excellent,103,cruiser,,,,35000,2011,corpuschristi
+384,2011 Harley Davidson Road Glide Ultra,gas,33000,,clean,manual,excellent,,,,,,14500,2011,dallas
+385,2011 Harley Davidson Road King,gas,10209,,clean,manual,excellent,97,touring,,,,12000,2011,houston
+386,2011 Harley Davidson Road King Classic FLHRC,other,49821,red,clean,other,,,,,,,10999,2011,dallas
+387,2011 Harley Davidson Softail Deluxe,gas,7800,black,clean,manual,excellent,96,cruiser,,,,12995,2011,austin
+388,2011 Harley Davidson Sportster,gas,6068,black,clean,manual,excellent,1200,sport touring,1HD1LC312BC401678,,,7500,2011,amarillo
+389,2011 Harley Davidson Ultra Classic,gas,23393,black,clean,manual,like new,,cruiser,,,,13000,2011,dallas
+390,2011 Harley Davidson streetglide,gas,33000,orange,clean,manual,excellent,,sport touring,,,,13500,2011,amarillo
+391,2011 Harley FLHTCU,gas,13870,,clean,manual,like new,,touring,,,,15000,2011,amarillo
+392,2011 Harley Street Glide Special,gas,26661,black,clean,manual,excellent,1687,cruiser,,,,12900,2011,dallas
+393,2011 Harley-Davidson Electra Glide Ultra Limited FLHTK,gas,25457,,clean,manual,,,,1HD1KEM13BB629370,,,16199,2011,corpuschristi
+394,2011 Harley-Davidson Softail Blackline FXS,gas,17533,,clean,manual,,,,1HD1JP522BB041899,,,12999,2011,corpuschristi
+395,2011 Heritage Softail,gas,31500,black,clean,manual,like new,,touring,,,,9500,2011,dallas
+396,2011 Honda 250,gas,Unknown,,clean,manual,excellent,250,dirtbike,,,,3700,2011,dallas
+397,2011 Honda CBR 250R Honda CBR 250R,Unknown,6673,red,clean,manual,,,,MLHMC4114B5000707,,,3499,2011,amarillo
+398,2011 KAWASAKI NINJA ZX-6R,gas,20610,,clean,manual,excellent,,sport bike,JKAZX4R10CA037435,,,6890,2011,dallas
+399,2011 Kawasaki NINJA ZX1000,gas,32660,black,clean,other,,,,JKAZXCG13BA000116,,,5980,2011,austin
+400,2011 Kawasaki Ninja  250R 250 R 250-R for $80/mo a month!,gas,16429,,clean,manual,excellent,,sport bike,JKAEXMJ10BDA79226,,,3895,2011,dallas
+401,2011 Kawasaki Ninja ZX14 ZX 14 ZX-14 Ninja ZX 14 Ninja ZX-14,gas,14866,,clean,manual,excellent,,sport bike,JKBZXNC14BA026592,,,8999,2011,beaumont
+402,2011 Kawasaki Vulcan Voyager v-twin 1700! only 3478 miles,gas,3478,blue,clean,manual,excellent,1700,touring,,,,8500,2011,corpuschristi
+403,2011 Kawasaki Vulcan® 1700 Vaquero Trike,gas,27645,,clean,other,,,,JKBVNRJ10BA001932,,,14990,2011,dallas
+404,2011 SUZUKI GSX-R600,gas,28044,,clean,manual,excellent,,sport bike,JS1GN7FA5B2103134,,,7890,2011,dallas
+405,2011 Suzuki Boulevard C50T,gas,6842,,clean,manual,excellent,Unknown,,JS1VS55A5B2101390,,,4999,2011,dallas
+406,2011 Suzuki GSX 1250,gas,7000,,,manual,like new,,sport touring,,,,6900,2011,austin
+407,2011 Suzuki GSXR 750,gas,20135,,,manual,excellent,,sport bike,JS1GR7MA7B2103546,,,7500,2011,dallas
+408,2011 Suzuki GSXR1000 GSXR 1000 GSXR-1000  FOR ONLY,gas,17408,,clean,manual,excellent,,standard,JS1GT78A0B2102394,,,9295,2011,dallas
+409,2011 Suzuki GSXR1000 GSXR 1000 GSXR-1000 GSX R1000 GSX-R1000,gas,9371,,clean,manual,excellent,,sport bike,JS1GT78A4B2101068,,,10449,2011,dallas
+410,2011 Suzuki GSXR600 GSXR 600 GSXR-600 GSX R600 GSX-R600,gas,28044,,clean,manual,excellent,,sport bike,JS1GN7FA5B2103134,,,7699,2011,dallas
+411,2011 Suzuki GSXR750 GSXR 750 GSXR-750 GSX R750 GSX-R750,gas,20139,,clean,manual,excellent,,sport bike,JS1GR7MA6B2101822,,,8299,2011,amarillo
+412,2011 Triumph Speed Triple SE,gas,31000,,clean,manual,excellent,1050,sport bike,,,,4000,2011,dallas
+413,2011 Triumph Tiger 800 XC,gas,14254,white,clean,other,,,,SMTE01BF2BJ477489,,,6950,2011,austin
+414,2011 Victory Motorcycles® Vegas® Zach Ness,gas,12129,black,clean,other,,,,5VPGC36N6B3001554,,,8950,2011,sanantonio
+415,2011 Yamaha FZ8,gas,12900,,,manual,new,,,,,,3000,2011,austin
+416,2012 *Harley-Davidson* *FLHTCUTG* *Tri* *Glide* *Ultra*,other,4690,blue,clean,manual,,,,1HD1MAM16CB853740,,,24752,2012,abilene
+417,2012 *Harley-Davidson* *FXDWG* *Wide* *Glide*,other,12096,black,clean,manual,,,,1HD1GPM1XCC332279,,,10984,2012,abilene
+418,2012 BMW G650GS Enduro,gas,11500,white,clean,manual,good,650,dual-sport,,,,5500,2012,houston
+419,2012 BMW K 1600 GTL,gas,13573,silver,clean,other,,,,WB1061208CZZ20893,,,11450,2012,dallas
+420,2012 BMW S1000 S 1000 S-1000 RR,gas,42434,,,manual,excellent,,sport bike,WB1053406CZL16626,,,9499,2012,dallas
+421,2012 BMW S1000RR,gas,9300,black,clean,manual,excellent,1000,sport bike,,,,13000,2012,beaumont
+422,2012 CANAM SPYDER RS SM5,gas,15838,red,clean,manual,good,990,trike,,,,8295,2012,houston
+423,2012 Can AM RSS Spyder,gas,45000,green,clean,automatic,excellent,,sport bike,,,,8500,2012,dallas
+424,2012 Can-Am® Spyder RT SM5,gas,20062,,clean,other,,,,2BXJBWC11CV001018,,,13950,2012,sanantonio
+425,2012 Ducati Streetfighter 848,gas,7394,black,clean,manual,excellent,850,sport bike,,,,6995,2012,sanantonio
+426,2012 Ducati Superbike 848 EVO,gas,6439,red,clean,other,,,,ZDM1XBMV7CB019076,,,10750,2012,dallas
+427,2012 Electra Glide Ultra Classic,other,71000,,,other,good,,,,,,6295,2012,houston
+428,2012 FLHTP Electra Glide,gas,54000,black,clean,manual,good,1640,touring,,,,7000,2012,dallas
+429,2012 Genuine Buddy 170i,gas,7730,green,clean,automatic,good,,scooter,,,,1800,2012,austin
+430,2012 HARLEY CUSTOM ROAD GLIDE,gas,9253,,clean,manual,excellent,107,,,,,45000,2012,beaumont
+431,2012 HARLEY DAVIDSON V-ROD,gas,10875,black,clean,manual,excellent,1250,cruiser,,,,11450,2012,dallas
+432,2012 Harley Davidson 1200cc Sportster,gas,6522,,,manual,,,,,,,6900,2012,mcallen
+433,2012 Harley Davidson Forty Eight,gas,18960,black,clean,manual,like new,1200,bobber,,,,9300,2012,corpuschristi
+434,2012 Harley Davidson Softail,gas,44054,blue,clean,other,,103,,1HD1BWV14CB020956,,,15000,2012,dallas
+435,2012 Harley Davidson Softail Deluxe,gas,13712,custom,clean,manual,like new,1690,sport touring,,,,11500,2012,abilene
+436,2012 Harley Davidson Street Glide FLHX,gas,24201,black,clean,manual,excellent,,touring,,,,15000,2012,houston
+437,2012 Harley Davidson Tri Glide Ultra Classic FLHTCUTG,gas,28178,red,clean,manual,excellent,,touring,,,,22000,2012,corpuschristi
+438,2012 Harley Davidson Tri-Glide,gas,37021,black,,manual,like new,106,,,,,25000,2012,dallas
+439,2012 Harley Davidson Triglide,gas,5031,red,clean,manual,like new,103,trike,,,,22500,2012,houston
+440,2012 Harley-Davidson Dyna Fat Bob FXDF103,gas,6953,black,clean,manual,,,,1HD1GYM17CC338675,,,12599,2012,sanantonio
+441,2012 Harley-Davidson Electra Glide Ultra Limited FLHTK,gas,15009,black,clean,manual,,,,1HD1KEM17CB600312,,,17231,2012,corpuschristi
+442,2012 Harly Davidson Ultraclasic,gas,10000,black,clean,manual,excellent,,sport touring,,,,12800,2012,houston
+443,2012 Honda CBR 600RR,gas,21073,grey,clean,manual,like new,600,,,,,8000,2012,austin
+444,2012 Honda CBR600RR CBR 600 RR CBR-600-RR,gas,17435,,clean,manual,excellent,,sport bike,JH2PC4008CK501215,,,8249,2012,dallas
+445,2012 Kawasaki Ninja ZX14R ZX 14 R ZX-14-R Ninja ZX 14R Ninja ZX-14R,gas,14042,,clean,manual,excellent,,sport bike,JKBZXNE11CA001678,,,9299,2012,beaumont
+446,2012 Kawasaki Ninja ZX6R ZX 6 R ZX-6-R Ninja ZX 6R Ninja ZX-6R,gas,20610,,clean,manual,excellent,,sport bike,JKAZX4R10CA037435,,,7649,2012,dallas
+447,2012 Kawasaki Ninja® 1000,gas,4265,green,clean,other,,,,JKAZXCG14CA017735,,,6990,2012,austin
+448,2012 Street Glide alternative,other,71000,,,manual,good,,,,,,6295,2012,houston
+449,2012 Suzuki Boulevard C50 T Classic,gas,Unknown,red,clean,other,,,,JS1VS55A9C2100700,,,6950,2012,dallas
+450,2012 Suzuki DR650,gas,35000,grey,clean,manual,excellent,650,dual-sport,,,,4000,2012,austin
+451,2012 Suzuki GSXR GSX R GSX-R 1000 for $206/mo a month!,gas,22950,,clean,manual,excellent,,sport bike,JS1GT78A9C2100161,,,9999,2012,dallas
+452,2012 Suzuki V-Strom 1000 Adventure  -Premium Dealer!,gas,17159,,clean,manual,excellent,,dual-sport,SMTE05BF7DT575898,,,6995,2012,dallas
+453,2012 Suzuki Vstrom 650 DL650 loaded with extras,gas,16900,black,clean,manual,excellent,650,sport touring,JS1VP56A6C2102646,,,4800,2012,austin
+454,2012 Triumph Daytona 675 R,gas,10000,,clean,manual,,,,,,,5000,2012,austin
+455,2012 Triumph Rocket III,gas,8233,black,clean,manual,excellent,2300,street,SMTC02L44CJ532620,,,6500,2012,dallas
+456,2012 ULTRA LIMITED CLASSIC,gas,26000,black,clean,manual,excellent,103,touring,,,,13500,2012,dallas
+457,2012 Victory Motorcycles Cross Country Touring (EXCELLENT SHAPE!),Unknown,39023,Unknown,clean,manual,,,,5VPTW36N1C3000500,,,9900,2012,dallas
+458,2012 Yamaha R1,gas,9880,,,manual,,,,,,,11500,2012,austin
+459,2012 Yamaha V Star 950 Tourer V Twin 942 cc,Unknown,22852,black,clean,manual,,,,JYAVMO1E7CA017048,,,5499,2012,dallas
+460,2012 Yamaha YZFR1 YZFR 1 YZFR-1 Anniversary  YZF R1 Anniversary  YZF-,gas,21932,,clean,manual,excellent,,sport bike,JYARN23EXCA012100,,,10149,2012,abilene
+461,2012 Yamaha YZFR6 YZFR 6 YZFR-6 YZF R6 YZF-R6,gas,8587,,clean,manual,excellent,,sport bike,JYARJ16E9CA024868,,,8999,2012,amarillo
+462,2012 yahmaha FZ8,gas,32000,,,manual,,,,,,,4200,2012,beaumont
+463,2013 *Harley-Davidson* *Dyna* *Super* *Glide* *Custom*,other,9092,blue,clean,,,,,1HD1GV411DC335089,,,10374,2013,abilene
+464,2013 *Harley-Davidson* *FLHTK* *EG* *Ultra*,other,4543,black,clean,manual,,,,1HD1KEM18DB605441,,,15982,2013,abilene
+465,2013 *Harley-Davidson* *FXDF* *Dyna* *Fat*,other,4098,black,clean,manual,,,,1HD1GYM1XDC302206,,,11981,2013,abilene
+466,2013 *Harley-Davidson* *Softail* *Slim*,other,10838,black,clean,manual,,,,1HD1JRV12DB053492,,,12542,2013,abilene
+467,2013 *Harley-Davidson* *VRSCF* *V-Rod*,other,12388,black,clean,manual,,,,1HD1HPH13DC803696,,,13800,2013,abilene
+468,2013 *Kawasaki* *Ninja* ** *650R*,other,3784,white,clean,manual,,,,JKAEXEE19DDA12658,,,6950,2013,abilene
+469,2013 BMW K1600 GTL,gas,9947,custom,clean,manual,like new,1649,touring,,,,14100,2013,easttexas
+470,2013 BMW R 1200 R,gas,75874,blue,clean,other,,,,WB10A6104JZ656405,,,7950,2013,austin
+471,2013 BMW R1200 GSA,gas,61000,red,clean,manual,excellent,1200,dual-sport,,,,12500,2013,dallas
+472,2013 CRF150R,gas,1234,red,missing,manual,excellent,,dirtbike,,,,2750,2013,corpuschristi
+473,2013 Can-Am® Spyder® ST-S SM5,gas,9657,yellow,clean,other,,,,2BXNCAC13DV000150,,,12750,2013,dallas
+474,2013 Ducati 848 EVO 848  EVO Superbike,gas,10321,,clean,manual,excellent,,sport bike,ZDM1XBMV9DB023633,,,9399,2013,dallas
+475,2013 Goldwing Bagger,gas,3475,silver,clean,manual,excellent,1800,other,,,,17000,2013,houston
+476,"2013 HARLEY DAVIDSON HERITAGE SOFTAIL ""3,215 MILES""",gas,3214,red,clean,manual,excellent,103,cruiser,,,,10000,2013,houston
+477,2013 HD BREAKOUT,gas,23800,blue,clean,manual,excellent,,street,,,,12995,2013,houston
+478,2013 Harley Davidson Black Street Glide FLHX,gas,34217,black,clean,other,,103,,1HD1KBM13DB686881,,,13500,2013,dallas
+479,2013 Harley Davidson FXDC Super Glide Custom,gas,4000,black,clean,manual,like new,,cruiser,,,,9500,2013,houston
+480,2013 Harley Davidson Fat Boy,gas,7200,black,clean,manual,like new,,cruiser,,,,12800,2013,corpuschristi
+481,2013 Harley Davidson Road Glide 21k miles,gas,21000,red,clean,manual,like new,103,touring,,,,15000,2013,dallas
+482,"2013 Harley Davidson Ultra 9,600 Miles",gas,9600,black,clean,manual,new,103,touring,,,,15500,2013,dallas
+483,2013 Harley-Davidson Electraglide,gas,30000,white,lien,manual,excellent,,touring,,,,12000,2013,easttexas
+484,2013 Harley-Davidson FLTRX,gas,29500,black,clean,manual,excellent,1450,touring,1HD1KHM18DB671408,,,19100,2013,dallas
+485,2013 Harley-Davidson Road Glide Custom FLTRX103,gas,17526,black,clean,manual,,,,1HD1KHM18DB694297,,,16999,2013,corpuschristi
+486,2013 Harley-Davidson Road King FLHR103,gas,18988,,clean,manual,,,,1HD1FBM10DB627274,,,18469,2013,corpuschristi
+487,2013 Harley-Davidson Ultra Classic Electra Glide FLHTCU,gas,20040,,clean,manual,,,,1HD1FCM12DB604293,,,20318,2013,corpuschristi
+488,2013 Honda CB 500F 500 F 500-F for $93/mo a month!,gas,5645,,clean,manual,excellent,,standard,MLHPC4514D5000040,,,4495,2013,dallas
+489,2013 Honda CBR1000REPD CBR 1000 REPD CBR-1000-REPD REPSOL,gas,17479,,clean,manual,excellent,,sport bike,JH2SC5958DK500176,,,11499,2013,corpuschristi
+490,2013 Honda CBR500R,,,,,,,,,,,,4479,2013,dallas
+491,2013 Honda CRF150F,gas,600,white,clean,manual,good,150,dirtbike,,,,3400,2013,austin
+492,2013 Honda CRF450R,gas,300,,,manual,,,,,,,3700,2013,amarillo
+493,2013 Honda® NC700X,gas,4896,silver,clean,other,,,,JH2RC6357DK100767,,,7750,2013,austin
+494,2013 KTM 250 XCF-W,gas,915,orange,clean,other,,,,VBKEXG405DM084320,,,4450,2013,austin
+495,2013 Kawasaki Ninja ZX10R ZX 10 R ZX-10-R Ninja ZX 10R Ninja ZX-10R,gas,17040,,clean,manual,excellent,,sport bike,JKAZXCJ14DA017227,,,9899,2013,dallas
+496,2013 Kawasaki Ninja ZX6R ZX 6 R ZX-6-R ZX 6R ZX-6R for $171/mo a month,gas,4407,,clean,manual,excellent,,sport bike,JKBZXJE14DA004679,,,8295,2013,dallas
+497,2013 Kx450f w title low hours,gas,1234,black,clean,manual,,450,dirtbike,,,,3950,2013,sanantonio
+498,2013 Lingyu 150 CC,gas,36,white,clean,automatic,new,150,scooter,,,,900,2013,dallas
+499,2013 NC700X,gas,4896,silver,clean,other,,,,JH2RC6357DK100767,,,3500,2013,austin
+500,2013 ROAD GLIDE CUSTOM,gas,11500,blue,clean,manual,like new,,touring,,,,19000,2013,dallas
+501,2013 SUZUKI GSX-R600,gas,28527,blue,clean,manual,good,599,sport bike,,,,7980,2013,dallas
+502,2013 SUZUKI GSX-R750,gas,874,black,clean,automatic,,,,JS1GR7MA1D2100516,,,8980,2013,dallas
+503,2013 Suzuki Boulevard S40,gas,2300,,clean,manual,good,650,cruiser,JS1NP41A2D2100945,,,3400,2013,beaumont
+504,2013 Suzuki GSX-R 600 Horizontal In-line 599 cc,Unknown,23040,custom,clean,manual,,,,JS1GN7FAXD2101205,,,8999,2013,dallas
+505,2013 Suzuki GSXR GSX R GSX-R 750 for $206/mo a month!,gas,12387,,clean,manual,excellent,,sport bike,JS1GR7MA1D2102797,,,9995,2013,dallas
+506,2013 Suzuki GSXR600R GSXR 600 R GSXR-600-R  FOR ONLY,gas,7847,,clean,manual,excellent,,standard,JS1GN7FA4D2102978,,,7495,2013,dallas
+507,2013 Suzuki RMZ250,gas,1000,,clean,manual,excellent,250,dirtbike,,,,3195,2013,dallas
+508,2013 Triumph Bonneville,gas,1091,white,clean,manual,like new,,,,,,5900,2013,dallas
+509,2013 Triumph Street Triple R,gas,17148,,clean,manual,excellent,675,sport bike,,,,5750,2013,austin
+510,2013 Triumph Tiger  800 ABS for $142/mo a month!,gas,17159,,clean,manual,excellent,,dual-sport,SMTE05BF7DT575898,,,6895,2013,dallas
+511,"2013 Victory Highball, MINT, Extra, 3600 Miles, Title in Hand",gas,3600,black,clean,manual,like new,1700,cruiser,5VPWB36N5D3016872,,,7999,2013,austin
+512,2013 Victory Motorcycles® Cross Country® Tour,gas,46727,black,clean,other,,106,,5VPTW36N4D3021729,,,9999,2013,dallas
+513,2013 Yamaha Stryker V Twin 1304 cc,Unknown,14332,black,clean,manual,,,,JYAVP33E9DA008930,,,7999,2013,dallas
+514,2013 Yamaha Stryker®,Unknown,14332,black,clean,manual,,,,JYAVP33E9DA008930,,,6990,2013,dallas
+515,2013 Yamaha V-star 1300 tourer,gas,17838,,clean,manual,excellent,,touring,,,,7000,2013,austin
+516,2013 Yamaha YZF R1 R 1 R-1 for $251/mo a month!,gas,11793,,clean,manual,excellent,,sport bike,JYARN23E6DA016047,,,12195,2013,dallas
+517,2013 honda crf150r obo,gas,Unknown,black,clean,manual,good,150,dirtbike,,,,4500,2013,austin
+518,2014 *Harley-Davidson* *FLHTCUTG* *Tri* *Glide*,other,11653,blue,clean,manual,,,,1HD1MAL12EB853710,,,28752,2014,abilene
+519,2014 *Harley-Davidson* *FLHX* *Street* *Glide*,other,9506,grey,clean,manual,,,,1HD1KBM18EB621171,,,16984,2014,abilene
+520,2014 *Harley-Davidson* *FLHXS* *Street* *Glide*,other,21656,silver,clean,manual,,,,1HD1KRM16EB707233,,,18472,2014,abilene
+521,2014 *Harley-Davidson* *FXDL* *Dyna* *Low*,other,36630,silver,clean,manual,,,,1HD1GNM28EC319905,,,11851,2014,abilene
+522,2014 *Harley-Davidson* *Street* *Glide* *Special* *FLHXS*,other,3720,grey,clean,manual,,,,1HD1KRM34EB711136,,,18751,2014,abilene
+523,2014 BMW F800GS Adventure,gas,38731,,clean,manual,good,798,dual-sport,,,,7800,2014,austin
+524,2014 BMW S1000 S 1000 S-1000 RR,gas,6544,,clean,manual,excellent,,sport bike,WB1053409EZL18860,,,13999,2014,dallas
+525,2014 CRF110F,gas,100,red,clean,manual,excellent,110,dirtbike,,,,2450,2014,houston
+526,2014 CVO Road King,gas,13000,custom,clean,manual,excellent,110,cruiser,,,,18000,2014,easttexas
+527,2014 Can-Am® Spyder® RS SM5,gas,4322,black,clean,other,,,,2BXNAAC15EV000366,,,11750,2014,dallas
+528,2014 Custom H-D Street Glide,gas,14697,black,clean,manual,excellent,,touring,,,,14000,2014,houston
+529,2014 Ducati Monster 1200 S,gas,25553,red,clean,other,,,,ZDM1RBSW5EB000454,,,10950,2014,dallas
+530,2014 Ducati Superbike 1199 Panigale,gas,15400,,clean,manual,,,sport bike,,,,12900,2014,houston
+531,2014 FLHTK Ultra Limted,gas,22666,custom,clean,manual,excellent,,touring,,,,15900,2014,dallas
+532,2014 Genuine Buddy 125,gas,2562,blue,clean,automatic,excellent,125,scooter,,,,2000,2014,austin
+533,2014 Genuine Buddy 170i Pamplona,gas,4500,red,clean,automatic,excellent,170,scooter,,,,3250,2014,austin
+534,2014 HD Heritage Softtail,gas,35000,,,manual,excellent,,,,,,10000,2014,dallas
+535,2014 HONDA CTX700 DCT ABS AUTOMATIC 1850 MILES VERY NICE,gas,1850,black,clean,automatic,excellent,700,cruiser,,,,5500,2014,houston
+536,2014 Harley Davidson Breakout,gas,4301,black,clean,manual,like new,1690,cruiser,1HD1BFV19EB034354,,,14500,2014,abilene
+537,2014 Harley Davidson Iron 883,gas,7000,black,clean,manual,,883,,,,,5999,2014,austin
+538,2014 Harley Davidson street glide special,gas,9500,orange,clean,manual,excellent,1690,sport touring,,,,21500,2014,corpuschristi
+539,2014 Harley Heritage Classic,gas,2850,red,,manual,,,,,,,10000,2014,brownsville
+540,2014 Harley Street Glide,other,4494,grey,clean,manual,,,,1HD1KRM10EB643108,,,15500,2014,austin
+541,2014 Harley Street Glide - Loaded - Low miles!,gas,5344,,clean,other,,,,1HD1FCM13EB612999,,,17900,2014,beaumont
+542,2014 Harley Street Glide Special,gas,49300,custom,clean,manual,excellent,103,touring,,,,11900,2014,easttexas
+543,2014 Harley Ultra Limited Nice Loaded Low Miles,gas,19359,brown,clean,manual,excellent,1688,touring,,,,16700,2014,houston
+544,2014 Harley-Davidson Cvo Softail Deluxe FLSTNSE,gas,17653,,clean,manual,,,,1HD1TF911EB954762,,,22871,2014,corpuschristi
+545,2014 Harley-Davidson Dyna Switchback FLD103,gas,7846,,clean,manual,,,,1HD1GZM13EC322966,,,13899,2014,corpuschristi
+546,"2014 Harley-Davidson Electra Glide® Ultra Classic® Only 5,400 Miles",gas,5344,,clean,other,,,,1HD1FCM13EB612999,,,15699,2014,houston
+547,2014 Harley-Davidson ElectraGlide,gas,28652,silver,clean,manual,excellent,1690,touring,,,,16700,2014,waco
+548,2014 Harley-Davidson Sportster 1200 Custom XL1200CP,gas,5119,,clean,manual,,,,1HD1LH318EC417627,,,14579,2014,corpuschristi
+549,2014 Highball 1800CX,gas,5000,,,manual,,,,,,,7000,2014,sanantonio
+550,2014 Honda 250 CRFL for sale,gas,1117,red,clean,manual,excellent,250,dirtbike,,,,4800,2014,corpuschristi
+551,2014 Honda CBR 800,gas,18000,,clean,manual,good,,,,,,4000,2014,dallas
+552,2014 Honda Forza NSS,gas,7701,red,clean,automatic,like new,280,scooter,,,,4350,2014,dallas
+553,2014 Honda Interceptor,Unknown,18450,white,clean,manual,,,,JH2RC7956EK000027,,,8995,2014,dallas
+554,2014 Honda Interceptor DLX V4 782 cc,Unknown,18450,white,clean,manual,,,,JH2RC7956EK000027,,,8999,2014,dallas
+555,2014 Honda VFR 800 F,gas,18000,,clean,manual,good,,,,,,4000,2014,dallas
+556,2014 Honda® CB1000R,gas,509,black,clean,other,,,,ZDCSC6010EF215211,,,7950,2014,austin
+557,2014 Ice Bear Scooter,gas,14,,,automatic,,,,,,,600,2014,austin
+558,2014 Iron883 Harley davidson,gas,54509,black,clean,manual,good,883,,1HD4LE218EC451788,,,3800,2014,dallas
+559,2014 Kawasaki Concours14 ABS,gas,16496,red,clean,other,,,,JKBZGNC17EA025151,,,9860,2014,sanantonio
+560,2014 Kawasaki KLR 650,gas,3600,black,clean,manual,excellent,650,dual-sport,,,,4750,2014,abilene
+561,2014 Kawasaki Vulcan,gas,18988,white,clean,other,,,,JKBVNRD14EA006132,,,6500,2014,dallas
+562,2014 Kawasaki Vulcan 900 Custom V Twin 903 cc,,6599,green,clean,manual,,,,JKAVN2C19EA057171,,,5499,2014,dallas
+563,2014 Kawasaki Vulcan® 1700 Nomad ABS,gas,18988,white,clean,other,,,,JKBVNRD14EA006132,,,9660,2014,dallas
+564,2014 Kawasaki Z 1000,gas,6651,,clean,manual,excellent,,standard,JKBZRCB12GDA13929,,,8750,2014,easttexas
+565,2014 Suzuki  GSX1300RAL4 GSX 1300 RAL 4 GSX-1300-RAL-4 HAYABUSA 50th,gas,15041,,clean,manual,excellent,,sport bike,JS1GX72B0E2101644,,,12999,2014,corpuschristi
+566,2014 Suzuki Burgman 200 ABS,gas,13328,silver,clean,automatic,good,,scooter,MLCCH41A7E1600104,,,2999,2014,waco
+567,2014 Suzuki GSX1300RAL4 GSX 1300 RAL 4 GSX-1300-RAL-4 HAYABUSA,gas,20297,,clean,manual,excellent,,sport bike,JS1GX72B1E2101104,,,11999,2014,abilene
+568,2014 Suzuki GSXR GSX R GSX-R 750 for $206/mo a month!,gas,2585,,clean,manual,excellent,,sport bike,JS1GR7MA8E2100501,,,9995,2014,dallas
+569,2014 Suzuki GSXR1000 GSXR 1000 GSXR-1000 GSX R1000 GSX-R1000,gas,11553,,clean,manual,excellent,,sport bike,JS1GT78AXE2101323,,,10999,2014,beaumont
+570,2014 Suzuki GSXR600 GSXR 600 GSXR-600 GSX R600 GSX-R600,gas,21931,,clean,manual,excellent,,sport bike,JS1GN7FAXE2100217,,,8990,2014,beaumont
+571,2014 Suzuki GSXR750 GSXR 750 GSXR-750 GSX R750 GSX-R750,gas,16257,,clean,manual,excellent,,sport bike,JS1GR7MA3E2100860,,,9699,2014,beaumont
+572,2014 Suzuki Gsxr 1000 Custom Fs/Ft,gas,8326,,salvage,manual,like new,999,,,,,7500,2014,dallas
+573,2014 Suzuki Hayabusa,gas,10601,,,manual,,,,,,,9500,2014,dallas
+574,2014 Suzuki RMZ 450 Supermoto **Excellent Condition**,gas,1234,black,missing,manual,excellent,450,dual-sport,,,,6000,2014,beaumont
+575,2014 Suzuki V-Strom 1000 ABS V Twin 1037 cc,Unknown,11877,black,clean,manual,,,,,,,8990,2014,easttexas
+576,2014 Suzuki vstrom,gas,15106,white,clean,manual,excellent,650,dual-sport,,,,6200,2014,corpuschristi
+577,2014 TRIUMPH TIGER 800 XC,gas,11000,black,clean,manual,like new,800,dual-sport,SMTE06BF9ET629273,,,8500,2014,austin
+578,2014 Triumph Bonneville T100,gas,6860,,,manual,,900,,,,,7700,2014,dallas
+579,2014 Ural Limited Edition MIR,gas,1864,white,clean,manual,excellent,749,other,X8JMH0376EU224661,,,15000,2014,dallas
+580,2014 Yamaha FZ 09,gas,21000,grey,clean,manual,excellent,850,,,,,5500,2014,dallas
+581,2014 Yamaha R1 R 1 R-1,gas,11319,,clean,manual,excellent,,sport bike,JYARN23E9EA018151,,,12999,2014,dallas
+582,2014 Yamaha R6 R 6 R-6,gas,16161,,clean,manual,excellent,,sport bike,JYARJ16E1EA032305,,,9349,2014,dallas
+583,2014 Yamaha Stryker V Twin 1304 cc,Unknown,12728,red,clean,manual,,,,JYAVP33E3EA009315,,,7250,2014,dallas
+584,2014 Yamaha Stryker®,gas,13335,,clean,other,,,,JYAVP33Y4EA000956,,,8450,2014,dallas
+585,2014 Yamaha V Star 950,gas,3124,red,clean,manual,excellent,,,,,,6999,2014,dallas
+586,2014 Yamaha YZF R6 Horizontal In-line 599 cc,Unknown,24150,red,clean,manual,,,,JYARJ16E9EA030933,,,9499,2014,dallas
+587,2014 Yamaha YZFR1 YZFR 1 YZFR-1 YZF R1 YZF-R1,gas,6152,,clean,manual,excellent,,sport bike,JYARN23E2EA016631,,,12999,2014,beaumont
+588,2014 Yamaha YZFR6 YZFR 6 YZFR-6 YZF R6 YZF-R6  FOR ONLY,gas,32888,,clean,automatic,excellent,,standard,JYARJ16Y3EA008095,,,6495,2014,dallas
+589,2014 fat boy lo,gas,4215,,,manual,,,,,,,13500,2014,dallas
+590,2014 harley davidson 72 classic,gas,4030,silver,clean,manual,good,1202,cruiser,,,,7500,2014,sanantonio
+591,2014 harley davidson streetglide,other,39434,white,clean,other,,,,,,,11500,2014,dallas
+592,2014 kawasaki ninja zx-14r,gas,14042,,clean,manual,excellent,,sport bike,JKBZXNE11CA001678,,,8000,2014,houston
+593,2014 up Harley street glide body kit,gas,3000,green,clean,manual,like new,,touring,,,,2000,2014,abilene
+594,2015 *BMW* *S1000* *R*,other,15553,black,clean,manual,,,,WB10D1207FZ199878,,,9981,2015,abilene
+595,2015 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special*,other,13017,black,clean,manual,,,,1HD1KRM18FB621312,,,18472,2015,abilene
+596,2015 *Harley-Davidson* *FLSTC* *Heritage* *Softail*,other,11787,black,clean,manual,,,,1HD1BWV17FB025251,,,14500,2015,abilene
+597,2015 *Harley-Davidson* *FLTRXS* *Road* *Glide*,other,5632,black,clean,manual,,,,1HD1KTM14FB643241,,,21971,2015,abilene
+598,2015 *Harley-Davidson* *XL1200X* *Sportster* *Forty-Eight* *ABS* Model,other,5637,,clean,manual,,,,1HD1LC310FC433812,,,9500,2015,abilene
+599,2015 BMW K 1600 GT,gas,25832,,clean,other,,,,WB1061102FZX82483,,,12999,2015,houston
+600,2015 BMW K 1600 GTL Exclusive,gas,20310,white,clean,other,,,,WB1061300FZZ28229,,,16950,2015,dallas
+601,2015 BMW K1600GT   ** PRICE REDUCED**,gas,23850,black,clean,manual,excellent,1600,sport touring,,,,12950,2015,beaumont
+602,2015 BMW R 1200 GS,gas,15491,white,clean,manual,excellent,1200,dual-sport,,,,14950,2015,dallas
+603,2015 BMW R 1200 GSA,gas,15491,white,clean,manual,excellent,1200,dual-sport,,,,16000,2015,dallas
+604,2015 BMW R nineT,gas,4290,,clean,manual,like new,1200,,,,,10500,2015,austin
+605,2015 BMW R1200 GS Adventure,gas,13691,blue,clean,manual,excellent,1200,dual-sport,,,,15000,2015,collegestation
+606,2015 BMW S1000 S 1000 S-1000 RR,gas,23271,,clean,manual,excellent,,sport bike,WB10D2106FZ351219,,,13499,2015,beaumont
+607,2015 BMW S1000 S 1000 S-1000 RR Premium Package,gas,10808,,clean,manual,excellent,,sport bike,WB10D2108FZ352789,,,14499,2015,beaumont
+608,2015 CAN-AM SPYDER RSS,gas,5657,,clean,manual,,,,,,,9900,2015,dallas
+609,2015 Ducati Hypermotard SP Longitudinal Twin 821.1 cc,Unknown,11360,white,clean,manual,,,,ZDM1YBTS9FB011084,,,8980,2015,austin
+610,2015 Fz 07,gas,25000,black,clean,manual,good,689,sport bike,JYARM06E0GA006721,,,6800,2015,dallas
+611,2015 Goldwing,gas,7530,silver,clean,manual,like new,1800,touring,,,,20000,2015,easttexas
+612,2015 HARLEY DAVIDSON SPORTSTER IRON 883,gas,6410,custom,clean,manual,good,883,sport bike,,,,7380,2015,dallas
+613,2015 HARLEY-DAVIDSON Sportster XL1200C,gas,21862,custom,clean,manual,excellent,,cruiser,1HD1CT315FC429870,,,6695,2015,dallas
+614,2015 HD Sportster 1200 Custom,gas,8827,orange,clean,manual,good,1200,cruiser,,,,7895,2015,beaumont
+615,2015 Harley CVO,gas,6200,custom,clean,manual,like new,,touring,,,,22500,2015,houston
+616,2015 Harley Davidson 48,diesel,218,black,clean,manual,like new,1200,,,,,9000,2015,houston
+617,2015 Harley Davidson Dyna,gas,1645,white,clean,automatic,excellent,,cruiser,1HD1GNM13FC306955,,,14000,2015,austin
+618,2015 Harley Davidson Softail Slim (GREAT CONDITION),gas,4114,blue,clean,manual,like new,1690,cruiser,,,,13800,2015,houston
+619,2015 Harley Davidson Sport-Iron883,gas,4500,black,clean,manual,excellent,883,street,,,,6900,2015,collegestation
+620,2015 Harley Davidson Street Glide Special,gas,15267,,clean,manual,excellent,,touring,,,,16500,2015,easttexas
+621,2015 Harley Davidson XL1200T Cruiser,gas,500,black,clean,manual,like new,,cruiser,,,,8700,2015,beaumont
+622,2015 Harley Davidson sportster 72,gas,9100,black,clean,manual,good,1200,bobber,,,,6200,2015,dallas
+623,2015 Harley-Davidson Cvo Street Glide FLHXSE,gas,20712,,clean,manual,,,,1HD1PXN15FB960212,,,30694,2015,corpuschristi
+624,2015 Harley-Davidson Dyna Low Rider FXDL103,gas,7767,black,clean,manual,,,,1HD1GNM1XFC323896,,,14899,2015,corpuschristi
+625,2015 Harley-Davidson Dyna Street Bob V Twin 1689.5 cc,Unknown,11,custom,clean,manual,,,,1HD1GXM15FC314549,,,11980,2015,austin
+626,2015 Harley-Davidson Heritage Softail Classic FLSTC103,gas,2638,black,clean,manual,,,,1HD1BWV12FB036626,,,17280,2015,mcallen
+627,2015 Harley-Davidson Softail Slim FLS103,gas,14789,,clean,manual,,,,1HD1JRV13FB014896,,,13999,2015,corpuschristi
+628,2015 Honda CBR 1000 RR,gas,25000,orange,clean,manual,good,1000,sport bike,,,,13500,2015,corpuschristi
+629,2015 Honda CBR 600RR 600 RR 600-RR for $195/mo a month!,gas,4841,,clean,manual,excellent,,sport bike,JH2PC4008FK801194,,,9495,2015,dallas
+630,2015 Honda CBR1000RR CBR 1000 RR CBR-1000-RR,gas,16465,,clean,manual,excellent,,sport bike,JH2SC5908FK700286,,,11299,2015,dallas
+631,2015 Honda CBR600RR (Black),gas,2990,black,clean,manual,like new,600,sport bike,,,,8000,2015,austin
+632,2015 Honda CRF250L,gas,4800,black,clean,manual,good,250,street,,,,5500,2015,dallas
+633,2015 Honda CRF450R,gas,300,,,manual,excellent,450,dirtbike,,,,4400,2015,houston
+634,2015 Honda CTX 700 Parallel Twin 670 cc,Unknown,746,blue,clean,manual,,,,JH2RC690XFK100342,,,7499,2015,houston
+635,2015 Honda NM4,gas,2500,black,clean,automatic,excellent,670,cruiser,,,,8850,2015,austin
+636,2015 Honda-vt750c2b,gas,5414,silver,clean,manual,excellent,,,JH2RC5373FK500419,,,5800,2015,dallas
+637,2015 Honda® Shadow Phantom,gas,11862,silver,clean,other,,,,JH2RC5372FK500413,,,5950,2015,austin
+638,2015 Indian Motorcycle® Chief® Vintage,gas,3487,black,clean,other,,111,,56KCCVAA3F3328815,,,13950,2015,dallas
+639,2015 Indian Scout Thunder Black V Twin 1130.7 cc,,16405,custom,clean,manual,,,,56KMSA000F3103034,,,8485,2015,corpuschristi
+640,"2015 KTM 1290 Super Adventure with less than 8,000 miles",gas,8000,,,manual,,,,,,,11200,2015,dallas
+641,2015 KTM 1290 Super Duke R ABS,gas,3054,,clean,manual,excellent,,sport bike,MH3RH06Y6FK007918,,,12499,2015,dallas
+642,2015 Kawasaki KLR650,gas,9646,green,clean,other,,,,JKAKLEE10FDA79313,,,6480,2015,austin
+643,2015 Kawasaki KX85,gas,,green,clean,other,,,,JKBKXFCC9FA004280,,,3999,2015,dallas
+644,2015 Kawasaki Ninja  ZX6R ZX 6 R ZX-6-R ZX 6R ZX-6R for $200/mo a mont,gas,6463,,clean,automatic,excellent,,sport bike,JKBZXJE19FA015115,,,9695,2015,dallas
+645,2015 Kawasaki Ninja 1000 ABS,gas,8127,,clean,manual,,1000,sport bike,JKAZXCM15FA005537,,,9599,2015,dallas
+646,2015 Kawasaki Ninja 300 Parallel Twin 296 cc,Unknown,991,green,clean,manual,,,,JKAEX8B18FA015333,,,4999,2015,dallas
+647,2015 Kawasaki Ninja 650,gas,15597,orange,lien,manual,good,,sport touring,,,,5500,2015,corpuschristi
+648,2015 Kawasaki Ninja ZX6R ZX 6 R ZX-6-R ABS Ninja ZX 6R ABS Ninja ZX-6,gas,8058,,clean,manual,excellent,,sport bike,JKBZXJF16FA006807,,,9499,2015,beaumont
+649,2015 Kawasaki Ninja ZX6R ZX 6 R ZX-6-R Ninja ZX 6R Ninja ZX-6R,gas,5822,,clean,manual,excellent,,sport bike,JKBZXJE14FA016415,,,9649,2015,amarillo
+650,2015 Kawasaki Versys,gas,6463,,clean,automatic,excellent,,sport bike,JKBZXJE19FA015115,,,5200,2015,dallas
+651,2015 MV Agusta Stradale 800 EAS ABS,gas,4403,,clean,other,,,,ZCGRGGNT6FV002852,,,8750,2015,dallas
+652,2015 Polaris Slingshot SL LE In-line 2384 cc,Unknown,22750,custom,clean,manual,,,,57XAAPFA1F5104560,,,19999,2015,dallas
+653,2015 Road Glide Special Custom,gas,35000,black,,manual,excellent,,touring,,,,26999,2015,sanantonio
+654,2015 Royal Enfield Continental GT Cafe Racer,gas,800,black,clean,manual,excellent,,cafe racer,,,,3500,2015,austin
+655,2015 Suzuki GSXR 750 GSX R 750 GSX-R 750,gas,11113,,clean,manual,excellent,,sport bike,JS1GR7MA0F2100414,,,10749,2015,dallas
+656,2015 Suzuki GSXR600 GSXR 600 GSXR-600 GSX R600 GSX-R600,gas,2223,,clean,manual,excellent,,sport bike,JS1GN7FA7F2100161,,,9499,2015,dallas
+657,2015 Suzuki GSXR750 GSXR 750 GSXR-750  FOR ONLY,gas,20996,,clean,manual,excellent,,standard,JS1GR7MA6F2100529,,,8995,2015,dallas
+658,2015 Ultra Classic,gas,14047,black,clean,other,,103,,1HD1KDM17FB642039,,,17000,2015,dallas
+659,2015 Victory Gunner,gas,6977,grey,clean,manual,excellent,1731,cruiser,,,,9500,2015,amarillo
+660,2015 Yamaha Bolt C-Spec V Twin 942 cc,Unknown,4202,Unknown,clean,manual,,,,JYAVN06E5FA000911,,,5980,2015,austin
+661,"2015 Yamaha FZ-07 Motorcycle 11,000 Miles",gas,11070,white,clean,manual,excellent,689,sport bike,,,,5300,2015,austin
+662,2015 Yamaha FZ6,gas,11746,red,clean,manual,like new,600,sport bike,,,,6500,2015,corpuschristi
+663,2015 Yamaha Super Tenere,gas,32500,,clean,manual,like new,,dual-sport,,,,8900,2015,dallas
+664,2015 Yamaha V Star 950 V Twin 942 cc,Unknown,74244,blue,clean,manual,,,,JYAVN01E5FA022284,,,5250,2015,dallas
+665,2015 Yamaha V Star® 950,gas,13069,,,manual,excellent,,,,,,6499,2015,amarillo
+666,2015 Yamaha YZ250 F,gas,,red,clean,other,,,,JYACG34C4FA011449,,,5450,2015,austin
+667,2015 Yamaha YZFR6 YZFR 6 YZFR-6 YZF R6 YZF-R6,gas,10860,,clean,manual,excellent,,sport bike,JYARJ16E8FA033288,,,9899,2015,dallas
+668,2015 Yellow Yamaha FZ-09 Sportbike Motorcycle,gas,8668,yellow,clean,manual,excellent,847,sport bike,JYARN33E6FA004781,,,5900,2015,dallas
+669,2015 kawasaki ninja 1000 ABS low miles clean title,gas,8127,,clean,manual,,1000,sport bike,JKAZXCM15FA005537,,,8200,2015,dallas
+670,2015 r6,gas,25000,,,manual,,600,,,,,7000,2015,beaumont
+671,2016 *Harley-Davidson* *FLD* *Dyna* *Switch* *Back*,other,14537,black,clean,manual,,,,1HD1GZM19GC325244,,,13872,2016,abilene
+672,2016 *Harley-Davidson* *FLHX* *Street* *Glide*,other,4466,black,clean,manual,,,,1HD1KBM19GB679549,,,21500,2016,abilene
+673,2016 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special*,other,9040,red,clean,manual,,,,1HD1KRM14GB615007,,,19982,2016,abilene
+674,2016 *Harley-Davidson* *FLSS* *Softail* *Slim* *S* *110*,other,1318,black,clean,manual,,,,1HD1JS916GB012448,,,18972,2016,abilene
+675,2016 *Harley-Davidson* *FXDB* *Dyna* *Street*,other,775,grey,clean,manual,,,,1HD1GXM15GC321874,,,14754,2016,abilene
+676,2016 *Harley-Davidson* *Freewheeler* *FLRT*,other,28130,red,clean,manual,,,,1HD1MCM16GB853884,,,21473,2016,abilene
+677,2016 *Harley-Davidson* *Heritage* *Softail* *Classic*,other,21259,silver,clean,manual,,,,1HD1BWV12GB031430,,,12984,2016,abilene
+678,2016 *Harley-Davidson* *Heritage* *Softail* *Classic* *FLSTC* 103,other,36055,,clean,manual,,,,1HD1BWV19GB044997,,,15473,2016,abilene
+679,2016 *Harley-Davidson* *Road* *King* *FLHR*,other,20419,black,clean,manual,,,,1HD1FBM19GB688790,,,15751,2016,abilene
+680,2016 *Harley-Davidson* *Sportster* *1200* *Custom*,other,9440,red,clean,manual,,,,1HD1CT313GC444143,,,8950,2016,abilene
+681,2016 *Harley-Davidson* *Street* *Bob* *FDXB103*,other,6718,black,clean,manual,,,,1HD1GXM12GC320763,,,13952,2016,abilene
+682,2016 *Harley-Davidson* *Street* *Glide*,other,40469,white,clean,manual,,,,1HD1KBM17GB647635,,,17573,2016,abilene
+683,2016 *Harley-Davidson* *Ultra* *Limited* *FLHTK*,other,5476,,clean,manual,,,,1HD1KEL1XGB619895,,,18983,2016,abilene
+684,2016 *Harley-Davidson* *XL1200V* *Sportster* *Seventy-Two*,other,2495,grey,clean,manual,,,,1HD1LF313GC421639,,,10471,2016,abilene
+685,2016 *Polaris* *Slingshot* *SL*,other,15017,red,clean,manual,,,,57XAAPFA1G5110103,,,23872,2016,abilene
+686,2016 Aprilla rsv4,gas,7113,silver,clean,manual,like new,1000,sport bike,,,,10000,2016,houston
+687,2016 BMW F 800 R,gas,9100,blue,clean,manual,excellent,798,standard,,,,7995,2016,houston
+688,2016 BMW F700GS,gas,15566,,clean,manual,like new,798,dual-sport,,,,10000,2016,houston
+689,2016 BMW R 1200 GS Adventure Premium Light White,gas,34253,white,clean,other,,,,WB10A1201GZ666318,,,16980,2016,austin
+690,2016 BMW R nineT,gas,786,black,clean,manual,like new,,,,,,13250,2016,sanantonio
+691,2016 BMW S1000RR,,10253,white,clean,,,,,WB10D2100GZ355428,,,14980,2016,dallas
+692,2016 BMW S1000RR - FINANCING AVAILABLE!,gas,7138,black,clean,manual,excellent,999,sport bike,,,,16290,2016,dallas
+693,2016 CBR650 Excellent Condition,gas,15000,black,clean,manual,excellent,650,sport bike,,,,6700,2016,houston
+694,2016 Can-Am Spyder RT 6-Speed Manual (SM6) In-line 1330 cc,Unknown,10414,black,clean,manual,,,,2BXNBCD23GV000160,,,17999,2016,dallas
+695,2016 Ducati 821 Dark Edition,gas,6800,,clean,manual,good,,sport bike,,,,5700,2016,amarillo
+696,2016 Ducati 959 Panigale,gas,11850,white,clean,manual,excellent,959,sport bike,,,,11000,2016,corpuschristi
+697,2016 Ducati Hyperstrada,gas,11500,,,manual,excellent,,sport touring,,,,8000,2016,houston
+698,2016 Ducati Monster 821,gas,49,black,clean,manual,like new,821,sport bike,,,,10500,2016,austin
+699,2016 Ducati Multistrada 1200 Pikes Peak,gas,30377,white,clean,other,,,,ZDM12BWWXGB009409,,,12796,2016,sanantonio
+700,2016 Ducati Multistrada 1200 S Iceberg White,gas,6163,white,clean,other,,,,ZDM12BWW7GB015023,,,15780,2016,austin
+701,2016 Ducati Scrambler Classic,gas,11864,orange,clean,manual,excellent,803,street,,,,8250,2016,austin
+702,2016 Ducati Scrambler Urban Enduro,gas,8300,green,clean,manual,excellent,803,dual-sport,,,,7400,2016,amarillo
+703,2016 HARLEY DAVISON 72 Edition 1200,gas,5250,grey,clean,manual,like new,1200,cafe racer,1HD1LF318GC443846,,,11999,2016,houston
+704,2016 HD Ultra Limited,gas,6000,black,clean,manual,excellent,,touring,,,,19500,2016,dallas
+705,2016 Harley Davidson Fourty Eight,gas,5612,black,clean,automatic,good,1200,bobber,,,,9000,2016,dallas
+706,2016 Harley Davidson Heritage Softail,gas,347,black,clean,manual,excellent,,cruiser,1HD1YBK14LB065522,,,15200,2016,dallas
+707,2016 Harley Davidson Road Glide,gas,9900,black,clean,manual,like new,,touring,,,,17500,2016,austin
+708,2016 Harley Davidson Road Glide special in Black Quartz,gas,9900,black,clean,manual,like new,,touring,,,,19500,2016,austin
+709,2016 Harley Davidson Road King,gas,7411,black,clean,manual,excellent,1690,touring,1HD1FHM17GB675085,,,16000,2016,amarillo
+710,2016 Harley Davidson Road glide,gas,31224,silver,clean,other,,110,,1HD1TAN10GB955901,,,15500,2016,dallas
+711,2016 Harley Davidson Softail Slim,Unknown,10695,black,clean,manual,,,,1HD1JRV17GB021710,,,16500,2016,houston
+712,2016 Harley Davidson Triglide,gas,23033,green,clean,manual,excellent,1688,trike,,,,27000,2016,sanantonio
+713,2016 Harley FLHTKL,gas,5435,black,clean,manual,like new,,touring,,,,25000,2016,mcallen
+714,2016 Harley Road Glide Special,gas,9900,black,clean,manual,like new,,touring,,,,19500,2016,austin
+715,2016 Harley Street Bob,gas,5500,black,clean,manual,good,103,bobber,,,,16000,2016,austin
+716,2016 Harley davidson streetglide CVO,gas,5800,black,clean,manual,excellent,110,street,,,,24900,2016,dallas
+717,2016 Harley-Davidson Softail Slim V Twin 1689.5 cc,Unknown,10695,black,clean,manual,,,,1HD1JRV17GB021710,,,11980,2016,austin
+718,2016 Harley-Davidson Switchback Dyna®,gas,2922,,clean,other,,,,1HD1GZM14GC310182,,,11985,2016,dallas
+719,2016 Harley-Davidson Touring Road King V Twin 1689.5 cc,Unknown,2170,red,clean,manual,,,,1HD1FBM11GB640992,,,12980,2016,austin
+720,2016 Harley-Davidson Touring Ultra Limited FLHTK,gas,6944,black,clean,manual,,,,1HD1KEL14GB688436,,,22999,2016,corpuschristi
+721,2016 Honda CBR 600RR Horizontal In-line 599 cc,Unknown,7414,blue,clean,manual,,,,JH2PC40J4GK200701,,,6980,2016,austin
+722,2016 Honda CBR1000RR CBR 1000 RR CBR-1000-RR  FOR ONLY,gas,9979,,clean,manual,excellent,,sport bike,JH2SC7756HK000246,,,10995,2016,dallas
+723,2016 Honda CBR600RR CBR 600 RR CBR-600-RR,gas,6056,,clean,manual,excellent,,sport bike,JH2PC40J4GK200245,,,9599,2016,beaumont
+724,2016 Honda Goldwing F6B Deluxe,gas,28103,grey,clean,manual,excellent,1833,touring,,,,16000,2016,sanantonio
+725,2016 Indian Motorcycle® Roadmaster,gas,7075,blue,clean,other,,111,,56KTRAAAXG3331428,,,20450,2016,dallas
+726,2016 Indian Scout 1300 cc,gas,14773,,rebuilt,manual,,,,,,,6500,2016,dallas
+727,2016 Indian Springfield Thunder Black V Twin 1811 cc,,19064,custom,clean,manual,,,,56KTHAAA8G3338168,,,15985,2016,austin
+728,2016 KAWASAKI KX450F,gas,Unknown,green,clean,manual,like new,450,dirtbike,,,,4500,2016,houston
+729,2016 KLR650 Mint!,gas,3355,green,clean,manual,,650,dual-sport,,,,5995,2016,corpuschristi
+730,2016 KTM 1290 Super Duke R,gas,1465,orange,clean,other,,,,VBKV39405GM936953,,,13350,2016,austin
+731,2016 KTM 65SX,gas,Unknown,orange,clean,manual,excellent,65,dirtbike,,,,3400,2016,austin
+732,2016 Kawasaki Concours 14,gas,4275,grey,clean,manual,excellent,1400,sport touring,,,,11000,2016,dallas
+733,2016 Kawasaki Ninja 300 ABS for $93/mo a month!,gas,12158,,clean,manual,good,,sport bike,JKAEX8B15GDA27880,,,4495,2016,dallas
+734,2016 Kawasaki Ninja 650 for $134/mo a month!,gas,5741,,clean,manual,excellent,,sport bike,JKAEXEE17GDA21279,,,6495,2016,dallas
+735,2016 Kawasaki Ninja ZX10R ZX 10 R ZX-10-R KRT ABS Ninja ZX 10R KRT AB,gas,40953,,clean,manual,excellent,,sport bike,JKAZXCS17GA003583,,,11999,2016,abilene
+736,2016 Kawasaki Ninja® ZX-10R ABS KRT Edition,gas,5643,green,clean,other,,,,JKAZXCS15GA004974,,,13750,2016,dallas
+737,2016 Kawasaki ninja 650 krt,gas,40953,,clean,manual,excellent,,sport bike,JKAZXCS17GA003583,,,6100,2016,sanantonio
+738,2016 Ninja 300,gas,23899,white,clean,other,,,,,,,3000,2016,austin
+739,2016 Suzuki Bandit 1250s ABS,gas,4400,red,clean,manual,,1225,,,,,6595,2016,corpuschristi
+740,2016 Suzuki GSX-S1000 ABS,gas,13741,red,clean,other,,,,JS1GT7AA4G2100441,,,7790,2016,dallas
+741,2016 Suzuki M109R Boulevard B.O.S.S.,gas,8500,black,clean,manual,excellent,1783,street,,,,11000,2016,brownsville
+742,2016 Suzuki Speed bike,gas,19658,grey,clean,manual,like new,,sport bike,,,,8000,2016,dallas
+743,2016 Triumph America Bobber,gas,27500,,,manual,,,,,,,2500,2016,houston
+744,2016 Triumph Daytona 675 R,gas,13142,,clean,manual,excellent,,sport bike,SMTA02YK2GJ732643,,,9999,2016,dallas
+745,2016 Triumph Speed Triple R ABS for $210/mo a month!,gas,Unknown,,clean,manual,excellent,,sport bike,SMTN51PP7GJ747813,,,10195,2016,dallas
+746,2016 Victory Motorcycles® Magnum X-1 Stealth Edition,gas,11065,,clean,other,,106,,5VPUW36N3G3052253,,,14990,2016,dallas
+747,2016 YAMAHA YZF-R6,gas,20769,grey,clean,manual,good,599,sport bike,,,,8980,2016,dallas
+748,2016 Yamaha FZ 09 for $169/mo a month!,gas,1961,,clean,manual,excellent,,standard,JYARN33E6GA010159,,,8195,2016,dallas
+749,2016 Yamaha R1 R 1 R-1,gas,10175,,clean,manual,excellent,,sport bike,JYARN42Y1GA000320,,,14299,2016,abilene
+750,2016 Yamaha YZF R6 Horizontal In-line 599 cc,Unknown,11363,yellow,clean,manual,,,,JYARJ16E0GA035263,,,9999,2016,dallas
+751,2016 Yamaha YZF R6 R 6 R-6 for $214/mo a month!,gas,7107,,clean,manual,excellent,,sport bike,JYARJ16E4GA036741,,,10399,2016,dallas
+752,2016 Yamaha YZF R6 R 6 R-6 for $226/mo a month!,gas,2880,,clean,manual,excellent,,sport bike,JYARJ16E7GA036250,,,10995,2016,dallas
+753,2016 Yamaha YZFR6 YZFR 6 YZFR-6 60th 60 th 60-th anniversary YZF R6 6,gas,3746,,clean,manual,excellent,,sport bike,JYARJ16E4GA036044,,,10849,2016,beaumont
+754,2016 ZX6R,gas,1000,black,clean,manual,excellent,,sport bike,,,,10000,2016,dallas
+755,2016 cheiftian,gas,57000,silver,clean,manual,excellent,1000,other,,,,15000,2016,amarillo
+756,2016 harley davidson ultra limited,gas,16122,silver,clean,other,,,,1HD1TEN10GB958904,,,18000,2016,sanantonio
+757,2016 ktm 250xc,gas,59,,,manual,excellent,250,dirtbike,,,,5900,2016,dallas
+758,2017 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special*,other,12020,black,clean,manual,,,,1HD1KRC10HB690872,,,19984,2017,abilene
+759,2017 *Harley-Davidson* *FLTRXS* *Road* *Glide* *Special*,other,14548,,clean,manual,,,,1HD1KTC12HB665887,,,24981,2017,abilene
+760,2017 *Harley-Davidson* *Freewheeler* *FLRT*,other,8898,black,clean,manual,,,,1HD1MCC11HB861085,,,22473,2017,abilene
+761,2017 *Harley-Davidson* *Low* *Rider* *S*,other,5809,black,clean,manual,,,,1HD1GS81XHC324655,,,17752,2017,abilene
+762,2017 *Harley-Davidson* *Softail* *Slim*,other,5070,black,clean,manual,,,,1HD1JRV10HB013983,,,13974,2017,abilene
+763,2017 *Harley-Davidson* *Sportster* *1200* *Custom* *XL1200C*,other,1667,red,clean,manual,,,,1HD1CT317HC430845,,,9591,2017,abilene
+764,2017 *Harley-Davidson* *Street* *Glide* *Fat* *Tire* *Conversion*,other,15982,black,clean,manual,,,,1HD1KBC16HB693251,,,19984,2017,abilene
+765,2017 *Harley-Davidson* *Street* *Glide* *Special* *FLHXS*,other,12020,black,clean,manual,,,,1HD1KRC10HB690872,,,21983,2017,abilene
+766,2017 *Harley-Davidson* *SuperLow* *1200T* *XL1200T*,other,1861,,clean,manual,,,,1HD1LL319HC434945,,,10991,2017,abilene
+767,2017 *Harley-Davidson* *XL1200CX* *Sportster* *CX* ROADSTER,other,6156,black,clean,manual,,,,1HD1LM313HC435448,,,9500,2017,abilene
+768,2017 *Indian Motorcycle* *Chieftan* *Black* Pearl,other,11527,black,clean,manual,,,,56KTCAAA5H3347281,,,19991,2017,abilene
+769,2017 BMW F800GS,gas,16500,white,clean,manual,like new,800,touring,,,,10500,2017,waco
+770,2017 BMW R 1200 GS Rally Premium,gas,9875,blue,clean,other,,,,WB10A6109HZ656166,,,15950,2017,dallas
+771,2017 Can-Am® Spyder® F3 SE6,gas,6296,black,clean,other,,,,2BXRDDD26HV002598,,,16950,2017,dallas
+772,2017 Can-Am® Spyder® RT Limited 6-Speed Semi-Automatic (SE6),gas,2053,blue,clean,other,,,,2BXNBDD25HV000443,,,23950,2017,austin
+773,2017 Ducati 1299 Panigale S  -Premium Dealer!,gas,2880,,clean,manual,excellent,,sport bike,ZDMDAGNW4KB006111,,,19995,2017,amarillo
+774,2017 Ducati 1299S 1299 S 1299-S ABS,gas,525,,clean,manual,excellent,,sport bike,ZDM14BYWXHB008690,,,19888,2017,abilene
+775,2017 Ducati Scrambler Desert Sled White Mirage,gas,2306,white,clean,other,,,,ZDMKAFBM4HB000130,,,10490,2017,dallas
+776,2017 ElectraGlide Classic FLHTP,gas,17981,black,clean,manual,excellent,1690,touring,,,,16725,2017,houston
+777,2017 Harley  Trike,gas,4000,,,manual,,,,,,,12500,2017,mcallen
+778,2017 Harley Davidson 750,gas,2000,black,clean,manual,like new,,street,,,,6500,2017,dallas
+779,2017 Harley Davidson Electra Glide Ultra Limited FLHTK,gas,6293,,,manual,like new,1750,touring,1HD1KED13HB644024,,,25500,2017,austin
+780,2017 Harley Davidson Softail Slim S,gas,11000,black,clean,manual,excellent,,cruiser,,,,16500,2017,easttexas
+781,2017 Harley Davidson Sportster XL1200C +Xtras,gas,3900,black,clean,manual,like new,1200,cruiser,,,,7000,2017,houston
+782,2017 Harley Davidson Street Glide Special,gas,20136,black,clean,other,,107,,1HD1KRC18HB663726,,,22000,2017,dallas
+783,2017 Harley Davidson Street Glider Model FLH,gas,7446,black,clean,manual,like new,1750,,,,,18000,2017,dallas
+784,2017 Harley Davidson Streetglide Special,other,14184,,clean,automatic,,,,5HD1GYMC6HC308018,,,22500,2017,houston
+785,2017 Harley road glide,gas,7336,red,clean,manual,like new,107,touring,,,,20900,2017,houston
+786,2017 Harley tri glide,gas,3900,silver,clean,manual,like new,,,,,,31000,2017,amarillo
+787,2017 Harley-Davidson Cvo Street Glide FLHXSE,gas,40177,black,clean,manual,,,,1HD1PXF3OHB960900,,,37999,2017,corpuschristi
+788,2017 Harley-Davidson Fat Boy S FLSTFBS,gas,9981,black,clean,manual,,,,1HD1JT915HC014404,,,18299,2017,corpuschristi
+789,2017 Harley-Davidson S-Series Slim,gas,1709,black,clean,manual,excellent,Unknown,cruiser,1HD1JS910HB038254,,,15995,2017,dallas
+790,2017 Harley-Davidson Softail Slim FLS,gas,13000,black,clean,manual,excellent,1700,cruiser,,,,13000,2017,amarillo
+791,2017 Harley-Davidson Sportster,gas,5203,black,clean,manual,excellent,,cruiser,1HD4LE213HC408366,,,7495,2017,dallas
+792,2017 Harley-Davidson Touring Road Glide Special FLTRXS,gas,6690,,clean,manual,,,,1HD1KTC17HB612845,,,29846,2017,mcallen
+793,2017 Harley-Davidson Touring Street Glide Special FLHXS,gas,6704,,clean,manual,,,,1HD1KRC19HB641296,,,26499,2017,corpuschristi
+794,2017 Harley-Davidson Touring Ultra Limited FLHTK,gas,29681,,clean,manual,,,,1HD1KED10HB615015,,,24199,2017,corpuschristi
+795,2017 Harley-Davidson Touring Ultra Limited Low FLHTKL,gas,21621,black,clean,manual,,,,1HD1KKD18HB676210,,,25130,2017,corpuschristi
+796,2017 Honda CBR1000RR CBR 1000 RR CBR-1000-RR ABS,gas,9979,,clean,manual,excellent,,sport bike,JH2SC7756HK000246,,,13599,2017,dallas
+797,2017 Honda CRF230f,gas,230,red,clean,manual,excellent,230,dirtbike,,,,4000,2017,dallas
+798,2017 Honda CRF250L 250R Single-Cylinder 249 cc,Unknown,5715,custom,clean,manual,,,,MLHMD4414H5005536,,,5499,2017,dallas
+799,2017 Honda Rebel 500,gas,1797,yellow,clean,manual,excellent,500,standard,,,,5500,2017,austin
+800,2017 Honda Ruckus,Unknown,1557,white,clean,automatic,,,,JH2AF5818HK504610,,,2599,2017,waco
+801,2017 Honda® Africa Twin CRF1000L,gas,3141,red,clean,other,,,,JH2SD044XHK101354,,,11480,2017,austin
+802,2017 Honda® Gold Wing Audio Comfort Ultra Blue Metallic/Black,gas,3743,blue,clean,other,,,,JH2SC68G9HK500203,,,22980,2017,austin
+803,2017 Indian Chieftain Dark Horse Custom V Twin 1811 cc,,18347,custom,clean,manual,,,,56KTCDAA2H3343500,,,18985,2017,austin
+804,2017 Indian Springfield Steel Gray Over Burgundy Metallic V Twin 1811,,18999,custom,clean,manual,,,,56KTHAAA0H3348226,,,18985,2017,austin
+805,2017 Iron 883 Sportster,gas,9500,green,clean,manual,excellent,883,cruiser,1HD4LE212HC406866,,,8000,2017,austin
+806,2017 KTM 125 SX,gas,100,,clean,manual,good,,dirtbike,,,,5000,2017,sanantonio
+807,2017 KTM RC 390 ABS,Unknown,18064,custom,clean,other,,,,MD2JYJ407HC285426,,,4788,2017,houston
+808,2017 Kawasaki KX 450F,gas,1111111,black,,manual,excellent,450,,,,,5500,2017,dallas
+809,2017 Kawasaki Klr 650,gas,35435,black,clean,manual,excellent,650,dual-sport,,,,4000,2017,austin
+810,2017 Kawasaki Ninja  ZX10R ZX 10 R ZX-10-R ABS ZX 10R ABS ZX-10R ABS f,gas,4825,,clean,manual,excellent,,sport bike,JKAZXCS15HA009884,,,13995,2017,dallas
+811,2017 Kawasaki Ninja  ZX6R ZX 6 R ZX-6-R ZX 6R ZX-6R for $185/mo a mont,gas,19696,,clean,manual,good,,sport bike,JKBZXJE13HA025268,,,8999,2017,dallas
+812,2017 Kawasaki Ninja 650 Abs for $148/mo a month!,gas,4409,,clean,manual,excellent,,sport bike,JKAEXEK17HDA01801,,,7199,2017,dallas
+813,2017 Kawasaki Ninja ZX-14R ABS Horizontal In-line 1441 cc,Unknown,12173,custom,clean,manual,,,,JKBZXNH13HA004570,,,11999,2017,dallas
+814,2017 Kawasaki Ninja ZX14R ZX 14 R ZX-14-R ABS Ninja ZX 14R ABS Ninja,gas,7786,,clean,manual,excellent,,sport bike,JKBZXNH10HA004901,,,12749,2017,dallas
+815,2017 Kawasaki Vulcan® 1700 Voyager® ABS,gas,994,black,clean,other,,,,JKBVNRB17HA014507,,,14950,2017,dallas
+816,2017 Kawasaki ZX1000 ZX 1000 ZX-1000 ABS  FOR ONLY,gas,7045,,clean,manual,excellent,,standard,JKAZXCW16HA003781,,,8495,2017,dallas
+817,2017 Motus MST,gas,1373,red,clean,other,,,,1B9SM4168HB975053,,,17750,2017,dallas
+818,2017 Polaris Slingshot SLR,gas,13762,orange,clean,other,,,,57XAARFA0H8120049,,,21995,2017,dallas
+819,2017 Polaris Slingshot SLR Orange Madness,Unknown,8389,Unknown,clean,other,,,,57XAARFA3H8124418,,,28499,2017,houston
+820,2017 Polaris® Slingshot® SLR Orange Madness,gas,13762,orange,clean,other,,,,57XAARFA0H8120049,,,25850,2017,dallas
+821,2017 Reverse Trike Mod on a 2005 GL 1800 Goldwing Anniversary Model Mo,gas,135400,white,clean,manual,good,1832,trike,1HFSC47055A402200,,,17850,2017,houston
+822,2017 Road Glide Special,gas,15185,blue,clean,other,,107,,1HD1KTC16HB666847,,,21600,2017,dallas
+823,2017 Road Glide Special-Many upgrades,gas,14669,,clean,manual,,,touring,,,,25000,2017,houston
+824,2017 SUZUKI HAYABUSA,gas,4346,white,clean,manual,excellent,1349,sport bike,,,,13990,2017,dallas
+825,2017 Suzuki GSXR1000 GSXR 1000 GSXR-1000 GSX R1000 GSX-R1000,gas,16191,,clean,manual,excellent,,sport bike,JS1DM11BXH2101634,,,13199,2017,dallas
+826,2017 Suzuki GSXR1000RL7 GSXR 1000 RL 7 GSXR-1000-RL-7 GSX R1000RL7 GS,gas,2312,,clean,manual,excellent,,sport bike,JS1DM11HXH2100665,,,15699,2017,beaumont
+827,2017 Triumph Bonneville,gas,13470,,clean,manual,excellent,,sport bike,SMTA02YK2HJ788678,,,7995,2017,dallas
+828,2017 Triumph Bonneville T120,gas,8358,black,clean,other,,,,,,,10999,2017,austin
+829,2017 Triumph Bonneville T120 Black,gas,22933,black,clean,other,,,,SMTD40HL9HT815703,,,8996,2017,dallas
+830,2017 Triumph DAYTONA 675 R (ABS),gas,1569,,clean,manual,excellent,,sport bike,SMTA02YK8HJ780228,,,10990,2017,beaumont
+831,2017 Triumph Daytona 675R 675 R 675-R for $214/mo a month!,gas,13470,,clean,manual,excellent,,sport bike,SMTA02YK2HJ788678,,,10395,2017,dallas
+832,2017 Triumph Street Triple R ABS for $181/mo a month!,gas,12008,,clean,manual,excellent,,sport bike,SMTL03NE4HT781152,,,8795,2017,dallas
+833,2017 Triumph Tiger Explorer XCA Crystal White,gas,17724,green,clean,other,,,,SMTF45XB9HJ765220,,,14667,2017,dallas
+834,2017 Triumph Tiger Explorer XRX Crystal White,gas,12758,white,clean,other,,,,SMTF42XB3HJ766149,,,13680,2017,austin
+835,2017 Victory Motorcycles® Octane®,gas,592,black,clean,other,,,,5VPFTB007H3003616,,,9450,2017,corpuschristi
+836,2017 Victory Vegas,gas,890,red,clean,manual,like new,,cruiser,,,,10999,2017,beaumont
+837,2017 Yamaha Bolt Rspec,gas,7300,red,clean,manual,excellent,950,cruiser,,,,6500,2017,dallas
+838,2017 Yamaha FZ07,gas,17700,red,clean,manual,good,689,sport bike,,,,5500,2017,collegestation
+839,2017 Yamaha YZ 125 2 Stroke,gas,10,,,manual,good,,dirtbike,,,,3900,2017,houston
+840,2017 Yamaha YZ250 FX,gas,16,,,manual,excellent,,dirtbike,,,,5500,2017,dallas
+841,2017 Yamaha YZF R6 Horizontal In-line 599 cc,,9408,blue,clean,manual,,,,JYARJ28EXHA000623,,,12499,2017,dallas
+842,2017 iron 883,gas,520,black,clean,manual,,,,,,,7500,2017,houston
+843,2017 triumph bonneville,gas,13470,,clean,manual,excellent,,sport bike,SMTA02YK2HJ788678,,,9500,2017,dallas
+844,2018 *Harley-Davidson* *Breakout* *114* *FXBRS*,other,10115,red,clean,manual,,,,1HD1YHK18JC085198,,,18772,2018,abilene
+845,2018 *Harley-Davidson* *FLHC* *Heritage* *Classic*,other,12509,black,clean,manual,,,,1HD1YAJ18JC084304,,,17984,2018,abilene
+846,2018 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special*,other,2384,black,clean,manual,,,,1HD1KRC18JB655311,,,24754,2018,abilene
+847,2018 *Harley-Davidson* *FLTRXS* *Road* *Glide* *Special*,other,1973,black,clean,manual,,,,1HD1KTC17JB676101,,,27752,2018,abilene
+848,2018 *Harley-Davidson* *Iron* *883* *XL883N*,other,3324,black,clean,manual,,,,1HD4LE213JC415176,,,8900,2018,abilene
+849,2018 *Harley-Davidson* *Street* *Glide* *Special* *FLHXS*,other,2384,black,clean,manual,,,,1HD1KRC18JB655311,,,24572,2018,abilene
+850,2018 *Kawasaki* *KX450F*,other,25,green,clean,manual,,,,JKAKXGHC3JA017781,,,6992,2018,abilene
+851,2018 *Triumph* *Street* *Triple* *R* ** *765*,other,4678,silver,clean,manual,,,,SMTA434D6JT846576,,,10791,2018,abilene
+852,2018 Aprilia® Shiver 900,gas,1588,silver,clean,other,,,,ZD4KHU003JS000061,,,8996,2018,dallas
+853,2018 Aprilia® Tuono V4 1100 RR ABS,gas,8492,silver,clean,other,,,,ZD4KGU002JS000815,,,13880,2018,austin
+854,2018 BMW C650 Sport,gas,1375,yellow,clean,automatic,,,scooter,,,,9500,2018,beaumont
+855,2018 BMW K 1600 B Black Storm Metallic Premium,gas,25379,black,clean,other,,,,WB10F5300JZG17273,,,17950,2018,austin
+856,2018 BMW S 1000 R Catalano Grey,gas,509,,clean,other,,,,WB10D6205JZ762402,,,13980,2018,austin
+857,2018 CRF450R,gas,Unknown,red,clean,manual,like new,450,dirtbike,,,,8200,2018,houston
+858,2018 Can-Am Sypder F3,gas,6000,blue,clean,other,like new,1330,trike,,,,22500,2018,dallas
+859,2018 Ducati PANIGALE V4 V 4 V-4 S,gas,10227,,clean,manual,excellent,,sport bike,ZDMDAGNW9JB000772,,,22999,2018,beaumont
+860,2018 Ducati Panigale 959,gas,12754,,clean,manual,excellent,,sport bike,ZDM14B1W0JB007936,,,14499,2018,abilene
+861,2018 Ducati Panigale V4 W/Ohlins & Marchesini Wheels,gas,3800,red,clean,manual,like new,1100,sport bike,,,,22500,2018,dallas
+862,2018 Ducati Scrambler 1100 Sport Longitudinal Twin 1079 cc,Unknown,2427,custom,clean,manual,,,,ZDMKAFCP6JB000788,,,11999,2018,dallas
+863,2018 GSX r 750,gas,3130,black,clean,automatic,like new,750,sport bike,,,,11500,2018,beaumont
+864,2018 HARLEY STREET GLIDE SPECIAL FLHXS,gas,27531,white,clean,manual,good,107,touring,,,,19750,2018,houston
+865,2018 Harley Davidson 1200 Custom,gas,6200,,,manual,,,,,,,10999,2018,easttexas
+866,2018 Harley Davidson Heritage Classic,gas,4365,silver,clean,manual,excellent,,cruiser,,,,17999,2018,beaumont
+867,2018 Harley Davidson Road Glide CVO Gunship Grey,gas,15353,grey,lien,manual,good,2100,touring,,,,36000,2018,dallas
+868,2018 Harley Davidson Sport Glide,gas,9463,black,clean,manual,excellent,,cruiser,,,,16499,2018,beaumont
+869,2018 Harley Electra glide,gas,6500,blue,,manual,like new,,touring,,,,22000,2018,easttexas
+870,2018 Harley Road Glide,gas,15353,grey,lien,manual,good,2100,touring,,,,23000,2018,dallas
+871,2018 Harley Street Glide,gas,20000,black,clean,manual,excellent,107,touring,,,,23000,2018,easttexas
+872,2018 Harley-Davidson Cvo Road Glide FLTRXSE CVO,gas,4734,,clean,manual,,,,1HD1TCL12JB953587,,,42999,2018,corpuschristi
+873,2018 Harley-Davidson Iron 883,gas,5521,grey,clean,manual,excellent,,cruiser,1HD4LE212JC405819,,,6999,2018,beaumont
+874,2018 Harley-Davidson Softail Breakout 114 FXBRS,gas,10893,black,clean,manual,,,,1HD1YHK19JC069821,,,22599,2018,corpuschristi
+875,2018 Harley-Davidson Softail Fat Bob FXFB,gas,769,black,clean,manual,,,,1HD1YKJ14JC029547,,,16999,2018,corpuschristi
+876,2018 Harley-Davidson Softail Low Rider FXLR,gas,3140,black,clean,manual,,,,1HD1YNJ17JC037997,,,16599,2018,corpuschristi
+877,2018 Harley-Davidson Touring Road Glide FLTRX,gas,11236,black,clean,manual,,,,1HD1KHC10JB685560,,,23599,2018,corpuschristi
+878,2018 Harley-Davidson Touring Road King FLHR,gas,3291,black,clean,manual,,,,1HD1FBC17JB679157,,,22313,2018,corpuschristi
+879,2018 Harley-Davidson Touring Street Glide FLHX,gas,10099,,clean,manual,,,,1HD1KBC15JB634701,,,27236,2018,corpuschristi
+880,2018 Harley-Davidson Touring Street Glide Special FLHXS,gas,1530,black,clean,manual,,,,1HD1KRC11JB628547,,,31999,2018,mcallen
+881,2018 Honda Africa twin,gas,1000,,,other,,1000,,,,,13995,2018,houston
+882,2018 Honda CBR600RR CBR 600 RR CBR-600-RR,gas,1700,,clean,manual,excellent,,sport bike,JH2PC40J8JK400438,,,10990,2018,beaumont
+883,2018 Honda CRF 450R Single-Cylinder 449.7 cc,Unknown,Unknown,red,clean,manual,,,,JH2PE073XJK100913,,,7499,2018,dallas
+884,2018 Honda CRF250L Rally Dual Sport,gas,19486,,clean,other,,,,MLHMD441XJ5100480,,,4387,2018,dallas
+885,2018 Honda Grom Modified Stunt Ready,gas,2866,,clean,manual,like new,125,,,,,3400,2018,dallas
+886,2018 Honda grom,gas,3407,red,clean,manual,excellent,,standard,,,,3000,2018,amarillo
+887,2018 Honda® Africa Twin CRF1000L DCT,gas,5947,black,clean,other,,,,JH2SD0419JK200162,,,12980,2018,austin
+888,2018 Honda® CB1000RAJ,gas,14061,black,clean,other,,,,JH2SC801XJK000348,,,11480,2018,austin
+889,2018 Honda® CRF250L Rally,gas,1152,black,clean,other,,,,MLHMD4417J5102204,,,5680,2018,austin
+890,2018 Honda® Gold Wing Automatic DCT,gas,4914,,,automatic,excellent,,,,,,19999,2018,dallas
+891,2018 Honda® Gold Wing Tour Automatic DCT Candy Ardent Red,gas,16068,red,clean,other,,,,JH2SC7956JK003375,,,24750,2018,austin
+892,2018 Honda® Gold Wing Tour Candy Ardent Red,gas,1290,red,clean,other,,,,JH2SC7904JK001452,,,23480,2018,austin
+893,2018 Husqvarna vitpilen 401,gas,3600,,,manual,,,,,,,4999,2018,beaumont
+894,2018 Indian Chieftain ABS Steel Gray V Twin 1811 cc,,15235,custom,clean,manual,,,,56KTCBAA2J3357388,,,19985,2018,austin
+895,2018 Indian Motorcycle Scout Bobber Star Silver Smoke,gas,7042,silver,clean,other,,,,,,,13995,2018,dallas
+896,2018 Indian Scout Bobber ABS,gas,3207,black,lien,manual,like new,1133,bobber,,,,11900,2018,amarillo
+897,2018 Indian Scout Bobber Indian Motorcycle Red V Twin 1130.7 cc,,5312,custom,clean,manual,,,,56KMTB008J3135080,,,12985,2018,corpuschristi
+898,2018 KAWASAKI NINJA H2 SX,gas,20127,grey,clean,manual,excellent,998,sport bike,,,,15950,2018,dallas
+899,2018 KTM 150 XC-W,gas,1150,,,manual,,,,,,,6450,2018,dallas
+900,2018 KTM Duke 690 for $165/mo a month!,gas,12130,,clean,manual,excellent,,standard,VBKLDV403JM714142,,,7995,2018,dallas
+901,2018 Kawasaki 300,,,,,,,,,,,,4300,2018,corpuschristi
+902,2018 Kawasaki KLR 650 Single-Cylinder 651 cc,Unknown,5444,yellow,clean,manual,,,,,,,6590,2018,easttexas
+903,2018 Kawasaki KX450F,gas,,green,clean,other,,,,JKAKXGHC5JA017796,,,5981,2018,austin
+904,2018 Kawasaki NINJA 650  FOR ONLY,gas,2663,,clean,manual,excellent,,sport bike,JKAEXEJ1XJDA02786,,,5995,2018,dallas
+905,2018 Kawasaki NINJA ZX6R ZX 6 R ZX-6-R ABS NINJA ZX 6R ABS NINJA ZX-6,gas,7425,,clean,manual,excellent,,sport bike,JKBZXJF12JA014119,,,10499,2018,corpuschristi
+906,2018 Kawasaki Ninja 650,gas,2663,,clean,manual,excellent,,sport bike,JKAEXEJ1XJDA02786,,,7215,2018,dallas
+907,2018 Kawasaki Ninja ZX-10R SE,gas,3038,,clean,other,,,,JKBZXVC1XJA000478,,,14999,2018,houston
+908,2018 Kawasaki Versys 650 ABS with 6k miles only.,gas,6300,white,clean,manual,excellent,650,touring,,,,7500,2018,dallas
+909,2018 Kawasaki Vulcan 1700 Voyager ABS,,,,,,,,,,,,15299,2018,dallas
+910,2018 Kawasaki Z125 Pro,gas,1600,red,clean,manual,like new,125,scooter,,,,2975,2018,dallas
+911,2018 Kawasaki ZX14R,gas,3200,grey,lien,manual,good,1441,sport bike,,,,13000,2018,austin
+912,2018 Polaris Slingshot,Unknown,Unknown,Unknown,clean,manual,,,,57XAAPFA8J8128457,,,22500,2018,houston
+913,2018 Polaris Slingshot SL,gas,6564,green,clean,other,excellent,Unknown,,57XAAPFA6J8125895,,,26995,2018,dallas
+914,2018 Polaris Slingshot SLINGSHOT SL Navy Blue In-line 2384 cc,Unknown,Unknown,Unknown,clean,manual,,,,57XAAPFA8J8128457,,,22599,2018,houston
+915,2018 SUZUKI GSX-R1000R ABS,gas,6655,white,clean,manual,excellent,1000,sport bike,,,,15890,2018,dallas
+916,2018 Star Motorcycles Eluder,gas,7290,silver,clean,manual,excellent,1854,touring,,,,17900,2018,dallas
+917,2018 Suzuki Boulevard S40,gas,4269,black,clean,other,,,,JS1NP41DXJ2100195,,,5680,2018,austin
+918,2018 Suzuki GSX 250R 250 R 250-R for $82/mo a month!,gas,2376,,clean,manual,excellent,,sport bike,LC6DN11A6J1100997,,,3995,2018,dallas
+919,2018 Suzuki GSX-R 1000,gas,22950,,clean,manual,excellent,,sport bike,JS1GT78A9C2100161,,,15399,2018,dallas
+920,2018 Suzuki GSX-R 750 Horizontal In-line 750 cc,Unknown,8436,custom,clean,manual,,,,JS1GR7MA2J2101301,,,10999,2018,dallas
+921,2018 Suzuki GSX-S750,gas,8358,blue,clean,other,,,,JS1C533B6J2100309,,,8380,2018,austin
+922,2018 Suzuki GSXR600 GSXR 600 GSXR-600 GSX R600 GSX-R600,gas,5980,,clean,manual,excellent,,sport bike,JS1GN7FA5J2100720,,,11475,2018,abilene
+923,2018 Suzuki RM-Z450,gas,,yellow,clean,other,,,,JS1DZ11C9J2100037,,,6980,2018,austin
+924,2018 Yamaha  MT-10,gas,20434,blue,clean,other,,,,JYARN48Y6JA000599,,,12999,2018,dallas
+925,2018 Yamaha MT 07 for $165/mo a month!,gas,4464,,clean,manual,excellent,,standard,JYARM27E0JA001794,,,7999,2018,dallas
+926,2018 Yamaha MT-10,gas,20434,blue,clean,other,,,,JYARN48Y6JA000599,,,10896,2018,dallas
+927,2018 Yamaha R1 R 1 R-1,gas,14040,,clean,manual,excellent,,sport bike,JYARN39Y0JA001563,,,15649,2018,amarillo
+928,2018 Yamaha R3 R 3 R-3,gas,58,,clean,manual,excellent,,sport bike,MH3RH06Y4JK017601,,,5499,2018,dallas
+929,2018 Yamaha Star Venture Base Yamaha Star Venture Base,Unknown,15227,black,clean,manual,,,,JYAVP38Y8JA000476,,,22999,2018,amarillo
+930,2018 Yamaha XSR 700 Parallel Twin 689 cc,Unknown,15300,custom,clean,manual,,,,JYARM21E6JA000724,,,7499,2018,dallas
+931,2018 Yamaha XSR900,gas,5274,,,manual,excellent,,,,,,8299,2018,amarillo
+932,2018 Yamaha YZF R1 Horizontal In-line 998 cc,Unknown,8586,black,clean,manual,,,,JYARN39E7JA004126,,,16499,2018,dallas
+933,2018 Yamaha YZFR1 YZFR 1 YZFR-1 YZF R1 YZF-R1,gas,9044,,clean,manual,excellent,,sport bike,JYARN39EXJA003570,,,15999,2018,dallas
+934,2018 Yamaha Zuma,gas,1000,,,automatic,,,,,,,2200,2018,dallas
+935,2018 Yamaha yz450f,gas,14,blue,,manual,excellent,450,dirtbike,,,,5500,2018,sanantonio
+936,2018 honda grom,gas,1700,,clean,manual,excellent,,sport bike,JH2PC40J8JK400438,,,4000,2018,houston
+937,2018 kawasaki vaquero,gas,12264,black,clean,manual,excellent,1700,sport touring,,,,12000,2018,sanantonio
+938,2019 *BMW* *G* *310* *GS*,other,1382,white,clean,manual,,,,WB30G1204KR826738,,,5992,2019,abilene
+939,2019 *Harley-Davidson* *FLFBS* *Fat* *Boy*,other,715,grey,clean,manual,,,,1HD1YGK14KC011708,,,19572,2019,abilene
+940,2019 *Harley-Davidson* *FLHCS* *Heritage* *Classic* *114*,other,6910,black,clean,manual,,,,1HD1YBK24KB046735,,,18772,2019,abilene
+941,2019 *Harley-Davidson* *FLHR* *Road* *King*,other,5471,black,clean,manual,,,,1HD1FBC18KB633225,,,16984,2019,abilene
+942,2019 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special* *114*,other,3881,grey,clean,manual,,,,1HD1KRP16KB610170,,,26984,2019,abilene
+943,2019 *Harley-Davidson* *FXBB* *Street* *Bob*,other,7611,grey,clean,manual,,,,1HD1YJJ23KB046236,,,11994,2019,abilene
+944,2019 *Harley-Davidson* *Freewheeler* *114* *FLRT*,other,6070,black,clean,manual,,,,1HD1MCP15KB860247,,,28983,2019,abilene
+945,2019 *Harley-Davidson* *Street* *Glide* *FLHX*,other,3881,grey,clean,manual,,,,1HD1KRP16KB610170,,,21500,2019,abilene
+946,2019 *Honda* *CB1000RA* *(ABS)*,other,1736,red,clean,manual,,,,JH2SC8012KK100218,,,9984,2019,abilene
+947,2019 *Triumph* *Speed* *Triple* *S*,other,2182,black,clean,manual,,,,SMTN52P40KJ902917,,,10984,2019,abilene
+948,2019 *Yamaha* *Tracer* *900*,other,1402,white,clean,manual,,,,JYARN60E1KA000444,,,10554,2019,abilene
+949,2019 900cc ryker,gas,2560,yellow,clean,automatic,excellent,900,street,,,,12500,2019,dallas
+950,2019 CAN-AM RYKER,gas,13727,black,clean,automatic,good,600,trike,,,,8980,2019,dallas
+951,2019 Can Am Ryker 900 ace,gas,6700,black,clean,automatic,like new,900,trike,,,,9500,2019,beaumont
+952,2019 Can-Am® Ryker 900 ACE,gas,9550,red,clean,other,,,,3JB2FEG44KJ004277,,,9950,2019,austin
+953,2019 Crf450L,gas,1626,,,manual,excellent,450,dual-sport,,,,9300,2019,austin
+954,2019 Ducati Monster 1200 S Ducati Red,gas,244,red,clean,other,,,,ZDMMACFW5KB025323,,,17770,2019,austin
+955,2019 Ducati Multistrada 1260 S,gas,10800,red,clean,manual,like new,1260,sport touring,,,,19000,2019,dallas
+956,2019 Ducati PANIGALE V4 V 4 V-4 S,gas,2880,,clean,manual,excellent,,sport bike,ZDMDAGNW4KB006111,,,23999,2019,amarillo
+957,2019 Ducati Panigale V4,gas,10227,,clean,manual,excellent,,sport bike,ZDMDAGNW9JB000772,,,22400,2019,houston
+958,2019 Ducati X Diavel S Black,gas,3150,,clean,other,,,,ZDMGAHRW5KB001237,,,19960,2019,austin
+959,2019 HONDA CRF 450L BUILD,gas,1036,,,manual,,,,,,,12500,2019,dallas
+960,2019 HUSQVARNA TC 250  TC250,gas,80,,clean,manual,,,,,,,6000,2019,houston
+961,2019 Harley Davidson  Softail Breakout,gas,1941,black,clean,manual,excellent,,sport bike,1HD1YHK23KB041061,,,21995,2019,austin
+962,2019 Harley Davidson 1200 XL,gas,3600,black,rebuilt,manual,like new,1200,bobber,,,,9590,2019,mcallen
+963,2019 Harley Davidson Electra Glide Standard,gas,1150,black,clean,manual,like new,,touring,1HD1FVC24KB680360,,,21995,2019,austin
+964,2019 Harley Davidson Heritage Classic,gas,4800,,clean,manual,like new,107,,,,,17000,2019,dallas
+965,2019 Harley Davidson Heritage Softail Classic,gas,21960,black,clean,manual,excellent,1746,standard,,,,17500,2019,austin
+966,2019 Harley Davidson Iron 883,gas,2164,black,clean,manual,excellent,883,bobber,,,,6500,2019,dallas
+967,2019 Harley Davidson Street glide special 6k miles like new one owner,gas,6500,black,clean,manual,like new,,cruiser,,,,25990,2019,houston
+968,2019 Harley Davidson Ultra Limited,gas,4674,,,manual,like new,,,,,,27500,2019,amarillo
+969,2019 Harley-Davidson Deluxe FLDE,gas,9960,black,clean,manual,,,,1HD1YCJ26KB053242,,,22999,2019,corpuschristi
+970,2019 Harley-Davidson Electra Glide Ultra Classic FLHTCU,gas,3632,,clean,manual,,,,1HD1FCC16KB607471,,,26999,2019,corpuschristi
+971,2019 Harley-Davidson Iron 1200 XL1200NS,gas,3727,,clean,manual,,,,1HD1LP31XKC428523,,,12199,2019,sanantonio
+972,2019 Harley-Davidson Iron 883 XL883N,gas,3267,black,clean,manual,,,,1HD4LE213KC415907,,,11195,2019,sanantonio
+973,2019 Harley-Davidson Road King Special FLHRXS,gas,2053,,clean,manual,,,,1HD1KVP13KB611009,,,25499,2019,corpuschristi
+974,2019 Harley-Davidson Softail Slim,gas,2170,blue,clean,manual,,,,1HD1YDJ24KB041838,,,16299,2019,corpuschristi
+975,2019 Harley-Davidson Sportster Iron 1200,gas,10321,black,clean,manual,,,,1HD1LP315KC433113,,,12199,2019,corpuschristi
+976,2019 Harley-Davidson Street Glide FLHX,gas,3835,black,clean,manual,,,,1HD1KBC13KB667486,,,23599,2019,corpuschristi
+977,2019 Harley-Davidson Street Rod XG750A,gas,9294,black,clean,manual,,,,1HD4NCG39KC504700,,,11284,2019,corpuschristi
+978,2019 Honda CRF 450R Single-Cylinder 449.7 cc,Unknown,Unknown,red,clean,manual,,,,,,,7490,2019,easttexas
+979,2019 Honda CRF450L,gas,2299,red,clean,manual,excellent,,dual-sport,,,,8750,2019,amarillo
+980,2019 Honda Foreman 500 4x4,,,,,,,,,,Honda,Foreman 500 FM1 4X4,5750,2019,houston
+981,2019 Honda Monkey,gas,1921,yellow,clean,manual,excellent,125,other,,,,3600,2019,houston
+982,2019 Honda Ruckus,gas,2518,black,clean,other,,,,,,,2600,2019,dallas
+983,2019 Honda Shadow Phantom 750cc w/ low miles and exhaust (LIKE NEW!),Unknown,3107,Unknown,clean,manual,,,,JH2RC5374KK901035,,,5990,2019,dallas
+984,2019 Honda Shadow Phantom Honda Shadow Phantom,Unknown,750,black,clean,manual,,,,JH2RC5378KK900373,,,7999,2019,amarillo
+985,2019 Honda® Africa Twin Adventure Sports CRF1000L2,gas,2060,,clean,other,,,,JH2SD0457KK300202,,,12950,2019,austin
+986,2019 Honda® Africa Twin CRF1000L DCT,gas,1522,white,clean,other,,,,JH2SD0416KK300169,,,13890,2019,austin
+987,2019 Honda® CB1000R ABS,gas,942,red,clean,other,,,,JH2SC8019KK100281,,,11980,2019,austin
+988,2019 Honda® CBR300R ABS,gas,1805,,,manual,excellent,,,,,,4499,2019,amarillo
+989,2019 Honda® Monkey,gas,120,,,manual,excellent,,,,,,3499,2019,amarillo
+990,2019 Husvarna TC 85 / 105  19/16,gas,Unknown,white,clean,manual,excellent,105,dirtbike,,,,5000,2019,easttexas
+991,2019 Husvarna TC85 / 105,gas,Unknown,white,clean,manual,excellent,105,dirtbike,,,,5000,2019,dallas
+992,2019 Indian FTR 1200 S Race Replica V Twin 1203 cc,Unknown,182,custom,clean,manual,,,,56KRTS257K3147690,,,14985,2019,sanantonio
+993,2019 Indian Motorcycle® FTR 1200 S Race Replica,gas,2885,red,clean,other,,,,56KRTS258K3147648,,,15000,2019,austin
+994,2019 Indian Motorcycle® Roadmaster® Thunder Black,gas,1548,black,clean,other,,,,56KTRAAA3K338855,,,26460,2019,austin
+995,2019 Indian Scout Bobber,gas,1200,black,lien,automatic,excellent,,bobber,,,,10500,2019,dallas
+996,2019 Indian Springfield Metallic Jade Thunder Black V Twin 1811 cc,,2613,custom,clean,manual,,,,56KTHAAA2K3374009,,,20485,2019,austin
+997,2019 Janus Halcyon 250cc,gas,233,blue,clean,manual,like new,250,cafe racer,1P9H10142KG700037,,,10000,2019,austin
+998,2019 KAWASAKI NINJA ZX-6R ABS,gas,1999,grey,clean,manual,good,636,sport bike,,,,10780,2019,dallas
+999,2019 KTM 250 sx-f,gas,47,orange,clean,manual,like new,250,dirtbike,,,,5999,2019,austin
+1000,2019 KTM xcf350,gas,14,,clean,manual,like new,,dirtbike,,,,10000,2019,sanantonio
+1001,2019 Kawasaki Ninja  400 ABS for $111/mo a month!,gas,4335,,clean,manual,excellent,,sport bike,JKAEXKG13KDA31294,,,5395,2019,dallas
+1002,2019 Kawasaki Ninja 1000 ABS,gas,4335,,clean,manual,excellent,,sport bike,JKAEXKG13KDA31294,,,11499,2019,dallas
+1003,2019 Kawasaki Ninja 1000 ABS Kawasaki Ninja 1000 ABS,Unknown,9009,black,clean,manual,,,,JKAZXCW16KA022175,,,10999,2019,amarillo
+1004,2019 Kawasaki Ninja H2 SX SE,gas,3066,,clean,other,,,,JKBZXVD11KA000126,,,16996,2019,sanantonio
+1005,2019 Kawasaki Ninja ZX-6R ABS Horizontal In-line 636 cc,,9045,black,clean,manual,,,,JKBZXJG19KA000458,,,10999,2019,dallas
+1006,2019 Kawasaki Ninja ZX-6R Horizontal In-line 636 cc,Unknown,1463,black,clean,manual,,,,JKBZXJH1XKA001441,,,9499,2019,dallas
+1007,2019 Kawasaki Ninja® 650 ABS,gas,2992,,,manual,excellent,,,,,,6999,2019,amarillo
+1008,2019 Kawasaki Versys 650 with 2K miles,gas,2000,black,clean,manual,excellent,650,sport touring,,,,7150,2019,beaumont
+1009,2019 Kawasaki Z 125 PRO for $72/mo a month!,gas,1065,,clean,manual,excellent,,standard,JKABRRJ13KDA15076,,,3499,2019,dallas
+1010,2019 Kawasaki z900,gas,8248,grey,clean,manual,excellent,900,street,,,,7500,2019,austin
+1011,2019 Polaris® Slingshot® SLR,gas,1306,white,clean,other,,,,57XAARFA5K8131412,,,29460,2019,dallas
+1012,2019 SlingShot Grand Touring,gas,2600,black,clean,manual,like new,2400,trike,,,,27900,2019,houston
+1013,2019 Suzuki Boulevard C50,Unknown,1399,silver,clean,other,,,,JS1VS55A3K7100743,,,7299,2019,dallas
+1014,2019 Suzuki Boulevard S40,gas,143,blue,clean,manual,excellent,650,cruiser,JS1NP41DXK7100220,,,5999,2019,dallas
+1015,2019 Suzuki GSX-R 750 Horizontal In-line 750 cc,Unknown,14730,black,clean,manual,,,,JS1GR7MAXK7100580,,,12499,2019,dallas
+1016,2019 Suzuki GSX250R GSX 250 R GSX-250-R,gas,1355,,clean,manual,excellent,,sport bike,LC6DN11A3K1100537,,,4499,2019,dallas
+1017,2019 Triumph 1200 Scrambler,gas,2519,black,clean,manual,like new,1200,dual-sport,SMTD45HG8KT941607,,,11500,2019,corpuschristi
+1018,2019 Triumph Bonneville Speedmaster Jet Black,gas,1375,black,clean,other,,,,SMTD46HL1KT906121,,,12360,2019,austin
+1019,2019 Triumph Speed Twin Parallel Twin 1200 cc,Unknown,5693,black,clean,manual,,,,SMTD54HF6KT930054,,,8980,2019,austin
+1020,2019 Triumph Street Scrambler Cranberry Red,gas,7338,red,clean,other,,,,SMTD44GN7KT924131,,,10480,2019,austin
+1021,2019 Triumph Street Triple RS 765,gas,3640,black,clean,manual,excellent,765,sport bike,SMTA464S3KT924068,,,8000,2019,austin
+1022,2019 Triumph Street Triple RS Crystal White,gas,1299,white,clean,other,,,,SMTA464S3KT915001,,,12180,2019,austin
+1023,2019 YAMAHA YZF-R6,gas,3734,blue,clean,manual,excellent,599,sport bike,,,,12960,2019,dallas
+1024,2019 Yamaha MT 07 Yamaha MT 07,other,5919,black,clean,other,,,,,,,7499,2019,amarillo
+1025,2019 Yamaha MT-09,gas,1020,,clean,other,,,,JYARN53E8KA005632,,,8950,2019,austin
+1026,2019 Yamaha MT10,gas,3600,,clean,manual,excellent,,sport touring,,,,15000,2019,dallas
+1027,2019 Yamaha R6 R 6 R-6,gas,8192,,clean,manual,excellent,,sport bike,JYARJ28E7KA005379,,,13599,2019,dallas
+1028,2019 Yamaha V Star 250 V Twin 249 cc,Unknown,4007,silver,clean,manual,,,,,,,4590,2019,easttexas
+1029,2019 Yamaha YZF-R6,gas,3734,blue,clean,manual,excellent,599,sport bike,,,,13999,2019,dallas
+1030,2019 Yamaha Zuma 50F,gas,1453,,clean,other,,,,RKRSA43A2KA126450,,,2680,2019,austin
+1031,2019 ktm 450 xc-f street legal enduro moto bike,gas,140,orange,,manual,excellent,,dirtbike,,,,7500,2019,sanantonio
+1032,2019 or Newer Kavaki 190cc and 250cc Motorcycles,gas,Unknown,,clean,manual,new,250,sport bike,,,,3000,2019,beaumont
+1033,2020 *Can-Am* *Ryker* *Rally* *Edition* *900*,other,1680,black,clean,automatic,,,,3JB2GEG27LJ001323,,,11992,2020,abilene
+1034,2020 *Ducati* *Panigale* *V2*,other,9567,red,clean,manual,,,,ZDMHAATW0LB001412,,,15981,2020,abilene
+1035,2020 *Ducati* *Scrambler* *Icon* *Dark*,other,1160,black,clean,manual,,,,ML0KAFPM6LT002615,,,9500,2020,abilene
+1036,2020 *Harley-Davidson* *FLTRXS* *Road* *Glide* *Special* *114*,other,7388,black,clean,manual,,,,1HD1KTP19LB660334,,,29500,2020,abilene
+1037,2020 *Harley-Davidson* *Softail* *Standard*,other,3271,black,clean,manual,,,,1HD1BVJ12LB049971,,,13992,2020,abilene
+1038,2020 *Harley-Davidson* *Street* *Bob* *FXBB*,other,2317,red,clean,manual,,,,1HD1YJJ10LB022615,,,15982,2020,abilene
+1039,2020 *Harley-Davidson* *Street* *Glide* *Special* *114*,other,1820,white,clean,manual,,,,1HD1KRP17LB620109,,,28952,2020,abilene
+1040,2020 *Harley-Davidson* *XL883N* *Sportster* *Iron*,other,10668,black,clean,manual,,,,1HD4LE212LB433290,,,9672,2020,abilene
+1041,"2020 *Kawasaki* *ZR900FLFA* *Z900* *(Blue/Silver,* *ABS)*",other,427,blue,clean,manual,,,,ML5ZRDF14LDA39155,,,9571,2020,abilene
+1042,2020 *MINI CHOPPER* *49CC* *KIDS* *SIZE* *BIKE*,other,Unknown,blue,clean,automatic,,,,,,,999,2020,abilene
+1043,2020 *Polaris* *Ranger* *1000* *EPS* *(Camouflage)*,other,213,,clean,automatic,,,,4XATAE998L8880175,,,16981,2020,abilene
+1044,2020 *Polaris* *Slingshot* *R* *Autodrive*,other,13139,blue,clean,automatic,,,,57XAARHB9L8137849,,,31983,2020,abilene
+1045,2020 Apollo 250rx,gas,10,red,clean,manual,like new,250,dirtbike,,,,1750,2020,dallas
+1046,2020 BMW K 1600 B Grand America,gas,11000,grey,clean,manual,like new,1650,touring,,,,24500,2020,dallas
+1047,"2020 Can-Am Ryker 600 ACE (LOW MILES, EXCELLENT CONDITION!)",Unknown,1173,Unknown,clean,automatic,,,,3JB2FEF23LJ002084,,,9900,2020,dallas
+1048,2020 Can-Am Spyder RT Limited Chrome RD LTD 1330 SE6 In-l,Unknown,2452,grey,clean,manual,,,,2BXNBDD26LV006535,,,32299,2020,houston
+1049,2020 Can-Am® Ryker Rally Edition,gas,2729,black,clean,other,,,,3JB2GEG23LJ001416,,,11980,2020,austin
+1050,2020 Ducati Diavel 1260 S Total Black,gas,777,black,clean,other,,,,ZDMGAHRW8LB003369,,,22525,2020,austin
+1051,2020 Harley Davidson 48,gas,10500,black,clean,manual,excellent,1200,cruiser,,,,13000,2020,sanantonio
+1052,2020 Harley Davidson FLDE Deluxe,gas,126,black,clean,manual,new,1746,sport touring,,,,20000,2020,houston
+1053,2020 Harley Davidson Tri Glide Ultra,gas,1350,,,manual,like new,114,trike,,,,41000,2020,dallas
+1054,2020 Harley Iron 883 Sportster,gas,3400,,lien,manual,excellent,883,,,,,8000,2020,brownsville
+1055,2020 Harley Softail Slim,gas,493,black,clean,manual,like new,,,,,,16500,2020,austin
+1056,2020 Harley Tri-Glide Ultra,gas,4859,blue,clean,manual,like new,1870,trike,1HD1MAF16LB854884,,,35900,2020,mcallen
+1057,2020 Harley-Davidson Heritage Classic 114 FLHCS,gas,10125,black,clean,manual,,,,1HD1YBK19LB025548,,,24333,2020,mcallen
+1058,2020 Harley-Davidson Iron 883 XL883N,gas,8864,,clean,manual,,,,1HD4LE215LB403622,,,11099,2020,mcallen
+1059,2020 Harley-Davidson Road Glide Special FLTRXS,gas,706,,clean,manual,,,,1HD1KTP1XLB655448,,,31599,2020,corpuschristi
+1060,"2020 Harley-Davidson Road Glide® Only 2,100 Miles!",gas,2108,,clean,other,,,,1HD1KHC11LB676532,,,24999,2020,houston
+1061,2020 Harley-Davidson Softail Fat Bob 114,gas,299,red,clean,manual,,,,1HD1YLK13LB029679,,,19799,2020,corpuschristi
+1062,2020 Harley-Davidson Softail Heritage Classic 114,gas,347,black,clean,manual,excellent,,cruiser,1HD1YBK14LB065522,,,19995,2020,dallas
+1063,2020 Harley-Davidson Softail Slim FLSL,gas,1571,black,clean,manual,,,,1HD1YDJ1XLB076392,,,18999,2020,corpuschristi
+1064,2020 Harley-Davidson Softail Street Bob,gas,1933,,clean,manual,,,,1HD1YJJ13LB030790,,,18209,2020,corpuschristi
+1065,2020 Harley-Davidson Street Bob FXBB,gas,1933,,clean,manual,,,,1HD1YJJ13LB030790,,,16959,2020,corpuschristi
+1066,2020 Harley-Davidson Street Glide Special FLHXS,gas,10698,,clean,manual,,,,1HD1KRP1XLB657624,,,34826,2020,mcallen
+1067,2020 Honda CB300 CB 300 CB-300,gas,6482,,clean,manual,excellent,,sport touring,MLHNC5557L5000340,,,4499,2020,amarillo
+1068,2020 Honda CBR500R ABS Parallel Twin 471 cc,Unknown,2371,black,clean,manual,,,,,,,7290,2020,easttexas
+1069,2020 Honda CRF 250R Single-Cylinder 249 cc,Unknown,Unknown,red,clean,manual,,,,JH2ME1233LK201424,,,7099,2020,dallas
+1070,2020 Honda CRF 450L,gas,Unknown,red,clean,manual,excellent,450,dual-sport,JH2PD1119LK100355,,,10799,2020,dallas
+1071,2020 Honda® Grom,gas,904,,,manual,excellent,,,,,,3699,2020,amarillo
+1072,2020 Honda® Super Cub C125 ABS,gas,254,red,clean,other,,,,MLHJA4858L5101798,,,3380,2020,austin
+1073,2020 Husqvarna FE350,gas,418,white,clean,manual,excellent,350,dual-sport,,,,9300,2020,austin
+1074,2020 Icebear Maddog Gen1-Custom,gas,105,red,clean,automatic,excellent,50,scooter,,,,1400,2020,dallas
+1075,2020 Indian Chieftain Dark Horse Icon Series Ghost Grey W/Gr V Twin,,1711,custom,clean,manual,,,,56KTCDBB9L3391317,,,28985,2020,corpuschristi
+1076,2020 Indian Motorcycle® Challenger Titanium Metallic,gas,1198,,clean,other,,,,56KLCBRR0L3391133,,,22450,2020,austin
+1077,2020 Indian Scout 100Th Anniversary Indian Red With Gold Trim V Twin 1,,2706,custom,clean,manual,,,,56KMSE003L3157754,,,16485,2020,austin
+1078,2020 Indian Scout ABS Thunder Black V Twin 1133 cc,,1732,custom,clean,manual,,,,56KMTA003L3163303,,,12985,2020,sanantonio
+1079,2020 Indian Scout Bobber ABS Thunder Black Smoke V Twin 1133 cc,,1732,custom,clean,manual,,,,56KMTA003L3163303,,,14485,2020,beaumont
+1080,2020 Indian Springfield Dark Horse Thunder Black V Twin,Unknown,3860,custom,clean,manual,,,,56KTJDBB7L3384095,,,21985,2020,austin
+1081,2020 Indian Springfield Thunder Black V Twin 1811 cc,Unknown,1933,custom,clean,manual,,,,56KTHAAA0L3388962,,,21485,2020,corpuschristi
+1082,2020 KTM 1290 Super Adventure R,gas,3740,black,clean,other,,,,VBKV59400LM920356,,,17950,2020,austin
+1083,2020 KTM 250 SX,gas,,,clean,other,,,,VBKSXM236LM272339,,,7450,2020,austin
+1084,2020 KTM 390 Adventure,gas,96,,clean,manual,,,,,,,5999,2020,dallas
+1085,2020 KTM 450SX-F,gas,1111,,,manual,,450,,,,,8500,2020,beaumont
+1086,2020 KTM 790 Adventure,gas,3257,,clean,manual,excellent,,dual-sport,,,,10500,2020,austin
+1087,2020 KTM 85 SX 17/14,gas,109,,,manual,good,85,dirtbike,,,,4800,2020,dallas
+1088,2020 KTM ADVENTURE 390 with only *96* miles,gas,96,,clean,manual,,,,,,,6400,2020,dallas
+1089,2020 KX450F,gas,Unknown,green,clean,manual,like new,,dirtbike,,,,7000,2020,beaumont
+1090,2020 Katana Suzuki GSX-S1000S,gas,1600,black,clean,manual,new,1000,sport bike,,,,10000,2020,beaumont
+1091,2020 Kawasaki KLX 110,gas,Unknown,green,clean,manual,excellent,,,,,,2450,2020,dallas
+1092,2020 Kawasaki KLX 140 Kawasaki KLX 140,Unknown,Unknown,green,clean,manual,,,,JKBLXPA33LDA17939,,,2999,2020,amarillo
+1093,2020 Kawasaki KLX 300R Kawasaki KLX 300R,Unknown,Unknown,green,clean,manual,,,,JKALX8C17LDA01524,,,5299,2020,amarillo
+1094,2020 Kawasaki KX450,gas,,green,clean,other,,,,JKAKXGJC8LA009544,,,9280,2020,austin
+1095,2020 Kawasaki Klx250 Dual sport,gas,1828,black,clean,manual,like new,250,dual-sport,,,,5250,2020,corpuschristi
+1096,2020 Kawasaki Ninja 400 ABS,gas,1102,,clean,manual,excellent,,sport bike,JKAEXKG11LDA74260,,,5699,2020,dallas
+1097,2020 Kawasaki Z400 ABS,gas,1705,,,manual,excellent,,,,,,4499,2020,amarillo
+1098,2020 Kawasaki Z650,gas,1102,,clean,manual,excellent,,sport bike,JKAEXKG11LDA74260,,,7699,2020,dallas
+1099,2020 Kawasaki Z650 ABS Metallic Spark Black,Unknown,Unknown,Unknown,clean,manual,,,,ML5EREK15LDA14422,,,7299,2020,dallas
+1100,2020 Kawasaki Z650 ABS Parallel Twin 649 cc,Unknown,594,black,clean,manual,,,,ML5EREK1XLDA08339,,,6490,2020,austin
+1101,2020 Kymco LIKE 150i w/ ABS * ONLY 295 MILES * Matte Orange *,gas,295,orange,clean,automatic,excellent,150,scooter,,,,3200,2020,dallas
+1102,2020 Moto Guzzi V85 TT Adventure Special V Twin,,955,custom,clean,manual,,,,ZGUKWU00XLM000659,,,12485,2020,austin
+1103,2020 Polaris Slingshot SL,gas,4310,red,clean,automatic,like new,,other,,,,27500,2020,dallas
+1104,2020 Polaris Slingshot SLINGSHOT R Autodrive 1997 cc,Unknown,8763,blue,clean,manual,,,,,,,37990,2020,easttexas
+1105,2020 Qipai/Lifan KPM200,gas,blue,street legal,clean,automatic,new,200,cafe racer,LXAPRZP54LX000120,,,2600,2020,dallas
+1106,2020 Road Glide Limited,gas,19296,,clean,manual,,,,,,,36999,2020,dallas
+1107,2020 Suzuki DRZ400SM + MRD + FCR,gas,5700,white,clean,manual,excellent,400,dual-sport,,,,7500,2020,austin
+1108,2020 Suzuki GSXR 750 GSX R 750 GSX-R 750,gas,1042,,clean,manual,excellent,,sport bike,JS1GR7MA9L7101155,,,12999,2020,dallas
+1109,2020 Suzuki GSXR750 GSXR 750 GSXR-750 GSX R750 GSX-R750,gas,7294,,clean,manual,excellent,,sport touring,JS1GR7MA0L7100959,,,12499,2020,dallas
+1110,2020 Suzuki RM-Z250,gas,,yellow,clean,other,,,,JS1EC11C5L7100192,,,7480,2020,austin
+1111,2020 Suzuki RM85,gas,,yellow,clean,other,,,,RFDRD16C1L1100054,,,4880,2020,austin
+1112,2020 Triumph 1200 XC,gas,7610,green,clean,manual,excellent,1200,cafe racer,,,,14600,2020,dallas
+1113,2020 Triumph Scrambler 1200 XC,gas,3700,,clean,other,,,,SMTD45HG3LT967761,,,12499,2020,houston
+1114,2020 Triumph Speed Triple RS Crystal White Metallic,gas,6855,white,clean,other,,,,SMTN53P4XLJ978703,,,14960,2020,corpuschristi
+1115,2020 Triumph Speed Twin 1200 Jet Black,gas,1781,black,clean,other,,,,SMTD54HF7LTAB5438,,,11980,2020,austin
+1116,2020 Triumph Speed Twin 1200 Silver Ice/Storm Grey,gas,3973,silver,clean,other,,,,SMTD54HF1LTAB2969,,,12980,2020,austin
+1117,2020 Triumph Street Triple RS,gas,12008,,clean,manual,excellent,,sport bike,SMTL03NE4HT781152,,,11000,2020,dallas
+1118,2020 Triumph Street Triple RS Matte Jet Black,gas,1718,,clean,other,,,,SMTA554SXLTAA4476,,,12480,2020,austin
+1119,2020 Triumph Thruxton RS,gas,200,silver,lien,manual,new,1200,cafe racer,,,,15600,2020,dallas
+1120,2020 Yamaha MT 07 Parallel Twin 689 cc,Unknown,3831,blue,clean,manual,,,,,,,8290,2020,easttexas
+1121,2020 Yamaha MT 09,gas,418,,clean,manual,excellent,900,street,JYARN53E5LA007310,,,8995,2020,dallas
+1122,2020 Yamaha SMAX,gas,1243,red,clean,manual,excellent,,,,,,3999,2020,dallas
+1123,2020 Yamaha V Star 250,gas,2611,silver,clean,manual,excellent,250,cruiser,JYAVG04E2LA021109,,,4450,2020,dallas
+1124,2020 Yamaha XSR900,gas,6000,white,clean,manual,like new,874,street,JYATN47E1LA002948,,,10000,2020,dallas
+1125,2020 Yamaha YZF-R1,gas,2453,,clean,manual,excellent,,sport bike,JYARN23E7EA016804,,,16999,2020,dallas
+1126,2020 ZERO SR/F,electric,1658,grey,clean,manual,like new,,sport bike,,,,15980,2020,dallas
+1127,2020 harley davidson road glide,gas,1900,,,manual,,,,,,,24000,2020,dallas
+1128,2021 *Can-Am* *Spyder* ** *F3-S*,other,1305,black,clean,manual,,,,2BXRDDD48MV000069,,,21995,2021,austin
+1129,2021 *Ducati* *Supersport* *950*,other,1837,red,clean,manual,,,,ZDMVABDS5MB001525,,,13981,2021,abilene
+1130,2021 *Genuine Scooter Co* *Grand* *Tourer* ** *150*,other,1159,blue,clean,,,,,L5RGTT5C0MU000240,,,2991,2021,abilene
+1131,2021 *Harley-Davidson* *FLHXS* *Street* *Glide* *Special* ** *Stage* 3,other,1554,grey,clean,manual,,,,1HD1KRP15MB648816,,,34572,2021,abilene
+1132,2021 *Harley-Davidson* *FXBBS* *Street* *Bob* *114*,other,956,black,clean,manual,,,,1HD1YYK17MB040778,,,16571,2021,abilene
+1133,2021 *Harley-Davidson* *Street* *Glide* *Special* *FLHXS* 114,other,3845,black,clean,manual,,,,1HD1KRP12MB600867,,,29500,2021,abilene
+1134,2021 *Suzuki* *DR-650S*,other,18,white,clean,manual,,,,JS1SP46DXM7100507,,,7291,2021,abilene
+1135,2021 BMW F850GS 40 Years GS-Price Drop,gas,7400,black,clean,manual,excellent,850,dual-sport,,,,12995,2021,sanantonio
+1136,2021 Can-Am Ryker,gas,253,black,lien,automatic,,,,,,,11500,2021,houston
+1137,2021 Can-Am Ryker 600 ACE In-line 600 cc,Unknown,629,black,clean,automatic,,,,3JB2FEF27MJ001263,,,10999,2021,dallas
+1138,2021 Can-Am Ryker Rally Edition 900 ACE In-line 900 cc,Unknown,1875,silver,clean,automatic,,,,3JB2GEG26MJ000858,,,13999,2021,dallas
+1139,2021 Custom Ducati V4S Streetfighter,gas,800,black,clean,manual,like new,1100,sport bike,,,,35000,2021,beaumont
+1140,2021 Ducati PANIGALE V2 V 2 V-2,gas,9348,,clean,manual,like new,,sport bike,ZDMHAATW3MB003799,,,15999,2021,beaumont
+1141,2021 Ducati Scrambler 1100 PRO Ocean Drive,Unknown,517,silver,clean,other,,,,ZDMKAFCP9MB000725,,,11999,2021,dallas
+1142,2021 GasGas MC450,gas,35,,,manual,,,,,,,8000,2021,houston
+1143,2021 Genuine Buddy 125,gas,322,grey,clean,automatic,like new,125,scooter,,,,2750,2021,dallas
+1144,2021 Grey Honda Goldwing DCT CSC Encore Trike,gas,15,grey,clean,automatic,new,1800,trike,,,,45900,2021,dallas
+1145,2021 HONDA SUPER CUB C125 ABS,gas,123,,,automatic,,,,,,,3749,2021,dallas
+1146,2021 Harley Davidson - Iron 883,gas,40953,,clean,manual,excellent,,sport bike,JKAZXCS17GA003583,,,11500,2021,mcallen
+1147,2021 Harley Davidson Heritage Classic,gas,421,,clean,manual,new,,cruiser,,,,28000,2021,beaumont
+1148,2021 Harley-Davidson Cvo Road Glide FLTRXSE,gas,2464,,clean,manual,,,,1HD1TCL10MB956167,,,40570,2021,corpuschristi
+1149,2021 Harley-Davidson Fat Boy 114 FLFBS,gas,960,black,clean,manual,,,,1HD1YGK18MB060273,,,23756,2021,corpuschristi
+1150,2021 Harley-Davidson Heritage Classic 114 FLHCS,gas,238,black,clean,manual,,,,1HD1YBK17MB063829,,,24328,2021,corpuschristi
+1151,2021 Harley-Davidson Heritage Classic FLHC,gas,800,,clean,manual,,,,1HD1YAJ19MB018080,,,22584,2021,corpuschristi
+1152,2021 Harley-Davidson Iron 1200 XL1200NS,gas,1245,white,clean,manual,,,,1HD1LP311MB406676,,,11999,2021,corpuschristi
+1153,2021 Harley-Davidson Road King Special (FLHRXS),gas,792,black,,manual,new,1868,touring,,,,25000,2021,amarillo
+1154,2021 Harley-Davidson Sport Glide FLSB,gas,1705,black,clean,manual,,,,1HD1YMJ1XMB051669,,,23318,2021,corpuschristi
+1155,2021 Honda ADV150,gas,1650,black,clean,automatic,like new,150,scooter,,,,4000,2021,dallas
+1156,2021 Honda CRF300L,gas,4337,red,clean,automatic,like new,300,other,,,,5000,2021,houston
+1157,2021 Honda CRF450X Near New Condition!,gas,14,,clean,other,,,,JH2PE0915MK200241,,,8999,2021,houston
+1158,2021 Honda Monkey MiniMOTO,gas,82,,clean,other,,,,MLHJB0219M5203091,,,3875,2021,dallas
+1159,2021 Honda Rebel 300,gas,3800,black,clean,manual,excellent,300,street,,,,4500,2021,dallas
+1160,2021 Honda Ruckus,gas,550,,,automatic,,,,,,,2900,2021,houston
+1161,2021 Husqvarna FE 501 Single-Cylinder 510.9 cc,Unknown,123,custom,clean,manual,,,,VBKUAM408MM432493,,,10250,2021,dallas
+1162,2021 Husqvarna Svartpilen 401,gas,1600,,clean,manual,like new,401,,,,,5500,2021,austin
+1163,2021 Indian Challenger Titanium Smoke V Twin 1769 cc,Unknown,2169,grey,clean,manual,,,,,,,23990,2021,easttexas
+1164,2021 Indian Chieftain Dark Horse Thunder Black Smoke Dark,Unknown,1029,black,clean,manual,,,,56KTCDBBXM3399444,,,28999,2021,houston
+1165,2021 Indian Scout Bobber Sixty Thunder Black V Twin,,Unknown,custom,clean,manual,new,,,,,,8999,2021,sanantonio
+1166,2021 Indian Scout Bobber Twenty ABS Stealth Gray V Twin 1133 cc,,1123,custom,clean,manual,,,,,,,14485,2021,austin
+1167,2021 Indian Vintage Dark Horse Thunder Black Smoke V Twin,Unknown,875,custom,clean,manual,,,,56KTVDCA1M3395122,,,20985,2021,corpuschristi
+1168,2021 Jasscol Trike,gas,100,red,clean,other,good,200,scooter,,,,3000,2021,dallas
+1169,2021 KAWASAKI NINJA 650 ABS,gas,4409,,clean,manual,excellent,,sport bike,JKAEXEK17HDA01801,,,7740,2021,dallas
+1170,2021 KX-100,gas,40,,,manual,,,,,,,4100,2021,corpuschristi
+1171,2021 KX250F,gas,Unknown,,,manual,,,,,,,7500,2021,collegestation
+1172,2021 Kawasaki KX 100,gas,Unknown,,clean,other,,,,JKAKXTFC9MA021799,,,4599,2021,houston
+1173,2021 Kawasaki Ninja,gas,1700,black,clean,manual,like new,,sport bike,,,,4900,2021,dallas
+1174,2021 Kawasaki Ninja 400 ABS Passion Red,gas,4118,,clean,manual,excellent,,sport bike,JKAEXKG13LDA65219,,,5399,2021,dallas
+1175,2021 Kawasaki Ninja 650,Unknown,2480,grey,clean,manual,,,,ML5EXEN13MDA30427,,,7999,2021,abilene
+1176,2021 Kawasaki Ninja 650 ABS Metallic Spark Black/Metallic Imper,,2291,green,clean,manual,,,,ML5EXEM14MDA42555,,,9599,2021,dallas
+1177,2021 Kawasaki Ninja ZX-6R,gas,5808,,clean,manual,excellent,,sport bike,JKBZXJE18FA014330,,,11000,2021,houston
+1178,2021 Kawasaki Ninja® ZX-6R,gas,1234,green,clean,manual,like new,,sport bike,,,,10950,2021,austin
+1179,2021 Kawasaki Versys 1000 SE LT Less than 450 Miles!,gas,443,,clean,other,,,,JKALZCD15MA008094,,,16599,2021,houston
+1180,2021 Kawasaki Vulcan S Cafe,Unknown,230,custom,clean,manual,,,,JKAENEE15MDA06197,,,7999,2021,dallas
+1181,2021 Kawasaki Z125 PRO Single-Cylinder 125 cc,Unknown,408,green,clean,manual,,,,JKABRRJ13MDA20359,,,2999,2021,dallas
+1182,2021 Kawasaki Z125 Pro Naked,gas,201,,clean,other,,,,JKABRRJ13MDA19020,,,3250,2021,dallas
+1183,2021 Kawasaki Z900RS,gas,995,,clean,other,,,,JKAZR2C18MA053441,,,10999,2021,houston
+1184,2021 Kawasaki ZX10R ZX 10 R ZX-10-R  FOR ONLY,gas,933,,clean,manual,excellent,,standard,JKBZXVL18MA000340,,,15995,2021,dallas
+1185,2021 Ktm 250sxf,gas,13,,,manual,,,,,,,13500,2021,easttexas
+1186,"2021 Kymco X-Town 300i ABS, Scooter Factory Warranty",gas,515,white,clean,automatic,like new,300,scooter,,,,4500,2021,sanantonio
+1187,2021 Lw LW1,gas,574,white,clean,other,,,,1HD2XBEB5MB875030,,,20599,2021,corpuschristi
+1188,2021 MT09,gas,418,,clean,manual,excellent,900,street,JYARN53E5LA007310,,,9500,2021,dallas
+1189,2021 Road Glide,gas,2464,,clean,manual,,,,1HD1TCL10MB956167,,,24000,2021,corpuschristi
+1190,2021 Suzuki DR-Z 125L Single-Cylinder 124 cc,Unknown,Unknown,yellow,clean,manual,,,,JS1DF4339M7101042,,,3349,2021,dallas
+1191,2021 Suzuki GSX-S 750Z ABS In-line 749 cc,Unknown,3010,custom,clean,manual,,,,JS1C533B5M7100616,,,8599,2021,dallas
+1192,2021 Triumph Tiger 900 GT Pro,gas,9500,black,clean,manual,excellent,,,,,,14500,2021,dallas
+1193,2021 YAMAHA YZ450F,gas,38,,clean,manual,excellent,450,dirtbike,,,,7500,2021,houston
+1194,2021 Yamaha PW50,gas,,blue,clean,other,,,,JYA3PT135MA033459,,,1980,2021,austin
+1195,2021 Yamaha YZF-R3 ABS,gas,2100,blue,clean,manual,like new,300,sport bike,,,,5150,2021,dallas
+1196,2021 Yamaha Zuma 125 Single-Cylinder 125 cc,Unknown,1018,blue,clean,automatic,,,,RKRSEB1Y6MA005786,,,3850,2021,dallas
+1197,2021 Yz250F,gas,48,blue,clean,manual,like new,250,dirtbike,,,,7500,2021,dallas
+1198,2021 crf 150 r,gas,1234,,,manual,new,,dirtbike,,,,5000,2021,beaumont
+1199,2021 kawasaki brute force 750,gas,128,,,automatic,,,,,,,9900,2021,dallas
+1200,2021 kawasaki ninja zx-6R,gas,1234,green,clean,manual,like new,,sport bike,,,,10500,2021,corpuschristi
+1201,2022  Model Brand New Rocket 50cc Street Legal Street Bike On Sale,gas,Unknown,,,manual,,49,,,,,1299,2022,dallas
+1202,2022 *Can Am * *Defender* *Max* ** *X* *MR*,other,24,white,clean,automatic,,,,3JBUAAX44NK000289,,,23751,2022,abilene
+1203,2022 Blast Starts Now Trailmaster TM24 ™️Dirt bike 125cc On Sale,gas,Unknown,,,automatic,new,125,,,,,1249,2022,dallas
+1204,2022 FREEDOM CANOE SCOOTERS 150 SKU:CANOE,Unknown,Unknown,Unknown,clean,other,,,,,,,2300,2022,dallas
+1205,2022 FREEDOM ROGUESTAR SCOOTERS 150 SCOOTER SKU:ROGUE,Unknown,Unknown,Unknown,clean,other,,,,,,,2300,2022,dallas
+1206,2022 FREEDOM VERACRUZ 150 SCOOTERS SKU:VERACRUZ,Unknown,Unknown,custom,clean,other,,,,,,,2800,2022,dallas
+1207,2022 HONDA CRF50F,gas,123,,,automatic,,,dirtbike,,,,1649,2022,dallas
+1208,2022 Honda CRF 450RL,gas,698,red,clean,manual,excellent,450,dual-sport,,,,10500,2022,dallas
+1209,2022 Honda GROM,Unknown,501,yellow,clean,other,,,,MLHJC9213N5003780,,,3599,2022,waco
+1210,2022 Indian FTR Rally Titanium Smoke V Twin 1203 cc,1203,gas,custom,clean,manual,new,delivery available,,,,,13999,2022,austin
+1211,2022 Indian Motorcycle® Chief Bobber,1811,gas,custom,clean,manual,new,delivery available,bobber,,,,16499,2022,corpuschristi
+1212,2022 Indian Motorcycle® Chief Dark Horse® Stealth Gray,1890,gas,grey,clean,manual,new,delivery available,,,,,17499,2022,corpuschristi
+1213,2022 Indian Motorcycle® FTR 1200,delivery available,gas,black,clean,manual,new,,,,,,12999,2022,corpuschristi
+1214,2022 Indian Motorcycle® FTR Rally Titanium Smoke,1203,gas,custom,clean,manual,new,delivery available,,,,,13999,2022,corpuschristi
+1215,2022 Indian Motorcycle® Roadmaster® Maroon Metallic/Crimson Metallic,1890,gas,custom,clean,manual,new,delivery available,,,,,31499,2022,corpuschristi
+1216,2022 Indian Motorcycle® Scout® Bobber ABS Black Smoke,1133,gas,custom,clean,manual,new,delivery available,,,,,12399,2022,corpuschristi
+1217,2022 Indian Scout ABS Icon Blue Slate SmokeSilver V Twin 1133 cc,,Unknown,custom,clean,manual,new,,,,,,14399,2022,corpuschristi
+1218,2022 Indian Scout Rogue ABS Black Smoke V Twin 1133 cc,,Unknown,custom,clean,manual,new,,,,,,12899,2022,austin
+1219,2022 Indian Scout Rogue ABS Sagebrush Smoke V Twin 1133 cc,,Unknown,custom,clean,manual,new,,,,,,12899,2022,beaumont
+1220,2022 Indian Scout Rogue ABS Stealth Gray V Twin 1133 cc,,Unknown,custom,clean,manual,new,,,,,,13399,2022,austin
+1221,2022 Indian Scout Rogue Sixty ABS Bronze Smoke V Twin,,Unknown,custom,clean,manual,new,,,,,,11399,2022,corpuschristi
+1222,2022 Indian Scout Rogue Sixty ABS Titanium Smoke V Twin,,Unknown,custom,clean,manual,new,,,,,,11399,2022,beaumont
+1223,2022 Indian Scout Rogue Sixty Black Metallic V Twin,,Unknown,custom,clean,manual,new,,,,,,9999,2022,austin
+1224,2022 Indian Scout® Bobber ABS Icon Indy Red,,Unknown,custom,clean,other,new,,,,,,13399,2022,beaumont
+1225,2022 Indian Scout® Bobber ABS Silver Quartz Smoke,,Unknown,custom,clean,other,new,,,,,,12899,2022,austin
+1226,2022 Indian Scout® Sixty ABS Storm Blue,,Unknown,custom,clean,other,new,,,,,,11399,2022,beaumont
+1227,2022 Indian Super Chief ABS Pearl White V Twin 1811 cc,,Unknown,custom,clean,manual,new,,,56KDBBAG3N3001128,,,19799,2022,corpuschristi
+1228,2022 KAWASAKI KX450,gas,123,,,automatic,,,dirtbike,,,,9499,2022,dallas
+1229,2022 KAWASAKI VULCAN S,gas,123,,,manual,,,,,,,7449,2022,dallas
+1230,2022 KLR 650 adventure dual sport,gas,650,,,manual,,,,,,,7500,2022,beaumont
+1231,2022 Kawasaki Z125 PRO,gas,white,street legal,clean,manual,new,125,street,,,,3399,2022,abilene
+1232,2022 Kawasaki Z400 ABS,gas,white,street legal,clean,manual,new,400,street,,,,5199,2022,abilene
+1233,2022 Nanrobot D6+,electric,28,black,clean,automatic,like new,,,,,,1500,2022,austin
+1234,2022 Suzuki DR-Z 400SM Single-Cylinder 398 cc,Unknown,Unknown,black,clean,manual,,,,JS1SK44A5N7101072,,,7599,2022,dallas
+1235,2022 Suzuki Hayabusa,Unknown,Unknown,custom,clean,other,,,,JS1EJ11B4N7101866,,,18599,2022,dallas
+1236,2022 Yamaha PW 50 Single-Cylinder 49 cc,Unknown,Unknown,custom,clean,automatic,,,,JYA3PT1E1NA000350,,,1699,2022,dallas
+1237,2022 Yamaha TT-R 110E Single-Cylinder 110 cc,Unknown,Unknown,Unknown,clean,manual,,,,JYACE25E8NA002199,,,2299,2022,dallas
+1238,2022 Yamaha TT-R 50E Single-Cylinder 49 cc,Unknown,Unknown,blue,clean,manual,,,,LBPCA02E5N0011056,,,1749,2022,dallas
+1239,2022 Yamaha V Star 250 V Twin 249 cc,Unknown,Unknown,Unknown,clean,manual,,,,JYAVG04EXNA021572,,,4599,2022,dallas
+1240,2022 Yamaha YZ 450F Single-Cylinder 450 cc,Unknown,Unknown,blue,clean,manual,,,,JYACJ26CXNA013200,,,9599,2022,dallas
+1241,2022 Yamaha Zuma 125 Single-Cylinder 125 cc,Unknown,Unknown,Unknown,clean,automatic,,,,RKRSEH9Y0NA002262,,,3699,2022,dallas
+1242,2022 Zero FX ZF7.2 Electric,Unknown,Unknown,custom,clean,automatic,,,,538XXDZ44NCC18725,,,11595,2022,sanantonio
+1243,2022 Zero SR/F Premium ZF 15.6 Electric,Unknown,Unknown,Unknown,clean,automatic,,,,538ZFDZ73NCK19805,,,21495,2022,sanantonio
+1244,2919 Kawasaki z650,gas,10892,blue,clean,manual,excellent,650,street,,,,5000,2919,austin
+1245,DUCATI MULTISTRADA 1200S PIKES PEAK 2014,gas,6005,red,clean,manual,excellent,1200,sport touring,,,,12000,2014,dallas
+1246,Ducati 1199s Dark 2014,gas,9300,black,clean,manual,excellent,1199,sport bike,,,,13500,2014,dallas
+1247,HD Street Glide 2006,gas,14000,,,manual,,,,,,,10500,2006,dallas
+1248,HONDA VFR 800 ABS 2002,gas,23000,red,clean,manual,excellent,800,sport touring,,,,3500,2002,dallas
+1249,Harley Davidson Road King 2017,gas,18445,silver,clean,other,,,,1HD1FBC10HB643417,,,19777,2017,austin
+1250,Harley Davison Dyna 2008,gas,21905,orange,clean,manual,like new,1570,street,1HD1GN41X8K306038,,,7500,2008,corpuschristi
+1251,Honda CBR1000RR Repsol Edition 2009,gas,11572,,,manual,,,,,,,7500,2009,dallas
+1252,Honda Goldwing 2012,gas,86000,blue,clean,manual,like new,1800,touring,,,,13995,2012,mcallen
+1253,Honda Goldwing Valkyrie 2014,gas,14700,purple,clean,manual,excellent,1800,cruiser,,,,9700,2014,houston
+1254,KLX450R 2009,gas,2200,,,manual,excellent,,dual-sport,,,,4200,2009,dallas
+1255,KX85 - 2020,,,,,,,,,,,,3500,2020,dallas
+1256,Kawasaki Ninja SE 2014,gas,1111111,,,automatic,,,,,,,900,2014,beaumont
+1257,Kawasaki Z900 ABS 2020,gas,9900,blue,clean,manual,excellent,948,sport bike,,,,8100,2020,dallas
+1258,Kawasaki ninja 400 abs 2021,gas,1102,,clean,manual,excellent,,sport bike,JKAEXKG11LDA74260,,,6000,2021,dallas
+1259,Kawasaki versys 650cc 2008,gas,22347,red,clean,manual,good,650,other,,,,2600,2008,dallas
+1260,Like new CRF 300L 2021,gas,50,,clean,manual,like new,,,,,,6900,2021,dallas
+1261,Road Glide 2006,other,71000,,,other,good,,moped,,,,5495,2006,houston
+1262,Triumph Bonneville T100  2008,gas,20587,black,rebuilt,manual,excellent,865,cruiser,,,,5000,2008,houston
+1263,Triumph Tiger XCX 2019,gas,10000,black,clean,manual,excellent,800,dual-sport,,,,10000,2019,austin
+1264,USED 2015 Harley-Davidson Cruiser Motorcycle DYNA,gas,1645,white,clean,automatic,excellent,,cruiser,1HD1GNM13FC306955,,,15900,2015,austin
+1265,Used 2009 Yamaha V Star 950 Tourer,gas,11063,,clean,other,,,,JYAVN01E19A007639,,,4996,2009,austin
+1266,Used 2009 Yamaha V Star 950 in Blue @ Ridenow,gas,6631,blue,clean,other,,,,JYAVN01E29A002448,,,3991,2009,dallas
+1267,Used 2010 Harley-Davidson Street Glide,gas,27339,,clean,other,,,,1HD1KB41XAB612871,,,13991,2010,austin
+1268,Used 2011 Kawasaki Versys®,gas,12010,red,clean,automatic,,,,JKALEEC14BDA02410,,,4892,2011,austin
+1269,Used 2012 Harley-Davidson Nightster,gas,Unknown,,clean,other,,,,1HD1CZ318CC454177,,,7991,2012,austin
+1270,Used 2012 Triumph Street Triple R,gas,12371,black,clean,automatic,,,,SMTD01NEXCT506855,,,6293,2012,austin
+1271,Used 2012 Yamaha Royal Star Venture S,gas,8240,,clean,automatic,,,,JYAVP04E2CA016458,,,10296,2012,austin
+1272,Used 2013 Can-Am® Spyder® RS SM5,gas,10010,,clean,automatic,,,,2BXNAAC11DV000542,,,9792,2013,austin
+1273,Used 2013 Ducati Hyperstrada,gas,22365,red,clean,automatic,,,,ZDM1YBTS6DB004185,,,7996,2013,austin
+1274,Used 2013 Harley-Davidson Road Glide Custom,gas,11396,black,clean,other,,,,1HD1KHM15DB666263,,,16981,2013,austin
+1275,Used 2013 Harley-Davidson Street Glide,gas,29973,black,clean,other,,,,1HD1KBM19DB680454,,,17991,2013,austin
+1276,Used 2013 Harley-Davidson® FLTRU Road Glide® Ultra,gas,52698,blue,clean,manual,excellent,,touring,,,,13995,2013,beaumont
+1277,Used 2013 Suzuki GSX-R750™  in Black @ Ridenow,gas,874,black,clean,automatic,,,,JS1GR7MA1D2100516,,,8991,2013,dallas
+1278,Used 2014 BMW K 1600 GT,gas,35131,,clean,automatic,,,,WB1061109EZX81944,,,12996,2014,austin
+1279,Used 2014 Honda® CB1000R,gas,509,black,clean,other,,,,ZDCSC6010EF215211,,,8492,2014,austin
+1280,Used 2014 Honda® Interceptor,gas,9412,red,clean,automatic,,,,JH2RC7912EK000104,,,8793,2014,austin
+1281,Used 2014 Kawasaki Ninja® 650 ABS,gas,3961,green,clean,other,,,,JKAEXEF17EDA14621,,,5599,2014,austin
+1282,Used 2015 Can-Am® Spyder® RS-S Special Series 5-Speed Semi-Automatic (SE5),gas,19241,,clean,automatic,,,,2BXNABC49FV000209,,,14493,2015,austin
+1283,Used 2015 Ducati Diavel Carbon,gas,658,,clean,automatic,,,,ZDM13BSW7FB026878,,,14996,2015,austin
+1284,Used 2015 Ducati Diavel Titanium,gas,658,,clean,automatic,,,,ZDM13BSW7FB026878,,,16986,2015,austin
+1285,Used 2015 Harley-Davidson CVO Street Glide,gas,29450,purple,clean,other,,,,1HD1PXN15FB957519,,,23991,2015,austin
+1286,Used 2015 Harley-Davidson Electra Glide Ultra Classic Low,gas,20156,,clean,other,,,,1HD1KDM16FB646356,,,17991,2015,austin
+1287,Used 2015 Harley-Davidson Road King,gas,14423,black,clean,other,,,,1HD1FBM1XFB644599,,,16491,2015,austin
+1288,Used 2015 Honda® Gold Wing F6B Deluxe,gas,51787,,clean,automatic,,,,JH2SC6842FK200697,,,12996,2015,austin
+1289,Used 2015 Kawasaki KX450F,gas,,green,clean,other,,,,JKAKXGFC2FA033349,,,4992,2015,austin
+1290,Used 2015 Yamaha Bolt™ C-Spec,gas,2501,silver,clean,other,,,,,,,6996,2015,austin
+1291,Used 2015 Yamaha Stryker® Bullet Cowl,gas,4279,green,clean,other,,,,JYAVP33E5FA011987,,,8996,2015,austin
+1292,Used 2016 Harley-Davidson Freewheeler,gas,5474,black,clean,other,,,,1HD1MCM14GB857285,,,22491,2016,austin
+1293,Used 2016 Harley-Davidson Road Glide Special,gas,12387,black,clean,other,,,,1HD1KTM16GB614664,,,21991,2016,austin
+1294,Used 2016 Harley-Davidson Road King,gas,17461,red,clean,other,,,,1HD1FBM18GB620299,,,17491,2016,austin
+1295,Used 2016 Harley-Davidson Street Bob,gas,14735,black,clean,other,,,,1HD1GXM12GC311478,,,13491,2016,austin
+1296,Used 2016 Harley-Davidson Street Glide,gas,5509,green,clean,other,,,,1HD1KBM16GB609202,,,19993,2016,austin
+1297,Used 2016 Harley-Davidson Ultra Limited Low,gas,14466,,clean,other,,,,1HD1KKL13GB661582,,,20991,2016,austin
+1298,Used 2016 Indian Motorcycle® Chief® Vintage Star Silver and Thunder,gas,20781,silver,clean,other,,,,56KCCVAA3G3331862,,,9994,2016,dallas
+1299,Used 2016 KTM 1290 Super Adventure,gas,2922,white,clean,other,,,,VBKV59401GM938449,,,14592,2016,austin
+1300,Used 2016 Suzuki V-Strom 1000 ABS,gas,767,,clean,automatic,,,,JS1VU51A1G2100129,,,9996,2016,austin
+1301,Used 2016 Yamaha YZF-R3,gas,5462,blue,clean,other,,,,MH3RH06Y8GK011440,,,5196,2016,austin
+1302,Used 2017 Can-Am® Spyder® F3-S 6-Speed Semi-Automatic (SE6),gas,798,black,clean,other,,,,2BXRDDD2XHV002054,,,16999,2017,austin
+1303,Used 2017 Harley-Davidson Dyna Low Rider S,gas,3908,black,clean,other,,,,1HD1GS816HC303561,,,18991,2017,austin
+1304,Used 2017 Harley-Davidson Road Glide,gas,10094,silver,clean,other,,,,1HD1KHC18HB603973,,,20491,2017,austin
+1305,Used 2017 Harley-Davidson Road King,gas,18445,silver,clean,other,,,,1HD1FBC10HB643417,,,16991,2017,austin
+1306,Used 2017 Harley-Davidson S-Series Fat Boy,gas,20445,black,clean,other,,,,1HD1JT914HC034143,,,16991,2017,austin
+1307,Used 2017 Harley-Davidson Street Glide,gas,9792,black,clean,other,,,,1HD1KBC11HB639968,,,20991,2017,austin
+1308,Used 2017 Harley-Davidson Ultra Limited,gas,8475,silver,clean,other,,,,1HD1KED14HB614062,,,21991,2017,austin
+1309,Used 2017 Honda® CB500X ABS,gas,5908,red,clean,other,,,,MLHPC4608H5400047,,,6896,2017,austin
+1310,Used 2017 Honda® VFR1200X,gas,3878,red,clean,automatic,,,,JH2SC760XHK100064,,,11596,2017,austin
+1311,Used 2017 Indian Motorcycle® Chieftain® Silver Smoke,gas,7327,silver,clean,automatic,,,,56KTCAAA7H3343569,,,17996,2017,austin
+1312,Used 2017 Kawasaki Ninja® ZX-10RR in Black @ Ridenow,gas,2187,black,clean,other,,,,JKAZXCZ16HA000343,,,16991,2017,dallas
+1313,Used 2017 Triumph Speed Triple S ABS Phantom Black,gas,3722,black,clean,other,,,,SMTN50PP7HJ793766,,,10896,2017,austin
+1314,Used 2017 Triumph Street Cup Racing Yellow/Silver Ice,gas,1348,,clean,automatic,,,,SMTD50GNXHT790049,,,8296,2017,austin
+1315,Used 2017 Yamaha SCR950,gas,1024,red,clean,other,,,,JYAVN08E9HA000135,,,5993,2017,austin
+1316,Used 2018 Harley-Davidson Electra Glide Ultra Classic,gas,29732,black,clean,other,,,,1HD1FCC11JB656091,,,19991,2018,austin
+1317,Used 2018 Harley-Davidson Fat Boy,gas,2125,,clean,other,,,,1HD1YFJ14JC031385,,,16993,2018,austin
+1318,Used 2018 Harley-Davidson Forty-Eight,gas,10740,black,clean,other,,,,1HD1LC336JC427037,,,11991,2018,austin
+1319,Used 2018 Harley-Davidson Road Glide,gas,3016,black,clean,other,,,,1HD1KRC10JB683362,,,21491,2018,austin
+1320,Used 2018 Harley-Davidson Street Glide,gas,3016,black,clean,other,,,,1HD1KRC10JB683362,,,20491,2018,austin
+1321,Used 2018 Harley-Davidson Tri Glide Ultra Classic,gas,204,black,clean,other,,,,1HD1MAD17JB850343,,,34991,2018,austin
+1322,Used 2018 Indian Motorcycle® Roadmaster® ABS Thunder Black in Black,gas,968,black,clean,other,,,,56KTRAAA8J3369375,,,22491,2018,dallas
+1323,Used 2018 Polaris® Slingshot® SLR Electric Blue,gas,3067,blue,clean,other,,,,57XAARFA8J8127885,,,27496,2018,austin
+1324,Used 2018 Suzuki V-Strom 1000 in Black @ Ridenow,gas,2679,black,clean,other,,,,JS1VU51A3J2101550,,,8891,2018,dallas
+1325,Used 2019 Can-Am® Spyder® RT Limited Dark in Gray @ Ridenow,gas,14335,,clean,other,,,,2BXNBDD26KV001625,,,23992,2019,dallas
+1326,Used 2019 Can-Am® Spyder® RT in White @ Ridenow,gas,13299,white,clean,other,,,,2BXNBDD25KV002023,,,23992,2019,dallas
+1327,Used 2019 Harley-Davidson Electra Glide Police,gas,11134,black,clean,other,,,,1HD1FMP15KB644950,,,18991,2019,austin
+1328,Used 2019 Harley-Davidson Electra Glide Ultra Classic,gas,38158,black,clean,other,,,,1HD1FCC10KB654902,,,19991,2019,austin
+1329,Used 2019 Harley-Davidson Iron 1200,gas,1555,black,clean,other,,,,1HD1LP314KC432177,,,10991,2019,austin
+1330,Used 2019 Harley-Davidson Street Glide,gas,15388,red,clean,other,,,,1HD1KBC14KB629216,,,21992,2019,austin
+1331,Used 2019 Honda® Africa Twin Adventure Sports CRF1000L2 DCT,gas,2060,,clean,other,,,,JH2SD0457KK300202,,,16299,2019,austin
+1332,Used 2019 Honda® Ruckus,gas,384,white,clean,other,,,,JH2AF5816KK702996,,,2796,2019,austin
+1333,Used 2019 Indian Motorcycle® Springfield® Dark Horse® White Smoke,gas,2762,white,clean,other,,,,56KTHDAA9K3371531,,,20491,2019,dallas
+1334,Used 2019 Indian Motorcycle® Springfield® Thunder Black in Black @,gas,,black,clean,other,,,,56KTHAAAXK3373481,,,17992,2019,dallas
+1335,Used 2019 KTM 450 SX-F,gas,,white,clean,other,,,,VBKSXR438KM354498,,,8696,2019,austin
+1336,Used 2019 Polaris® Slingshot® Grand Touring,gas,496,black,clean,other,,,,57XAAPFA9K8135824,,,32993,2019,austin
+1337,Used 2019 Suzuki GSX-R750 in White @ Ridenow,gas,5344,white,clean,other,,,,JS1GR7MA2K7100959,,,11993,2019,dallas
+1338,Used 2020 Harley-Davidson Forty-Eight,gas,1343,,clean,other,,,,1HD1LC314LB410003,,,11491,2020,austin
+1339,Used 2020 Harley-Davidson Softail Slim,gas,2812,black,clean,other,,,,1HD1YDJ10LB026715,,,16991,2020,austin
+1340,Used 2020 Harley-Davidson Street Bob,gas,7677,,clean,other,,,,1HD1GXM14HC314853,,,15992,2020,austin
+1341,Used 2020 Harley-Davidson Street Glide,gas,1299,black,clean,other,,,,1HD1KBC11LB667195,,,23991,2020,austin
+1342,Used 2020 Honda® Super Cub C125 ABS,gas,254,red,clean,other,,,,MLHJA4858L5101798,,,3599,2020,austin
+1343,Used 2020 Indian Motorcycle® Scout® Bobber Twenty ABS Thunder Black,gas,2487,black,clean,other,,,,56KMTG009L3159162,,,12492,2020,dallas
+1344,Used 2020 Kawasaki Vulcan® 900 Custom,gas,1498,black,clean,other,,,,JKAVN2C1XLA074476,,,8493,2020,austin
+1345,Used 2020 Kawasaki Z650 ABS Metallic Spark Black,gas,14534,black,clean,automatic,,,,ML5EREK15LDA09804,,,7196,2020,austin
+1346,Used 2020 Triumph Daytona Moto2 765 Limited Edition in Black @,gas,1504,black,clean,other,,,,SMTA204K8LJAB1658,,,14492,2020,dallas
+1347,Used 2020 Yamaha YZ450F,gas,,blue,clean,other,,,,JYACJ26C1LA001269,,,8999,2020,austin
+1348,Used 2020 Yamaha YZF-R1 in Blue @ Ridenow,gas,2572,blue,clean,other,,,,JYARN66E9LA000409,,,16493,2020,dallas
+1349,Used 2021 Can-Am® Ryker Rally Edition 900 ACE,gas,37,black,clean,other,,,,3JB2GEG26MJ004117,,,12999,2021,austin
+1350,Used 2021 Harley-Davidson Road Glide,gas,1264,,clean,other,,,,1HD1KTP11MB603112,,,22491,2021,austin
+1351,Used 2021 Harley-Davidson Road Glide Special,gas,1264,,clean,other,,,,1HD1KTP11MB603112,,,29491,2021,austin
+1352,Used 2021 Harley-Davidson Street Glide Special,gas,648,green,clean,other,,,,1HD1KRP15MB673456,,,28891,2021,austin
+1353,Used 2021 Honda® CBR1000RR,gas,214,black,clean,automatic,,,,JH2SC7712MK400201,,,14999,2021,austin
+1354,Used 2021 Honda® Gold Wing Tour,gas,171,red,clean,other,,,,JH2SC7902MK300345,,,27296,2021,austin
+1355,Used 2021 Indian Scout,gas,5077,black,clean,other,,,,56KMSA006M3168399,,,13991,2021,austin
+1356,Used 2021 Polaris® Slingshot® R Autodrive,gas,468,orange,clean,automatic,,,,57XAARHB3M8145995,,,32993,2021,austin
+1357,YZ 85 2021,gas,10,,,manual,excellent,,dirtbike,,,,4800,2021,dallas
+1358,Yamaha Fz07 - 2017,gas,25000,black,clean,manual,good,689,sport bike,JYARM06E0GA006721,,,7000,2017,dallas
+1359,Yamaha MT09 2018,gas,4548,grey,clean,manual,like new,850,street,,,,7800,2018,dallas
+1360,Yamaha Stryker 2014,gas,13335,,clean,other,,,,JYAVP33Y4EA000956,,,5000,2014,dallas
+1361,honda CTX 700cc 2019,gas,5576,blue,clean,automatic,like new,700,cruiser,,,,8000,2019,houston
+1362,2020 OTHER MU SR/S FZ 14.4 STANDARD  -Premium Dealer!,,,,,,,,,,,,17995,2020,amarillo
+1363,2010 Ducati StreetFighter  -Finance it with Instant Credit Approval!,,,,,,,,,,,,7995,2010,amarillo
+1364,2010 Harley-Davidson Street Glide CVO FLHXSE,,,,,,,,,,,,16799,2010,amarillo
+1365,2016 Ural Gear-Up  -Finance it with Instant Credit Approval!,,,,,,,,,,,,18995,2016,amarillo
+1366,2005 Harley-Davidson® FLHTCUI - Electra Glide,,,,,,,,,,,,6999,2005,amarillo
+1367,2020 Kawasaki Ninja® ZX™-10R ABS,,,,,,,,,,,,15999,2020,amarillo
+1368,2016 Indian Motorcycle Scout Sixty Thunder Black  -Premium Dealer!,,,,,,,,,,,,9995,2016,amarillo
+1369,2021 Harley-Davidson Cruiser Low Rider S Harley-Davidson Cruiser,,,,,,,,,,,,19999,2021,amarillo
+1370,"2010 Victory ""Cross Roads"" Bagger/Touring Motorcycle",,,,,,,,,,,,6900,2010,amarillo
+1371,2003 HARLEY ULTRA CLASSIC 100th Anniversary FLHTCUI - Collector Ultra,,,,,,,,,,,,8800,2003,amarillo
+1372,2015 HD ELECTRA GLIDE ULTRA CLASSIC LO,,,,,,,,,,,,17975,2015,amarillo
+1373,1997 Kawasaki Vulcan VN1500D Classic for sale or trade AWESOME BIKE!!!,,,,,,,,,,,,4000,1997,amarillo
+1374,2020 Honda Ruckus,,,,,,,,,,,,2300,2020,beaumont
+1375,2015 Harley-Davidson XG500 Street 500 - FINANCING AVAILABLE!,,,,,,,,,,,,8190,2015,beaumont
+1376,2013 Suzuki GSX-R1000 - FINANCING AVAILABLE!,,,,,,,,,,,,9990,2013,beaumont
+1377,2003 Yamaha YZF R6  -Finance it with Instant Credit Approval!,,,,,,,,,,,,4995,2003,beaumont
+1378,2018 Harley Softail Slim FLS - Very Low miles,,,,,,,,,,,,17500,2018,beaumont
+1379,Honda CRF250x - Supermoto- 2006,,,,,,,,,,,,3995,2006,beaumont
+1380,2005 Harley-Davidson® FLHRS - Road King Custom V Twin 1442.1 cc,,,,,,,,,,,,7985,2005,beaumont
+1381,"2014 Harley-Davidson Ultra Limited - Only 4,302 miles!!",,,,,,,,,,,,17300,2014,beaumont
+1382,2016 Indian Motorcycle Chief Vintage Thunder Black  -Premium Dealer!,,,,,,,,,,,,14995,2016,beaumont
+1383,2011 Harley Road Glide Ultra 103 - Extremely low miles,,,,,,,,,,,,14000,2011,beaumont
+1384,2020 Ducati Monster 821 Stealth Special Black  -Premium Dealer!,,,,,,,,,,,,12995,2020,beaumont
+1385,1971 honda trail 70,,,,,,,,,,,,2900,1971,beaumont
+1386,1961 R60/2 with SIDECAR,,,,,,,,,,,,18500,1961,beaumont
+1387,1996 Ducati 900 Supersport  -Premium Dealer!,,,,,,,,,,,,6995,1996,beaumont
+1388,2014 Harley Ultra Classic - Extremely Clean - Very Low Miles!,,,,,,,,,,,,15700,2014,beaumont
+1389,2016 Ducati Diavel Dark Stealth,,,,,,,,,,,,11950,2016,austin
+1390,2019 Harley-Davidson® FXBB - Softail® Street Bob®,,,,,,,,,,,,14950,2019,austin
+1391,2018 BMW R 1200 GS Lupin Blue Metallic Premium  -Premium Dealer!,,,,,,,,,,,,8995,2018,austin
+1392,2021 Honda CRF250F,,,,,,,,,,,,4300,2021,austin
+1393,2005 HD FLHPI - Road King Police,,,,,,,,,,,,7500,2005,austin
+1394,2015 Harley-Davidson® FLTRX - Road Glide®,,,,,,,,,,,,17380,2015,austin
+1395,2014 Harley-Davidson® FLD - Dyna® Switchback,,,,,,,,,,,,11950,2014,austin
+1396,2011 Harley-Davidson® FLHTK - Electra Glide® Ultra Limited,,,,,,,,,,,,11496,2011,austin
+1397,2018 Harley-Davidson® FLHTCU - Electra Glide® Ultra Classic®,,,,,,,,,,,,22950,2018,austin
+1398,2017 Harley-Davidson® FLTRU - Road Glide® Ultra,,,,,,,,,,,,21980,2017,austin
+1399,2020 Harley-Davidson® FXST - Softail® Standard,,,,,,,,,,,,13450,2020,austin
+1400,2016 Yamaha R3 ABS - Sportbike,,,,,,,,,,,,4500,2016,austin
+1401,2013 Harley Softail slim,,,,,,,,,,,,10000,2013,austin
+1402,2007 Honda Rebel 250,,,,,,,,,,,,2300,2007,austin
+1403,2020 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,29980,2020,austin
+1404,2021 Royal Enfield Himalayan Rock Red  -Premium Dealer!,,,,,,,,,,,,4995,2021,austin
+1405,Kawasaki KLR650 Dual Sport Motorcycle 2008,,,,,,,,,,,,4200,2008,austin
+1406,2018 Harley-Davidson® FLHXS - Street Glide® Special,,,,,,,,,,,,27980,2018,austin
+1407,2017 Triumph Bonneville T120 Black Jet Black  -Premium Dealer!,,,,,,,,,,,,8995,2017,austin
+1408,2013 Harley-Davidson® FLTRU - Road Glide® Ultra,,,,,,,,,,,,15950,2013,austin
+1409,2014 Kawasaki Vulcan® 900 Classic LT,,,,,,,,,,,,5196,2014,austin
+1410,2015 Kawasaki KX450F - Fuel Injected - Clean Title,,,,,,,,,,,,4400,2015,austin
+1411,2016 Harley-Davidson® FLHTKL - Ultra Limited Low,,,,,,,,,,,,20950,2016,austin
+1412,2019 Harley-Davidson® XL 883N - Sportster® Iron 883,,,,,,,,,,,,9980,2019,austin
+1413,2015 Honda Grom  -Finance it with Instant Credit Approval!,,,,,,,,,,,,2495,2015,austin
+1414,2021 Harley-Davidson® FLHTCUTG - Tri Glide® Ultra,,,,,,,,,,,,37850,2021,austin
+1415,2018 Harley-Davidson® XL1200CX - Sportster® Roadster,,,,,,,,,,,,10950,2018,austin
+1416,2020 Harley-Davidson® FLHTCUTG - Tri Glide® Ultra,,,,,,,,,,,,35450,2020,austin
+1417,2001 Harley-Davidson® FXDWG2 - Wide Glide® CVO,,,,,,,,,,,,9950,2001,austin
+1418,1972 KAWASAKI S2 350 TRIPLE VERY RARE!!,,,,,,,,,,,,3400,1972,austin
+1419,2009 Honda CRF 80F,,,,,,,,,,,,1500,2009,austin
+1420,2017 Harley-Davidson® FLSTN - Softail® Deluxe,,,,,,,,,,,,18950,2017,austin
+1421,2010 H-D 1200 Low Sportster,,,,,,,,,,,,5800,2010,austin
+1422,2011 Harley-Davidson® FLTRX - Road Glide® Custom,,,,,,,,,,,,13450,2011,austin
+1423,2019 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,20950,2019,austin
+1424,2021 Harley-Davidson® FLTRX - Road Glide®,,,,,,,,,,,,23950,2021,austin
+1425,2021 Harley-Davidson® Softail FXBBS - Street Bob 114 V Twin 1868 cc,,,,,,,,,,,,16985,2021,austin
+1426,2019 Harley-Davidson® FLTRX - Road Glide®,,,,,,,,,,,,20950,2019,austin
+1427,2015 Harley Davidson Sportster Forty Eight 48,,,,,,,,,,,,6500,2015,austin
+1428,2016 Harley-Davidson® FXDB - Dyna® Street Bob®,,,,,,,,,,,,12997,2016,austin
+1429,2014 Harley-Davidson® FLS - Softail Slim®,,,,,,,,,,,,10996,2014,austin
+1430,2020 MV Agusta Turismo Veloce 800 Rosso  -Premium Dealer!,,,,,,,,,,,,11995,2020,austin
+1431,2018 BMW R 1200 GS Espresso Metallic  -Premium Dealer!,,,,,,,,,,,,14995,2018,austin
+1432,2017 Harley-Davidson® FLHXSE - CVO Street Glide®,,,,,,,,,,,,32950,2017,austin
+1433,2020 Harley-Davidson® FLHXS - Street Glide® Special,,,,,,,,,,,,29450,2020,austin
+1434,2014 Harley-Davidson® FLSTC - Heritage Softail® Classic,,,,,,,,,,,,13450,2014,austin
+1435,2019 Harley-Davidson® FXDRS - FXDR 114,,,,,,,,,,,,17450,2019,austin
+1436,2016 Moto Guzzi Audace ABS  -Premium Dealer!,,,,,,,,,,,,9995,2016,austin
+1437,2006 Road star 1700cc Bobber,,,,,,,,,,,,4500,2006,austin
+1438,2009 Harley Davidson Dyna Superglide,,,,,,,,,,,,6500,2009,austin
+1439,2005 Harley-Davidson® XL1200C - Sportster® Custom 1200,,,,,,,,,,,,4950,2005,austin
+1440,2017 Indian Motorcycle Scout Ivory Cream  -Premium Dealer!,,,,,,,,,,,,10995,2017,austin
+1441,1992 Custom R100,,,,,,,,,,,,10500,1992,austin
+1442,2013 Ural Gear Up - 2wd Adventure Sidecar Motorcycle,,,,,,,,,,,,10900,2013,austin
+1443,2011 Harley-Davidson® FLHTCU - Ultra Classic® Electra Glide®,,,,,,,,,,,,13950,2011,austin
+1444,"2015 Harley-Davidson® FLRT - Freewheeler 120"" Motor",,,,,,,,,,,,21250,2015,austin
+1445,2015 Yamaha YZF-R3  -Finance it with Instant Credit Approval!,,,,,,,,,,,,3995,2015,austin
+1446,2020 Suzuki SV650 ABS  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5995,2020,austin
+1447,2018 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,23960,2018,austin
+1448,2016 Harley-Davidson® FLHTCUL - Electra Glide Ultra Classic Low V Twin,,,,,,,,,,,,19985,2016,austin
+1449,2022 Indian Scout Rogue ABS Black Metallic V Twin 1133 cc,,,,,,,,,,,,12399,2022,austin
+1450,2021 *ICE BEAR* *MADDOG* *TRIKE* *NEAT* TRIKE AUTOMATIC!,,,,,,,,,,,,3495,2021,austin
+1451,2021 *ICE BEAR* *PAD* *60CC* *Automatic* *Dirt* *Bike*...BRAND NEW!,,,,,,,,,,,,995,2021,austin
+1452,2021 *ICE BEAR* *CHAMPION* *Monkey* Clone,,,,,,,,,,,,1995,2021,austin
+1453,2021 *ICE BEAR* *FUERZA* *125* *GROM* CLONE...BRAND NEW!,,,,,,,,,,,,2495,2021,austin
+1454,2021 *ICE BEAR* *MADDOG* *150* *AUTOMATIC* TRANS!,,,,,,,,,,,,2995,2021,austin
+1455,2021 *ICE BEAR* *FUERZA* *125* *GROM* CLONE...NEAT BIKE NEW!,,,,,,,,,,,,2495,2021,austin
+1456,2021 *ICE BEAR* *PAD* *125-3* *DIRT* BRAND NEW DIRT BIKE!,,,,,,,,,,,,2495,2021,austin
+1457,2020 Triumph Bonneville T120 Storm Grey/Baja Orange,,,,,,,,,,,,10950,2020,austin
+1458,2019 Harley-Davidson® FLHCS - Heritage Classic 114,,,,,,,,,,,,18950,2019,austin
+1459,2018 Triumph Bonneville Speedmaster,,,,,,,,,,,,11260,2018,austin
+1460,2014 Victory Motorcycles® Cross Roads 8-Ball® Gloss Black,,,,,,,,,,,,8950,2014,austin
+1461,Used 2020 Yamaha YZ450FX,,,,,,,,,,,,9299,2020,austin
+1462,Used 2018 Yamaha Super Tenere ES,,,,,,,,,,,,15996,2018,austin
+1463,2015 Honda Metropolitan  -Finance it with Instant Credit Approval!,,,,,,,,,,,,1495,2015,austin
+1464,2019 YZ 250f,,,,,,,,,,,,5250,2019,austin
+1465,2021 Indian Chieftain Limited Radar Blue V Twin,,,,,,,,,,,,28749,2021,austin
+1466,2015 Harley-Davidson® FLTRXS - Road Glide® Special,,,,,,,,,,,,17960,2015,austin
+1467,2014 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,15960,2014,austin
+1468,2015 Harley-Davidson® FLTRUSE - CVO Road Glide® Ultra,,,,,,,,,,,,25450,2015,austin
+1469,2014 Harley-Davidson® FLHR - Road King®,,,,,,,,,,,,12490,2014,austin
+1470,2015 Harley-Davidson® FLHXS - Street Glide® Special,,,,,,,,,,,,17950,2015,austin
+1471,Used 2014 Harley-Davidson Street Bob,,,,,,,,,,,,12991,2014,austin
+1472,Used 2021 Kawasaki Vulcan® 1700 Vaquero® ABS,,,,,,,,,,,,16996,2021,austin
+1473,Used 2016 Honda® Gold Wing Audio Comfort Navi XM ABS,,,,,,,,,,,,19996,2016,austin
+1474,2021 Harley-Davidson® FLHT - Electra Glide® Standard,,,,,,,,,,,,19950,2021,austin
+1475,2013 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,14950,2013,austin
+1476,2019 Honda® CB650R,,,,,,,,,,,,9450,2019,austin
+1477,2000 Excelsior Henderson Super-X  -Premium Dealer!,,,,,,,,,,,,9995,2000,austin
+1478,2018 Harley-Davidson XL883N Sportster Iron 883 - FINANCING AVAILABLE!,,,,,,,,,,,,8990,2018,dallas
+1479,2021 KAWASAKI Z900 ABS - FINANCING AVAILABLE!,,,,,,,,,,,,9190,2021,dallas
+1480,2013 Yamaha FZ8 - FINANCING AVAILABLE!,,,,,,,,,,,,6190,2013,dallas
+1481,2012 Suzuki GSX-R750 - FINANCING AVAILABLE!,,,,,,,,,,,,8590,2012,dallas
+1482,2017 Harley-Davidson FLHX Street Glide - FINANCING AVAILABLE!,,,,,,,,,,,,19390,2017,dallas
+1483,2020 Harley-Davidson FLHTK Ultra Limited - FINANCING AVAILABLE!,,,,,,,,,,,,25990,2020,dallas
+1484,2021 HONDA CBR1000RR-R FIREBLADE SP - FINANCING AVAILABLE!,,,,,,,,,,,,25590,2021,dallas
+1485,2001 Harley-Davidson® FXSTS - Springer Softail®,,,,,,,,,,,,9990,2001,dallas
+1486,2004 Harley-Davidson® XL1200C - Sportster® 1200 Custom,,,,,,,,,,,,4896,2004,dallas
+1487,2017 Harley-Davidson® FLHTKL - Ultra Limited Low,,,,,,,,,,,,20750,2017,dallas
+1488,1990 BMW  K-100 - Was Running When Parked,,,,,,,,,,,,1500,1990,dallas
+1489,1992 GSX 1100G - Retromod,,,,,,,,,,,,6995,1992,dallas
+1490,1998 SUZUKI TL 1000  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5995,1998,dallas
+1491,2017 Harley-Davidson® FLHTCUTG - Tri Glide® Ultra Classic Trike,,,,,,,,,,,,31750,2017,dallas
+1492,2018 BMW C 650 GT Black Storm Metallic  -Premium Dealer!,,,,,,,,,,,,7995,2018,dallas
+1493,2017 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,19996,2017,dallas
+1494,2017 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,18850,2017,dallas
+1495,2011 Yamaha FZ8 Naked Sportbike - Pristine Condition!,,,,,,,,,,,,4900,2011,dallas
+1496,2020 Harley-Davidson ELW - LiveWire  -Premium Dealer!,,,,,,,,,,,,27995,2020,dallas
+1497,2017 Harley-Davidson® FLTRX - Road Glide®,,,,,,,,,,,,18450,2017,dallas
+1498,2017 Harley-Davidson® FLSTFBS - Fat Boy® S,,,,,,,,,,,,16950,2017,dallas
+1499,2017 Harley-Davidson® FLHXSE - Screamin' Eagle Street Glide® CVO,,,,,,,,,,,,30950,2017,dallas
+1500,2017 Harley-Davidson® FLSS - Softail® Slim® S,,,,,,,,,,,,17950,2017,dallas
+1501,2007 Yamaha Vstar 1100,,,,,,,,,,,,2450,2007,dallas
+1502,Used 2020 Harley-Davidson® FLHTK - Ultra Limited in Black @ Ridenow,,,,,,,,,,,,27991,2020,dallas
+1503,2019 Royal Enfield Himalayan ABS  -Premium Dealer!,,,,,,,,,,,,4799,2019,dallas
+1504,1987 Honda Gold Wing Aspencade - Immaculate Survivor!,,,,,,,,,,,,5995,1987,dallas
+1505,2009 Harley-Davidson® FLHR - Road King®,,,,,,,,,,,,8499,2009,dallas
+1506,2005 Harley-Davidson® FLSTCI - Heritage Softail® Classic,,,,,,,,,,,,7996,2005,dallas
+1507,2018 Aprilia Tuono V4 1100 Factory ABS  -Premium Dealer!,,,,,,,,,,,,13495,2018,dallas
+1508,2013 Honda Ruckus - Stock,,,,,,,,,,,,2200,2013,dallas
+1509,2015 Yamaha FJ-09,,,,,,,,,,,,7999,2015,dallas
+1510,2011 Harley-Davidson® FLSTSE2 - Screamin' Eagle Softail®,,,,,,,,,,,,15950,2011,dallas
+1511,2001 Harley-Davidson® FXDWG - Dyna® Wide Glide®,,,,,,,,,,,,5990,2001,dallas
+1512,2000 Harley-Davidson® FLHRCI - Road King® Classic,,,,,,,,,,,,7499,2000,dallas
+1513,2012 Harley-Davidson® FLSTC - Heritage Softail® Classic,,,,,,,,,,,,9990,2012,dallas
+1514,2003 Suzuki LTA 50cc,,,,,,,,,,,,1100,2003,dallas
+1515,2017 Husqvarna 701 Enduro  -Finance it with Instant Credit Approval!,,,,,,,,,,,,7995,2017,dallas
+1516,2001 Honda Shadow Spirit 750DC,,,,,,,,,,,,3000,2001,dallas
+1517,2018 BMW R 1200 RT  -Finance it with Instant Credit Approval!,,,,,,,,,,,,12495,2018,dallas
+1518,2015 Yamaha Bolt C-Spec  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5495,2015,dallas
+1519,2016 Harley-Davidson® FXSB - Softail® Breakout®,,,,,,,,,,,,15750,2016,dallas
+1520,2016 Harley-Davidson® XL883N - Sportster® Iron 883,,,,,,,,,,,,6750,2016,dallas
+1521,2016 Harley-Davidson® VRSCF - V-Rod Muscle®,,,,,,,,,,,,14950,2016,dallas
+1522,2016 Harley-Davidson® FLSTFB - Softail® Fat Boy® Lo,,,,,,,,,,,,13950,2016,dallas
+1523,2020 YAMAHA YZ85 - FINANCING AVAILABLE!,,,,,,,,,,,,5190,2020,dallas
+1524,2008 BMW K 1200 S  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5995,2008,dallas
+1525,2016 Harley-Davidson® FLHTKSE - Screamin' Eagle Limited CVO,,,,,,,,,,,,28750,2016,dallas
+1526,2016 Harley-Davidson® XL883L - Sportster® SuperLow®,,,,,,,,,,,,6690,2016,dallas
+1527,2017 Harley-Davidson® XG750A - Street Rod,,,,,,,,,,,,5996,2017,dallas
+1528,2016 Harley-Davidson® FLHXSE - Screamin' Eagle Street Glide® CVO,,,,,,,,,,,,25950,2016,dallas
+1529,2008 Harley-Davidson FLHRC - Road King Classic  -Premium Dealer!,,,,,,,,,,,,7995,2008,dallas
+1530,2015 Yamaha WR450F Dual Sport Motorcycle,,,,,,,,,,,,6500,2015,dallas
+1531,2022 Grand Sale Start Trailmaster TM 27 - 125CC DB For Sale,,,,,,,,,,,,1349,2022,dallas
+1532,Used 2018 Harley-Davidson® XL1200NS - Sportster® Iron 1200™  in White @ Ride,,,,,,,,,,,,7945,2018,dallas
+1533,2011 Harley-Davidson® FXDC - Dyna® Super Glide® Custom,,,,,,,,,,,,9996,2011,dallas
+1534,2016 Harley-Davidson® FLHXS - Street Glide® Special,,,,,,,,,,,,18950,2016,dallas
+1535,2016 Harley-Davidson® XL1200CX - Roadster,,,,,,,,,,,,9750,2016,dallas
+1536,2016 Harley-Davidson® FLTRUSE - Screamin' Eagle Road Glide Ultra®,,,,,,,,,,,,24750,2016,dallas
+1537,2003 Honda Goldwing Low miles,,,,,,,,,,,,9500,2003,dallas
+1538,2018 Harley-Davidson FLTRXS - Road Glide Special V Twin 1753.4 c,,,,,,,,,,,,22999,2018,dallas
+1539,Yamaha Fz6 2006,,,,,,,,,,,,3250,2006,dallas
+1540,2018 Suzuki GSX-S 1000F,,,,,,,,,,,,10500,2018,dallas
+1541,2016 Harley-Davidson® FLSTFBS - Fat Boy® S,,,,,,,,,,,,16850,2016,dallas
+1542,2016 Harley-Davidson® FXDF - Dyna® Fat Bob®,,,,,,,,,,,,12850,2016,dallas
+1543,2020 Harley-Davidson Softail FLFBS - Fat Boy 114 V Twin 1868 cc,,,,,,,,,,,,20500,2020,dallas
+1544,2015 Harley-Davidson® FLHXSE - Screamin' Eagle Street Glide® CVO,,,,,,,,,,,,24950,2015,dallas
+1545,2015 Harley-Davidson® XG500 - Street 500,,,,,,,,,,,,4999,2015,dallas
+1546,2015 Harley-Davidson® FLSTC - Heritage Softail® Classic,,,,,,,,,,,,12899,2015,dallas
+1547,2013 Harley-Davidson® XL1200V - Sportster® Seventy-Two®,,,,,,,,,,,,7699,2013,dallas
+1548,2006 Honda CBR600RR,,,,,,,,,,,,5500,2006,dallas
+1549,2015 Harley-Davidson® FLHTKSE - Screamin' Eagle Limited CVO,,,,,,,,,,,,25450,2015,dallas
+1550,2015 Harley-Davidson® XG750 - Street 750,,,,,,,,,,,,5750,2015,dallas
+1551,2015 Harley-Davidson® FXDF - Dyna® Fat Bob®,,,,,,,,,,,,12450,2015,dallas
+1552,2015 Harley-Davidson® XL1200X - Sportster® Forty-Eight®,,,,,,,,,,,,8750,2015,dallas
+1553,2011 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,11996,2011,dallas
+1554,2015 Harley-Davidson® XL883L - Sportster® SuperLow®,,,,,,,,,,,,7250,2015,dallas
+1555,2015 Harley-Davidson® FLHTCUL - Electra Glide® Ultra Classic® Low,,,,,,,,,,,,17450,2015,dallas
+1556,2015 Harley-Davidson® FXDWG - Dyna® Wide Glide®,,,,,,,,,,,,12590,2015,dallas
+1557,2015 Harley-Davidson® FXSB - Softail® Breakout®,,,,,,,,,,,,15750,2015,dallas
+1558,2004 HARLEY DAVIDSON V-ROD,,,,,,,,,,,,6480,2004,dallas
+1559,2014 Harley-Davidson® XL1200T - Sportster® SuperLow® 1200T,,,,,,,,,,,,7499,2014,dallas
+1560,2014 Harley-Davidson® FXDB - Dyna® Street Bob®,,,,,,,,,,,,11750,2014,dallas
+1561,2014 Harley-Davidson® FLHTKSE - Screamin' Eagle Limited CVO,,,,,,,,,,,,24950,2014,dallas
+1562,1983 Honda MiniTrail Z50R - SOLD,,,,,,,,,,,,500,1983,dallas
+1563,2013 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,14490,2013,dallas
+1564,2014 Harley-Davidson® FLHTCU - Electra Glide® Ultra Classic®,,,,,,,,,,,,14990,2014,dallas
+1565,2013 Harley-Davidson® VRSCDX - V-Rod® Night Rod® Special,,,,,,,,,,,,13750,2013,dallas
+1566,2013 Harley-Davidson® FLHTCUTG - Tri Glide® Ultra Classic® Trike,,,,,,,,,,,,24950,2013,dallas
+1567,2013 Harley-Davidson® FLSTFB - Softail® Fat Boy® Lo 110th,,,,,,,,,,,,13950,2013,dallas
+1568,2012 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,13950,2012,dallas
+1569,2007 Yamaha Royal Venture 1300,,,,,,,,,,,,7500,2007,dallas
+1570,2018 Harley-Davidson FLHX - Street Glide V Twin,,,,,,,,,,,,19999,2018,dallas
+1571,2013 Harley-Davidson® FXDWG - Dyna® Wide Glide®,,,,,,,,,,,,13950,2013,dallas
+1572,2012 Harley-Davidson® FLSTFB - Softail® Fat Boy® Lo,,,,,,,,,,,,9999,2012,dallas
+1573,2012 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,13950,2012,dallas
+1574,2012 Harley-Davidson® FLHTC - Electra Glide® Classic,,,,,,,,,,,,9999,2012,dallas
+1575,2017 Yamaha FZ-07/MT-07,,,,,,,,,,,,6000,2017,dallas
+1576,2009 Honda ST1300 PA -- SOLD,,,,,,,,,,,,4799,2009,dallas
+1577,2012 Harley-Davidson® FLHRC - Road King® Classic,,,,,,,,,,,,12996,2012,dallas
+1578,2012 Harley-Davidson® FLTRX - Road Glide® Custom,,,,,,,,,,,,14996,2012,dallas
+1579,2011 Harley-Davidson® FXDWG - Dyna® Wide Glide®,,,,,,,,,,,,9499,2011,dallas
+1580,1999 Kawasaki Voyager XII,,,,,,,,,,,,3200,1999,dallas
+1581,2010 Harley-Davidson® FLHRC - Road King® Classic,,,,,,,,,,,,9999,2010,dallas
+1582,2009 Harley-Davidson® FLHX - Street Glide®,,,,,,,,,,,,12950,2009,dallas
+1583,2011 Harley-Davidson® FLHX103 - Street Glide® PowerPak,,,,,,,,,,,,12950,2011,dallas
+1584,2011 Harley-Davidson® XL1200C - Sportster® 1200 Custom,,,,,,,,,,,,7250,2011,dallas
+1585,2008 Harley-Davidson® XL 1200L - Sportster® 1200 Low 105th,,,,,,,,,,,,5999,2008,dallas
+1586,2008 Harley-Davidson® FLSTC - Heritage Softail® Classic,,,,,,,,,,,,9850,2008,dallas
+1587,2008 Harley-Davidson® FLHTCU - Electra Glide® Ultra Classic®,,,,,,,,,,,,9499,2008,dallas
+1588,2008 Harley-Davidson® FLHTCU - Electra Glide® Ultra Classic® 105th,,,,,,,,,,,,10290,2008,dallas
+1589,2009 Harley-Davidson XR1200 - Sportster XR1200  -Premium Dealer!,,,,,,,,,,,,6995,2009,dallas
+1590,2007 Honda CBR 600RR  -Finance it with Instant Credit Approval!,,,,,,,,,,,,8995,2007,dallas
+1591,2012 Kawasaki Concours 14 ABS,,,,,,,,,,,,5799,2012,dallas
+1592,2020 Harley-Davidson Sportster XL883N - Iron 883 V Twin 883 cc,,,,,,,,,,,,7999,2020,dallas
+1593,2017 Softail Slim HO,,,,,,,,,,,,16200,2017,dallas
+1594,2008 Harley-Davidson® FXSTC - Softail® Custom 105th Anniversary,,,,,,,,,,,,9750,2008,dallas
+1595,2006 Harley-Davidson® FLHTPI - Electra Glide® Police,,,,,,,,,,,,8999,2006,dallas
+1596,2004 Harley-Davidson® FLSTCI - Heritage Softail® Classic,,,,,,,,,,,,8750,2004,dallas
+1597,2005 Harley-Davidson® FLHRI - Road King®,,,,,,,,,,,,9850,2005,dallas
+1598,2002 Harley-Davidson® FLSTF - Softail® Fat Boy®,,,,,,,,,,,,6999,2002,dallas
+1599,2000 Harley-Davidson® FXDWG - Dyna® Wide Glide®,,,,,,,,,,,,5899,2000,dallas
+1600,2016 Honda CB500F  -Finance it with Instant Credit Approval!,,,,,,,,,,,,3995,2016,dallas
+1601,2008 Harley-Davidson FLHX - Street Glide  -Premium Dealer!,,,,,,,,,,,,12995,2008,dallas
+1602,Used 2020 Harley-Davidson® FLTRK - Road Glide® Limited in Black @,,,,,,,,,,,,27492,2020,dallas
+1603,2015 Harley-Davidson Dyna FLD - Switchback V Twin 1689.5 cc,,,,,,,,,,,,10499,2015,dallas
+1604,2019 Ducati Hypermotard 950  -Premium Dealer!,,,,,,,,,,,,11495,2019,dallas
+1605,2021 BMW F 900 R Black Storm Met.  -Premium Dealer!,,,,,,,,,,,,9995,2021,dallas
+1606,2018 Harley-Davidson® XL1200NS - Sportster® Iron 1200,,,,,,,,,,,,9496,2018,dallas
+1607,1999 BMW R 1200 C  -Finance it with Instant Credit Approval!,,,,,,,,,,,,7995,1999,dallas
+1608,2009 Harley-Davidson® XL1200C - Sportster® 1200 Custom,,,,,,,,,,,,5850,2009,dallas
+1609,"2018 Can-Am Spyder F3 T SE6  (1-OWNER, LOW MILES, LIKE NEW!)",,,,,,,,,,,,19900,2018,dallas
+1610,2009 Harley-Davidson® FLHTCU - Electra Glide® Ultra Classic® Trike,,,,,,,,,,,,20950,2009,dallas
+1611,2009 Harley-Davidson® FXCW - Rocker,,,,,,,,,,,,10750,2009,dallas
+1612,2021 BMW R 18 Classic First Edition  -Premium Dealer!,,,,,,,,,,,,14995,2021,dallas
+1613,2022 KAWASAKI VERSYS -X 300 ABS,,,,,,,,,,,,6099,2022,dallas
+1614,2007 Honda Ruckus  -Finance it with Instant Credit Approval!,,,,,,,,,,,,1495,2007,dallas
+1615,2007 Harley-Davidson Dyna FXDB - Street Bob V Twin 1573.2 cc,,,,,,,,,,,,7499,2007,dallas
+1616,2013 Yamaha YZF-R1 Team Yamaha  -Premium Dealer!,,,,,,,,,,,,9995,2013,dallas
+1617,2008 Harley-Davidson® FLSTF - Softail® Fat Boy® 105th Anniversary,,,,,,,,,,,,10750,2008,dallas
+1618,2008 Harley-Davidson® FLSTF - Softail® Fat Boy®,,,,,,,,,,,,8750,2008,dallas
+1619,2007 Harley-Davidson® FXDWG - Dyna® Wide Glide,,,,,,,,,,,,8996,2007,dallas
+1620,2007 Harley-Davidson® FXDSE - Screamin' Eagle Dyna® CVO,,,,,,,,,,,,11950,2007,dallas
+1621,2012 Kawasaki Z1000  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5995,2012,dallas
+1622,2020 Suzuki Bouelvard M109R B.O.S.S.,,,,,,,,,,,,13500,2020,dallas
+1623,2011 H-D superglide in great condition,,,,,,,,,,,,7700,2011,dallas
+1624,2006 Yamaha Road Star Silverado V Twin 1670 cc,,,,,,,,,,,,4999,2006,dallas
+1625,2017 KTM 50 sx mini,,,,,,,,,,,,2500,2017,dallas
+1626,2008 CAN AM GS SM5,,,,,,,,,,,,9999,2008,dallas
+1627,2009 YZ250,,,,,,,,,,,,4200,2009,dallas
+1628,"2016 Ktm 350 SXF - Low Hours, Many Extras.  Excellent Condition",,,,,,,,,,,,6000,2016,dallas
+1629,2006 Harley-Davidson® FXDWGI - Dyna® Wide Glide®,,,,,,,,,,,,7590,2006,dallas
+1630,2006 Harley-Davidson® FXDI35 - Dyna® 35th Anniv. Super Glide,,,,,,,,,,,,11996,2006,dallas
+1631,1998 Honda VT600CD  -Finance it with Instant Credit Approval!,,,,,,,,,,,,2995,1998,dallas
+1632,2018 Triumph Tiger 800 XCX Phantom Black  -Premium Dealer!,,,,,,,,,,,,9995,2018,dallas
+1633,1975 Harley-Davidson,,,,,,,,,,,,9500,1975,dallas
+1634,1982 Honda CT90-110 Trail Bike,,,,,,,,,,,,3000,1982,dallas
+1635,1968 Honda CT90 Only 840 Original Miles,,,,,,,,,,,,1850,1968,dallas
+1636,2000 Honda Blackbird,,,,,,,,,,,,4500,2000,dallas
+1637,Harley Dyna Wide Glide 1500cc 2005,,,,,,,,,,,,7400,2005,dallas
+1638,2012 Harley-Davidson Tri Glide Ultra Classic FLHTCUTG,,,,,,,,,,,,26999,2012,dallas
+1639,2016 Yamaha YZF R1S Horizontal In-line 998 cc,,,,,,,,,,,,15599,2016,dallas
+1640,2019 Honda Shadow Aero Aero ABS V Twin 745 cc,,,,,,,,,,,,6999,2019,dallas
+1641,2015 Yamaha FZ-09  -Finance it with Instant Credit Approval!,,,,,,,,,,,,5495,2015,dallas
+1642,2017 Kawasaki KLR650  -Finance it with Instant Credit Approval!,,,,,,,,,,,,4995,2017,dallas
+1643,2016 KTM 390 Duke  -Finance it with Instant Credit Approval!,,,,,,,,,,,,3995,2016,dallas
+1644,2004 Harley-Davidson® FXSTD - Softail® Deuce,,,,,,,,,,,,7996,2004,dallas
+1645,1993 Harley-Davidson® FLSTN - Heritage Softail Nostalgia,,,,,,,,,,,,11950,1993,dallas
+1646,2000 Harley-Davidson® FLSTF - Fat Boy®,,,,,,,,,,,,6990,2000,dallas
+1647,2004 Harley-Davidson® FLSTC - Heritage Softail® Classic,,,,,,,,,,,,7490,2004,dallas
+1648,2005 Harley-Davidson® FLSTFI - Softail® Fat Boy®,,,,,,,,,,,,7990,2005,dallas
+1649,2002 Honda Shadow 750 Spirit - VT750DC,,,,,,,,,,,,3099,2002,dallas
+1650,1998 Harley-Davidson® FLSTF - Fat Boy® 95th Anniversary Edition,,,,,,,,,,,,7990,1998,dallas
+1651,2005 Harley Davison Lowrider,,,,,,,,,,,,9000,2005,dallas
+1652,2007 YZ250F,,,,,,,,,,,,2500,2007,dallas
+1653,2021 Suzuki GSXR GSX R GSX-R 750 for $259/mo a month!,,,,,,,,,,,,12595,2021,dallas
+1654,2018 Yamaha YZF R3 R 3 R-3 ABS for $107/mo a month!,,,,,,,,,,,,5195,2018,dallas
+1655,2014 Kawasaki Ninja  300 ABS for $86/mo a month!,,,,,,,,,,,,4195,2014,dallas
+1656,2010 HONDA GOLDWING GL1800 WITH CALIFORNIA SIDECAR VIPER TRIKE KIT,,,,,,,,,,,,24900,2010,dallas
+1657,2015 Suzuki DR 650S Single-Cylinder 644 cc,,,,,,,,,,,,5299,2015,dallas
+1658,2018 Harley-Davidson Sportster XL1200CX - Roadster V Twin 1202.8,,,,,,,,,,,,9999,2018,dallas
+1659,1988 Goldwing GL1500,,,,,,,,,,,,5000,1988,dallas
+1660,2017 Suzuki Hayabusa 1340,,,,,,,,,,,,13999,2017,dallas
+1661,2020 Triumph Rocket 3 GT Phantom Black  -Premium Dealer!,,,,,,,,,,,,16995,2020,dallas
+1662,2008 HD Night Rod Special,,,,,,,,,,,,9000,2008,dallas
+1663,1995 Kawasaki Voyager,,,,,,,,,,,,5000,1995,dallas
+1664,2017 KTM 500 EXC-F Supermoto,,,,,,,,,,,,9500,2017,dallas
+1665,2020 Yamaha MT 09 Horizontal In-line 847 cc,,,,,,,,,,,,8999,2020,dallas
+1666,2022 Suzuki RM-Z 450 Single-Cylinder 449 cc,,,,,,,,,,,,8999,2022,dallas
+1667,2007 Honda CBR600RR CBR 600 RR CBR-600-RR  FOR ONLY,,,,,,,,,,,,5995,2007,dallas
+1668,2018 Suzuki DR-Z400SM,,,,,,,,,,,,6999,2018,dallas
+1669,"2016 Polaris Slingshot SL $17,650",,,,,,,,,,,,17650,2016,dallas
+1670,Used 2014 Yamaha V Star® Custom 650 in Silver @ Ridenow,,,,,,,,,,,,3750,2014,dallas
+1671,Used 2016 Kawasaki Ninja® 650 ABS in Green @ Ridenow,,,,,,,,,,,,4993,2016,dallas
+1672,2013 Kawasaki Vulcan 900 Classic LT,,,,,,,,,,,,4999,2013,dallas
+1673,2013 Yamaha YZF R1 Horizontal In-line 998 cc,,,,,,,,,,,,10999,2013,dallas
+1674,2021 Yamaha YZF R1 Horizontal In-line 998 cc,,,,,,,,,,,,19999,2021,dallas
+1675,2007 Yamaha V Star 1100 Classic V Twin 1063 cc,,,,,,,,,,,,3999,2007,dallas
+1676,2017 CANAM RT and TRAILER,,,,,,,,,,,,17500,2017,dallas
+1677,2021 Harley-Davidson FLHXS - Street Glide Special,,,,,,,,,,,,28995,2021,dallas
+1678,2018 883/1250 iron,,,,,,,,,,,,7500,2018,corpuschristi
+1679,2021 Indian Chieftain Dark Horse Icon Crimson Metallic V Twin,,,,,,,,,,,,29749,2021,corpuschristi
+1680,2021 Harley-Davidson Trike FLHTCUTG - Tri Glide Ultra V Twin 186,,,,,,,,,,,,37985,2021,corpuschristi
+1681,2022 Indian Chieftain Dark Horse Quartz Gray V Twin 1890 cc,,,,,,,,,,,,28749,2022,corpuschristi
+1682,2006 Victory Motorcycles Kingpin® V Twin 1634 cc,,,,,,,,,,,,6985,2006,corpuschristi
+1683,2014 Ducati Panigale 1199S,,,,,,,,,,,,16500,2014,corpuschristi
+1684,1969 Harley Davidson FLH Shovelhead,,,,,,,,,,,,6900,1969,corpuschristi
+1685,2016 Harley Davison 48 1200XL,,,,,,,,,,,,9000,2016,corpuschristi
+1686,1981 BMW R100,,,,,,,,,,,,5600,1981,corpuschristi
+1687,2001 Harley-Davidson® FXSTD - Softail® Deuce,,,,,,,,,,,,7950,2001,corpuschristi
+1688,2018 Harley-Davidson® FLTRU - Road Glide® Ultra,,,,,,,,,,,,24950,2018,corpuschristi
+1689,2015 Indian Motorcycle® Chief® Classic,,,,,,,,,,,,12750,2015,corpuschristi
+1690,2017 Harley-Davidson FLHTK - Ultra Limited,,,,,,,,,,,,22000,2017,corpuschristi
+1691,2002 Yamaha R6 Runs and Drives,,,,,,,,,,,,2000,2002,corpuschristi
+1692,2010 Honda elite 110,,,,,,,,,,,,2650,2010,corpuschristi
+1693,2009 Harley Davidson EltraGlide Ultra Classic,,,,,,,,,,,,9600,2009,corpuschristi
+1694,2014 Harley-Davidson® FXSBSE - Screamin' Eagle Breakout® CVO,,,,,,,,,,,,19950,2014,corpuschristi
+1695,2016 Triumph Thruxton 1200,,,,,,,,,,,,10950,2016,corpuschristi
+1696,2006 Harley,,,,,,,,,,,,9900,2006,corpuschristi
+1697,2004 Harley-Davidson® FLHTCI - Electra Glide® Classic,,,,,,,,,,,,10950,2004,corpuschristi
+1698,2005 Harley-Davidson® FLHRCI - Road King® Classic,,,,,,,,,,,,8850,2005,corpuschristi
+1699,2019 Harley-Davidson® FLHR - Road King®,,,,,,,,,,,,18750,2019,corpuschristi
+1700,2010 Harley-Davidson® XL1200N - Sportster® Nightster,,,,,,,,,,,,6950,2010,corpuschristi
+1701,2020 Harley-Davidson® FXBB - Softail® Street Bob®,,,,,,,,,,,,14450,2020,corpuschristi
+1702,2002 HONDA GOLDWING 1800  TRIKE ADVENTURE - ONLY 58K MILES,,,,,,,,,,,,14500,2002,houston
+1703,2016 Harley Heritage Softail Classic - Low low miles,,,,,,,,,,,,13900,2016,houston
+1704,"2012 Honda GOLDWING 1800 TRIKE RAZOR w(IRS) ONLY 17K MILES - 23,900.00",,,,,,,,,,,,23900,2012,houston
+1705,2001 Ducati 996S - flawless showroom new example!,,,,,,,,,,,,12995,2001,houston
+1706,2018 Honda CTX700,,,,,,,,,,,,6500,2018,houston
+1707,1996 Suzuki GSXR 1100  -Finance it with Instant Credit Approval!,,,,,,,,,,,,6495,1996,houston
+1708,2019,,,,,,,,,,,,1500,2019,houston
+1709,2009 Harley-Davidson FXD - Dyna Super Glide  -Premium Dealer!,,,,,,,,,,,,5995,2009,houston
+1710,2019 Yamaha YZ450F dirt bike,,,,,,,,,,,,6950,2019,houston
+1711,2020 Kawasaki Versys 650 LT  -Premium Dealer!,,,,,,,,,,,,7595,2020,houston
+1712,2002 Honda Shadow 750,,,,,,,,,,,,2800,2002,houston
+1713,2018 Harley-Davidson Sportster XL883N - Iron 883 V Twin 883.3 cc,,,,,,,,,,,,8999,2018,houston
+1714,2019 Harley-Davidson Sportster XL 1200CX - Roadster V Twin 1202,,,,,,,,,,,,11299,2019,houston
+1715,2019 Harley-Davidson Sportster XL 883N - Iron 883 V Twin 883 cc,,,,,,,,,,,,9399,2019,houston
+1716,2004 Harley davidson sportster,,,,,,,,,,,,5000,2004,houston
+1717,2007 SUZUKI M109R - LOOKS AND RUNS PERFECT,,,,,,,,,,,,6900,2007,houston
+1718,2016 Harley-Davidson FLHTKSE - CVO Limited V Twin 1801 cc,,,,,,,,,,,,29999,2016,houston
+1719,2012  GOLDWING 1800 RAZOR (IRS) MOTOR TRIKE - LIKE NEW -ONLY 13K MILES,,,,,,,,,,,,25900,2012,houston
+1720,1983 Honda Goldwing GL1100-Whole/Parts,,,,,,,,,,,,1200,1983,houston
+1721,2016 Harley-Davidson Dyna FXDB - Street Bob V Twin 1689.5 cc,,,,,,,,,,,,13699,2016,houston
+1722,2018 Harley-Davidson FLHXS - Street Glide Special V Twin 1753.4,,,,,,,,,,,,25999,2018,houston
+1723,1979 Vespa P200E,,,,,,,,,,,,2850,1979,houston
+1724,"Honda VTX 1300 Tourer, 2007",,,,,,,,,,,,4200,2007,houston
+1725,2013 Suzuki GSX-R1000  -Finance it with Instant Credit Approval!,,,,,,,,,,,,8995,2013,houston
+1726,2020 KTM 85 SX 19/16  -Finance it with Instant Credit Approval!,,,,,,,,,,,,6899,2020,houston
+1727,2017 Yamaha FZ-07,,,,,,,,,,,,6000,2017,houston
+1728,2017 Triumph Tiger Explorer XRT CranberryRed  -Premium Dealer!,,,,,,,,,,,,9995,2017,houston
+1729,2018 Triumph Tiger 800 XCX Matt Khaki Green  -Premium Dealer!,,,,,,,,,,,,8995,2018,houston
+1730,2017 Triumph Bonneville Bobber Ironstone  -Premium Dealer!,,,,,,,,,,,,8495,2017,houston
+1731,2000  Suzuki,,,,,,,,,,,,10500,2000,houston
+1732,Used 2014 Yamaha YZ450F - Clear Title,,,,,,,,,,,,3990,2014,houston
+1733,2019 Harley-Davidson FLHXSE - CVO Street Glide V Twin,,,,,,,,,,,,40889,2019,houston
+1734,"2008 Honda Goldwing - Only 1,300 actual miles",,,,,,,,,,,,13000,2008,houston
+1735,2005 Yamaha Road Star Warrior  -Premium Dealer!,,,,,,,,,,,,4995,2005,houston
+1736,2003 VTX 1800C,,,,,,,,,,,,4500,2003,houston
+1737,1996 Honda VF 750 C DT MAGNA  -Premium Dealer!,,,,,,,,,,,,3995,1996,houston
+1738,2019 Suzuki Boulevard M109R B.O.S.S. V Twin 1783 cc,,,,,,,,,,,,13999,2019,houston
+1739,2019 Yamaha MT-09 09 Horizontal In-line 847 cc,,,,,,,,,,,,10105,2019,houston
+1740,2021 Red/Black Honda Goldwing DCT Tour Trike,,,,,,,,,,,,46700,2021,houston
+1741,2018 BMW R 1200 GS  -Finance it with Instant Credit Approval!,,,,,,,,,,,,10595,2018,houston
+1742,2017 Polaris Slingshot SLINGSHOT SL Sunset Red In-line 2384 cc,,,,,,,,,,,,25499,2017,houston
+1743,2000 Honda Shadow Spirit vt1100,,,,,,,,,,,,1500,2000,houston
+1744,Harley-Davidson Street Glide 2018,,,,,,,,,,,,13995,2018,houston
+1745,2019 Kawasaki Vulcan 1700 Vaquero ABS ABS V Twin 1700 cc,,,,,,,,,,,,14999,2019,houston
+1746,2019 Polaris Slingshot Slingshot SLR Icon Envy Green SLR ICON In,,,,,,,,,,,,46999,2019,houston
+1747,2019 Ducati Multistrada 1260 S Ducati Red  -Premium Dealer!,,,,,,,,,,,,20995,2019,houston
+1748,2003 Harley Davidson  100 year anniversary addition,,,,,,,,,,,,12000,2003,houston
+1749,2919 Honda Ruckus Plus Accessories,,,,,,,,,,,,3450,2919,houston
+1750,2016 Phantom Shadow,,,,,,,,,,,,6000,2016,houston
+1751,2009 Harley Street Glide bagger,,,,,,,,,,,,22000,2009,houston
+1752,2017 Polaris Slingshot SLR Turbo Silver SLR TURBO In-line 2384 cc,,,,,,,,,,,,23999,2017,houston
+1753,2006 Yamaha Warrior  -Finance it with Instant Credit Approval!,,,,,,,,,,,,4995,2006,houston
+1754,2018 Honda CB650F,,,,,,,,,,,,6000,2018,houston
+1755,2021 Ducati Streetfighter V4 Ducati Red,,,,,,,,,,,,20999,2021,houston
+1756,2012 FJR 1300,,,,,,,,,,,,5700,2012,houston
+1757,1982 Yamaha XJ1100,,,,,,,,,,,,850,1982,houston
+1758,2006 Kawasaki Vulcan 500 LTD  -Premium Dealer!,,,,,,,,,,,,2495,2006,houston
+1759,2020 Harley-Davidson® FLSL - Softail® Softail Slim®,,,,,,,,,,,,15788,2020,sanantonio
+1760,2021 Harley-Davidson® FLHR - Road King®,,,,,,,,,,,,20460,2021,sanantonio
+1761,1980 KZ1000,,,,,,,,,,,,3000,1980,sanantonio
+1762,2020 Harley-Davidson® FLTRXS - Road Glide® Special,,,,,,,,,,,,31450,2020,sanantonio
+1763,2018 Kawasaki KLX140L,,,,,,,,,,,,2995,2018,sanantonio
+1764,2011 YZ450F SOLD 🤠,,,,,,,,,,,,3750,2011,sanantonio
+1765,2021 Harley-Davidson® FLHXSE - Screamin' Eagle Street Glide® CVO,,,,,,,,,,,,41950,2021,sanantonio
+1766,2003 Harley-Davidson® XL1200C - Sportster® 1200 Custom 100th,,,,,,,,,,,,4950,2003,sanantonio
+1767,2014 Harley-Davidson® FLHTK - Ultra Limited,,,,,,,,,,,,15990,2014,sanantonio
+1768,2018 Harley-Davidson® FLHCS - Softail® Heritage Classic 114,,,,,,,,,,,,17460,2018,sanantonio
+1769,2019 Indian Motorcycle® Chieftain Dark Horse®,,,,,,,,,,,,22997,2019,sanantonio
+1770,2022 Indian Chief Bobber Black Metallic V Twin,,,,,,,,,,,,16985,2022,sanantonio
+1771,2018 Harley Davidson,,,,,,,,,,,,26500,2018,sanantonio
+1772,2007 Harley-Davidson® FLTR - Road Glide®,,,,,,,,,,,,8990,2007,sanantonio
+1773,2006 Harley-Davidson® FLST - Softail® Heritage,,,,,,,,,,,,8750,2006,sanantonio
+1774,2003 Harley Davidson Electra Glide,,,,,,,,,,,,7000,2003,sanantonio
+1775,2013 triump 675R,,,,,,,,,,,,9000,2013,sanantonio
+1776,2018 Harley-Davidson® FXLR - Softail® Low Rider®,,,,,,,,,,,,13850,2018,sanantonio
+1777,2021 Harley-Davidson® FLHXS - Street Glide® Special,,,,,,,,,,,,29460,2021,sanantonio
+1778,2020 Can-Am® Spyder® F3 Limited Dark,,,,,,,,,,,,23950,2020,sanantonio
+1779,2020 Indian Motorcycle® Scout® Bobber Twenty ABS,,,,,,,,,,,,13450,2020,sanantonio
+1780,2020 Indian Roadmaster Thunder Black V Twin 1901 cc,,,,,,,,,,,,28985,2020,sanantonio
+1781,2018 Harley-Davidson® Touring FLHTCU - Electra Glide Ultra Classic V T,,,,,,,,,,,,22985,2018,sanantonio
+1782,2022 Indian Chieftain Limited Deepwater Metallic V Twin 1890 cc,,,,,,,,,,,,28749,2022,sanantonio
+1783,2018 Ducati Multistrada 1200 Enduro Touring Red Longitudinal Twin 1198,,,,,,,,,,,,16985,2018,sanantonio
+1784,2022 Indian Chief Dark Horse Black Smoke V Twin 1890 cc,,,,,,,,,,,,16999,2022,sanantonio
+1785,2021 Harley-Davidson® FLFBS - Fat Boy® 114,,,,,,,,,,,,21460,2021,sanantonio
+1786,2020 Harley-Davidson® FLHTKSE - Screamin' Eagle Limited CVO,,,,,,,,,,,,40960,2020,sanantonio
+1787,2013 Harley Davidson Ultra Classic,,,,,,,,,,,,12000,2013,sanantonio
+1788,2009 Harley-Davidson Dyna Fat Bob FXDF,,,,,,,,,,,,10944,2009,sanantonio
+1789,2019 Harley-Davidson® FLHT - Electra Glide® Standard,,,,,,,,,,,,17950,2019,sanantonio
+1790,2019 Triumph Scrambler 1200 XE,,,,,,,,,,,,13850,2019,sanantonio
+1791,2015 Street Glide Special,,,,,,,,,,,,20000,2015,easttexas
+1792,2006 honda shadow areo,,,,,,,,,,,,2500,2006,easttexas
+1793,2010 Honda Stateline,,,,,,,,,,,,5995,2010,easttexas
+1794,2020 Harley-Davidson FLHTK - Ultra Limited V Twin 1868 cc,,,,,,,,,,,,29990,2020,easttexas
+1795,2018 Can-Am Spyder F3 S 6-Speed Semi-Automatic With Reverse ( I,,,,,,,,,,,,19590,2018,easttexas
+1796,2000 Harley-Davidson FLHTCUI - Electra Glide Ultra Classic,,,,,,,,,,,,8590,2000,easttexas
+1797,2005 Harley Davidson Sportster,,,,,,,,,,,,4000,2005,easttexas
+1798,1996 Yamaha Royal Star-13K miles,,,,,,,,,,,,3000,1996,waco
+1799,2014 Honda Shadow Aero 750,,,,,,,,,,,,4000,2014,waco
+1800,2002 Royal Enfield motorcycle,,,,,,,,,,,,3600,2002,waco
+1801,Royal Enfield motorcycle 2003,,,,,,,,,,,,3800,2003,waco
+1802,2008 Honda Goldwing GL1800 (Model VIIA-IICM),,,,,,,,,,,,10500,2008,waco
+1803,2021 *ROYAL ENFIELD* *METEOR *3 YEAR WARRANTY* Black,,,,,,,,,,,,4299,2021,waco
+1804,2018 *HONDA* *GOLDWING *NICE TOURING BIKE!!!* Red,,,,,,,,,,,,22995,2018,waco
+1805,2012 *HARLEY-DAVIDSON* *FLS SOFTAIL SLIM *NICE UPGRADES!!!,,,,,,,,,,,,9995,2012,waco
+1806,2013 *Harley-Davidson* *XL1200C *NICE UPGRADES!!!* Blac,,,,,,,,,,,,6995,2013,waco
