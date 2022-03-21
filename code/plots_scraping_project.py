@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[14]:
 
 
 #importing necessary libraries
@@ -13,22 +13,21 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-# In[2]:
+# In[21]:
 
 
 #read in data 
 
-path_parent = os.path.dirname(os.getcwd())
-os.chdir(path_parent)
-
 IN_PATH = os.path.join("Data", "new_final_clean.csv")
+
+
 OUTPUT_DIR_PLOTS = "plots"
 OUTPUT_DIR_DATA = "Data"
 
 Motorcycles_CV =    pd.read_csv(IN_PATH)
 
 
-# In[3]:
+# In[ ]:
 
 
 #data cleaning
@@ -54,7 +53,7 @@ Motorcycles_CV['City'] = Motorcycles_CV['City'].replace(['Sanantonio'],'San Anto
 Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 
 
-# In[4]:
+# In[ ]:
 
 
 #peeking at some of the data
@@ -62,14 +61,14 @@ Motorcycles_CV.loc[1567, 'Brand'] = 'Honda'
 Brand_counts = Motorcycles_CV['Brand'].value_counts()
 
 
-# In[5]:
+# In[16]:
 
 
 #exporting the CSV
 write_df1 = Motorcycles_CV.to_csv(os.path.join(OUTPUT_DIR_DATA, "final_clean.csv"))
 
 
-# In[6]:
+# In[ ]:
 
 
 #getting brand by city counts
@@ -80,7 +79,7 @@ brand_city = Motorcycles_CV.groupby(['Brand','City'])['Brand'].count().reset_ind
 write_df2 = brand_city.to_csv(os.path.join(OUTPUT_DIR_DATA, "brand_city_counts.csv"))
 
 
-# In[7]:
+# In[ ]:
 
 
 #creating brand popularity plot
@@ -105,7 +104,7 @@ ggsave(filename="plot1.png",
  
 
 
-# In[8]:
+# In[17]:
 
 
 #creating the data for plot 2
@@ -119,7 +118,7 @@ mean_brand = pd.read_csv(os.path.join("Data", "brand_avgs.csv"))
 mean_brand['Price'] = mean_brand['Price'].round()
 
 
-# In[9]:
+# In[18]:
 
 
 #Adding Plot 2 
@@ -144,7 +143,7 @@ ggsave(filename = "plot2.png",
       )
 
 
-# In[10]:
+# In[ ]:
 
 
 #cleaning data for color plot 
@@ -164,7 +163,7 @@ color_popularity['Color'] = color_popularity['Color'].str.capitalize()
                     
 
 
-# In[11]:
+# In[19]:
 
 
 #plotting color popularity 
@@ -200,7 +199,7 @@ plt.savefig('plots/plot3.png', dpi = 300)
          
 
 
-# In[12]:
+# In[ ]:
 
 
 #data wrangling for plot 4
