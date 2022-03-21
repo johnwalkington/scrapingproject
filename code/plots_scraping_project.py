@@ -17,10 +17,13 @@ import seaborn as sns
 
 
 #read in data 
+
+path_parent = os.path.dirname(os.getcwd())
+os.chdir(path_parent)
+
 IN_PATH = os.path.join("Data", "new_final_clean.csv")
 OUTPUT_DIR_PLOTS = "plots"
 OUTPUT_DIR_DATA = "Data"
-
 
 Motorcycles_CV =    pd.read_csv(IN_PATH)
 
