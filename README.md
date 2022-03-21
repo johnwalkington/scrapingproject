@@ -1,10 +1,12 @@
 ## Report
 
 ### Goal
-The goal of this project is to learn to scrape data from Craigslist and learn interesting information related to motorcycles.
+The goal of this project is to learn how to scrape data from Craigslist and to discover interesting trends in Texan's taste for motorcycles.
 
 ### Methodology - Data Scraping
-Once we decided to use Craigslist to scrape data for motorcycle listings, we decided to use BeautifulSoup to parse html codes of various cities in Texas. This created a data frame of product names and prices. When using BeautifulSoup, we used the pandas and request packages. After this, we worked within the data frame to find information for the year it was made and the brand from the product listing name. We did this because the product name had a lot of information about the motorcycle already; most of them had the brand, year, and other pertinent information in the product listing itself. After this, we used Selenium with the product names to automate search queries; this would loop through the product column to find information like color and odometer. When using Selenium, we used the pandas and numpy packages. We did this to automate the process and get it all on a dataframe instead of manually searching and clicking on each listing in Craigslist.
+Once we decided to use Craigslist to scrape data for motorcycle listings, we used BeautifulSoup to parse html codes of various cities in Texas. This created a data frame of product listings with their respective prices. The script also uses Pandas, os, and request. After this, we used this data frame to extract information for year and brand using the product listing. 
+
+Once we had this data, we used Selenium and product listings to automate search queries; this loops through the product column to find information like color and odometer. We did this to automate the process and export the data to a dataframe rather than manually searching and clicking on each listing in Craigslist. The script also uses pandas and numpy packages.
 
 ### Description of project and findings
 
