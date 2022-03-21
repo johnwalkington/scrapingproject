@@ -18,18 +18,15 @@ df=df.drop(having_one_word)
 df=df[['Product', 'fuel', 'odometer', 'paint_color', 'title_status',  'transmission', 'condition', 'engine_displaement', 
 'type', 'Price', 'year','City']]
 
-
-os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-df.to_csv("sorting.csv")
-
+outpath2 = os.path.join('Data', "sorting.csv")
+df.to_csv(outpath2)
 
 
-df2 = pd.read_csv("/Users/minjinkang/Desktop/scrapingproject/code/city_and_brand.csv")
-  
+df2 = pd.read_csv(os.path.join('Data', 'city_and_brand.csv'))  
 df['Brand']=df2['Brand']
 
-os.chdir("/Users/minjinkang/Desktop/scrapingproject/code")
-df.to_csv("merging.csv")
+outpath3 = os.path.join('Data', "merging.csv")
+df.to_csv(outpath3)
 
 #removing product which has weird brand
 
