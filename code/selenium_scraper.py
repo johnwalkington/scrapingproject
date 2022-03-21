@@ -11,7 +11,7 @@ import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 
-f = os.path.join('code', 'product_price_year_city_final.csv')
+f = os.path.join('Data', 'product_price_year_city_final.csv')
 df = pd.read_csv(f).iloc[:, 1:]
 df = df.drop_duplicates(subset = ['Product', 'Price'])
 df = df.reset_index()[['Product',  'Price', 'year',  'City']]
