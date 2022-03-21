@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import re
-df = pd.read_csv(os.path.join('Data', 'Major_Cities_Moto_Data.csv'))
+df = pd.read_csv(os.path.join('Data','Major_Cities_Moto_Data.csv'))
 
 df=df[df['Price']!=0]
 df['year']=df['Product'].apply(lambda x: x.split()[-1] if x.split()[-1].isnumeric() and 
