@@ -197,7 +197,7 @@ plt.savefig('plots/plot3.png', dpi = 300)
          
 
 
-# In[31]:
+# In[12]:
 
 
 #data wrangling for plot 4
@@ -207,6 +207,7 @@ filtered_cities = Motorcycles_CV[(Motorcycles_CV.City == "Austin") |
 
 
 
+#plotting plot 4! 
 
 plot_4 = (ggplot(filtered_cities)
  + aes(x='Brand', fill= 'Brand')
@@ -226,24 +227,6 @@ ggsave(filename = "plot4.png",
        width= 10,
        path= os.path.join(OUTPUT_DIR_PLOTS)
       )
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
