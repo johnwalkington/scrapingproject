@@ -4,8 +4,8 @@
 The goal of this project is to learn to scrape data from Craigslist and learn interesting information related to motorcycles.
 
 ### Methodology - Data Scraping
-Once we decided to use Craigslist to scrape data for motorcycle sales, we decided to use BeautifulSoup to parse html codes of various cities in Texas. This created a data frame of product names and prices. After this, we worked within the data frame to find information for the year it was made and the brand from the product listing name. We did this because the product name had a lot of information about the motorcycle already; most of them had the brand, year, and other pertinent information in the product listing itself. After this, we used Selenium with the product names to automate search queries; this would loop through the product column to find information like color and odometer. We did this to automate the process and get it all on a dataframe instead of manually searching and clicking on each one in Craigslist.
-packages: pandas, numpy, matplotlib, seaborn, request
+Once we decided to use Craigslist to scrape data for motorcycle sales, we decided to use BeautifulSoup to parse html codes of various cities in Texas. This created a data frame of product names and prices. When using BeautifulSoup, we used pandas and request packages. After this, we worked within the data frame to find information for the year it was made and the brand from the product listing name. We did this because the product name had a lot of information about the motorcycle already; most of them had the brand, year, and other pertinent information in the product listing itself. After this, we used Selenium with the product names to automate search queries; this would loop through the product column to find information like color and odometer. When using Selenium, we used pandas and numpy packages. We did this to automate the process and get it all on a dataframe instead of manually searching and clicking on each one in Craigslist.
+packages: matplotlib, seaborn, request
 
 ### Description of project and findings
 
@@ -17,6 +17,8 @@ When using Selenium, there was a cap on how much you can parse on the product ti
 
 #### Methodology - Data Visualization
 
+We then made plots to better visualize the scraped data. We wanted to find information about the most popular brands, average price by motorcycle brand, color popularity and favorite motorcycle brand by city. To do this, we used ggplot within plotnine. Additionally, we used matplotlib and seaborn.
+
 ![](plots/plot1.png)
 
 Plot 1 shows motorcycle brand popularity across all cities in Texas that were included in the dataset. We can see here that Harley Davidson is the most popular brand at over 600 listings. Honda, Kawasaki and Yamaha are the next most popular and all have around 200 listings.
@@ -24,9 +26,9 @@ Plot 1 shows motorcycle brand popularity across all cities in Texas that were in
 ![](plots/plot2.png)
 
 Plot 2 shows the average price by motorcycle brand across all cities in Texas that were included in the dataset. Polaris has the highest average price at over $20,000. Canam, Ducati, Harley Davidson, and Indian all have the next highest average price of around $15,000. Polaris' price could be skewed high due to the following reasons:
--Polaris bought Indian motorcycles in 2011, but we don't think anyone is misnaming Indian as Polaris in the plots
--Polaris owns Victory
--Polaris doesn't make motorcycles under their own brand, just the car-like slingshots, which could be the reason why the average price is so high
+- Polaris bought Indian motorcycles in 2011, but we don't think anyone is misnaming Indian as Polaris in the plots
+- Polaris owns Victory
+- Polaris doesn't make motorcycles under their own brand, just the car-like slingshots, which could be the reason why the average price is so high
 
 ![](plots/plot3.png)
 
@@ -36,6 +38,5 @@ Plot 3 shows the color popularity across all cities in Texas that were included 
 
 Plot 4 shows favorite brand by city. The cities of note were Austin, Dallas and Houston. Harley Davidson was the most popular brand in all three cities, which corroborates plot 1. All three cities follow a similar pattern and distribution, with the exception of Dallas having a higher number of listings of Yamaha than Austin and Houston do.
 
-![](plots/plot5.png)
-
-Plot 5 shows average price by motorcycle year across all cities in Texas that were included in the dataset. There was one outlier in 1940 that had a list price of $80,000. All other listings from 1960 to 1990 stayed within the $1,000 to $7,000 range. From 1990 onwards, the listing prices increased and stayed within the $3,000 to $15,000 range.
+### Reproducibility
+These are the instructions to rerun that analysis
