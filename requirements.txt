@@ -4,3 +4,5 @@ plotnine
 seaborn
 matplotlib
 selenium
+fake-useragent
+regex
