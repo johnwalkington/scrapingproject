@@ -16,7 +16,7 @@ When using Selenium, there was a cap on how much you can parse on the product ti
 #### Extensions
 
 #### Methodology - Data Visualization
-![Plot 1](https://github.com/[johnwalkington]/[scrapingproject]/blob/[plots]/plot1.png?raw=true)
+
 ![](plots/plot1.png)
 
 Plot 1 shows motorcycle brand popularity across all cities in Texas that were included in the dataset. We can see here that Harley Davidson is the most popular brand at over 600 listings. Honda, Kawasaki and Yamaha are the next most popular and all have around 200 listings.
