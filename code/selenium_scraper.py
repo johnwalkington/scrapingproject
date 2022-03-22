@@ -31,7 +31,7 @@ ua = UserAgent()
 user_agent = ua.random
 options.add_argument(f'user-agent={user_agent}')
 
-chrome_path = os.path.join('packages', 'chromedriver 3')
+chrome_path = os.path.join('drivers', 'chromedriver 3')
 driver = webdriver.Chrome(chrome_path, chrome_options=options)
 
 
