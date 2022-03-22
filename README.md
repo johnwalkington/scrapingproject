@@ -44,16 +44,13 @@ Some extensions of this analysis would be scraping data over longer periods of t
 
 
 ### Reproducibility
-These are the instructions to rerun that analysis.
-Order of pacakges to be installed to reproduce the analysis:
-1. requests
-2. beautifulsoup4
-3. plotnine
-4. seaborn
-5. matplotlib
-6. selenium
-7. fake-useragent
-8. regex
+In order to rerun the analysis, you will need to install the requirements which contains all the necessary packages, and then run the files in a certain order.
+
+In order to install the requirements, you will need to run "pip3 install -r requirements.txt"
 
 Once these pacakges are installed, the order of running the files is as follows:
-1. 
+1. url_to_dataframe.py
+2. city_and_brand.py
+3. selenium_scraper.py
+4. making_final.py
+5. plots_scraping_project.py
