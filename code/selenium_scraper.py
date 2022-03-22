@@ -11,27 +11,28 @@ import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.options import Options
 
-f = os.path.join('Data', 'city_and_brand.csv')
+f = os.path.join("Data", "city_and_brand.csv")
 df = pd.read_csv(f).iloc[:, 1:]
-df = df.drop_duplicates(subset = ['Product', 'Price'])
-df = df.reset_index()[['Product',  'Price', 'year',  'City']]
+df = df.drop_duplicates(subset=["Product", "Price"])
+df = df.reset_index()[["Product", "Price", "year", "City"]]
 
-df = df.drop_duplicates(subset = ['Product'])
-df = df.reset_index()[['Product', 'Price', 'year', 'City']]
-# Using the old dataframe to merge into the coming json object. 
+df = df.drop_duplicates(subset=["Product"])
+df = df.reset_index()[["Product", "Price", "year", "City"]]
+# Using the old dataframe to merge into the coming json object.
 
-np.warnings.filterwarnings('ignore')
+np.warnings.filterwarnings("ignore")
 
 # Passing in a fake user-agent so the automated searches look more natural.
 
 options = Options()
 options.add_argument("window-size=1400,600")
 from fake_useragent import UserAgent
+
 ua = UserAgent()
 user_agent = ua.random
-options.add_argument(f'user-agent={user_agent}')
+options.add_argument(f"user-agent={user_agent}")
 
-chrome_path = os.path.join('drivers', 'chromedriver 3')
+chrome_path = os.path.join("drivers", "chromedriver 3")
 driver = webdriver.Chrome(chrome_path, chrome_options=options)
 
 
@@ -45,11 +46,11 @@ d = {}
 # I recommend that you turn off sleep mode on your computer and let it run
 # overnight with the current time.sleep() settings.
 
-for string, city in list(zip(df['Product'], df['City'])):
+for string, city in list(zip(df["Product"], df["City"])):
     d = {}
     try:
         if string not in json.keys():
-            site = 'https://' + city + '.craigslist.org/'
+            site = "https://" + city + ".craigslist.org/"
             driver.get(site)
             search = driver.find_element_by_xpath('//*[@id="query"]')
             time.sleep(np.random.randint(2, 5))
@@ -60,54 +61,65 @@ for string, city in list(zip(df['Product'], df['City'])):
 
             search.send_keys(string)
             search.send_keys(Keys.RETURN)
-            driver.find_element_by_tag_name('h3').click()
+            driver.find_element_by_tag_name("h3").click()
             soup = BeautifulSoup(driver.page_source)
             out = []
             time.sleep(np.random.randint(2, 5))
-            for s in soup.find_all('p', {'class':'attrgroup'}): 
-                out.append(s.get_text(separator = '|').split('|'))
+            for s in soup.find_all("p", {"class": "attrgroup"}):
+                out.append(s.get_text(separator="|").split("|"))
             out = out[1:][0]
-            out = [o.replace('\n', '') for o in out if len(o) > 1]
+            out = [o.replace("\n", "") for o in out if len(o) > 1]
             time.sleep(np.random.randint(2, 5))
 
-            for i in range(len(out)-1): 
-                if out[i].strip()[-1] == ':':
-                    if out[i+1].strip()[-1] != ':':
-                        d[out[i]] = out[i+1]
-                    else: 
-                        d[out[i]] = 'Unknown'
+            for i in range(len(out) - 1):
+                if out[i].strip()[-1] == ":":
+                    if out[i + 1].strip()[-1] != ":":
+                        d[out[i]] = out[i + 1]
+                    else:
+                        d[out[i]] = "Unknown"
 
-            if len(d.keys()) == len(d.values()): 
+            if len(d.keys()) == len(d.values()):
                 json[string] = d
 
-    except: 
+    except:
         continue
 
 
 # Parsing json object into a dataframe / merging with old dataframe above:
 
 
-for d in json.keys(): 
-    json[d] = { k.replace(':', ''): v for k, v in json[d].items() }
-    json[d] = { k.strip(): v for k, v in json[d].items() }
+for d in json.keys():
+    json[d] = {k.replace(":", ""): v for k, v in json[d].items()}
+    json[d] = {k.strip(): v for k, v in json[d].items()}
 
 
-sample = pd.DataFrame.from_dict(json.values(), orient='columns')
-sample.reset_index(inplace = True)
-sample['index'] = json.keys()
+sample = pd.DataFrame.from_dict(json.values(), orient="columns")
+sample.reset_index(inplace=True)
+sample["index"] = json.keys()
 
 
-sample.columns = ['Product', 'fuel', 'odometer', 'paint_color', 'title_status',  'transmission', 
-                 'condition', 'engine_displaement', 'type', 'VIN', 'make', 
-                 'model']
-new = pd.concat([sample,df[['Product', 'City']]], ignore_index=True).drop_duplicates('Product').reset_index()
-del new['City']
-del new['index']
+sample.columns = [
+    "Product",
+    "fuel",
+    "odometer",
+    "paint_color",
+    "title_status",
+    "transmission",
+    "condition",
+    "engine_displaement",
+    "type",
+    "VIN",
+    "make",
+    "model",
+]
+new = (
+    pd.concat([sample, df[["Product", "City"]]], ignore_index=True)
+    .drop_duplicates("Product")
+    .reset_index()
+)
+del new["City"]
+del new["index"]
 
-final = new.merge(df, on = 'Product', how = 'inner')
-out_path = os.path.join("Data", 'Data_without_duplicates_and_all_info.csv')
+final = new.merge(df, on="Product", how="inner")
+out_path = os.path.join("Data", "Data_without_duplicates_and_all_info.csv")
 final.to_csv(out_path)
-
-
-
-
