@@ -1,7 +1,7 @@
 ## Report
 
 ### Goal
-The goal of this project is to learn how to scrape data from Craigslist and to discover interesting trends in Texan's taste for motorcycles.
+The goal of this project is to learn how to scrape data from Craigslist and to discover interesting trends in Texans' taste for motorcycles.
 
 ### Methodology - Data Scraping
 Once we decided to use Craigslist to scrape data for motorcycle listings, we used BeautifulSoup to parse html codes of various cities in Texas. This created a data frame of product listings with their respective prices. The script also uses Pandas, os, and request. After this, we used this data frame to extract information for year and brand using the product listing. 
