@@ -6,3 +6,5 @@ matplotlib
 selenium
 fake-useragent
 regex
+
+# Hard requirement: you must download the Chrome driver extension for google chrome, it must be in the downloads folder, and the file must be called "chrome driver 3"
